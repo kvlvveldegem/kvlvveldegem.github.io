@@ -10,7 +10,7 @@ main:
     url: /bestuur/
   - title: "Lid Worden"
     url: /lid-worden/
-  - title: "Foto's"
+  - title: "Fotogallerij"
     url: /fotos/
   - title: "Recepten"
     url: /recept/
