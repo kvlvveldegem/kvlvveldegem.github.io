@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "KVLV Veldegem"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "KVLV Veldegem"
+description              : "KVLV Veldegem - Vrouwen met Vaart"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : KvlvVeldegem
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Tom Kerkhove"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Webmaster"
+  location         : "Veldegem"
   email            :
   uri              :
   bitbucket        :
