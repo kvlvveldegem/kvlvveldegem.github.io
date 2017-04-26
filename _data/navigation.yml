@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Wat is KVLV?"
     url: /wat-is-kvlv/
   - title: "Agenda"
