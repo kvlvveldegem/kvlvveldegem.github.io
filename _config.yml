@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tom Kerkhove"
+  name             : "KVLV Veldegem"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Webmaster"
-  location         : "Veldegem"
+  bio              : "KVLV Veldegem - Vrouwen met Vaart"
+  location         : "kvlvveldegem@gmail.com"
   email            :
   uri              :
   bitbucket        :
