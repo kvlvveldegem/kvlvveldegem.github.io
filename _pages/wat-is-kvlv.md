@@ -1,11 +1,9 @@
 ---
 layout: archive
 permalink: /wat-is-kvlv/
-title: "Agenda"
+title: "Wat is KVLV?"
 author_profile: true
 ---
-# Wat is KVLV?
-
 KVLV, dat zijn Vrouwen met Vaart.
 KVLV wordt in één adem genoemd met Ons Kookboek, Ons Bakboek & Ons Breiboek.
 Maar er is zoveel meer...
