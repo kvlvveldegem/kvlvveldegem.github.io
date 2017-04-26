@@ -14,7 +14,7 @@ main:
     url: /fotos/
   - title: "Recepten"
     url: /recept/
-    - title: "Agra"
+  - title: "Agra"
     url: /agra/
   - title: "Contact"
     url: /contact/
