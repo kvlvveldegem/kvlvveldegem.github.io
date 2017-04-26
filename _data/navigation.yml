@@ -4,8 +4,10 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Wat is KVLV?"
     url: /wat-is-kvlv/
+  - title: "Agenda"
+    url: /agenda/
   - title: "Bestuur"
-    url: /Agenda/
+    url: /bestuur/
   - title: "Lid Worden"
     url: /lid-worden/
   - title: "Foto's"
