@@ -2,6 +2,24 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Wat is KVLV?"
+    url: /wat-is-kvlv/
+  - title: "Bestuur"
+    url: /Agenda/
+  - title: "Lid Worden"
+    url: /lid-worden/
+  - title: "Foto's"
+    url: /fotos/
+  - title: "Recepten"
+    url: /recept/
+    - title: "Agra"
+    url: /agra/
+  - title: "Contact"
+    url: /contact/
+  - title: "Links"
+    url: /links/
+
+  # Examples from the theme template
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
