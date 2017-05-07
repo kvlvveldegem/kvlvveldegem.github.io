@@ -2,10 +2,8 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <div>
+        <img src="http://onskookboek.kvlv.be/_/skins/layout/logo-kvlv.jpg" alt="KVLV Logo" />
         <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
-        </div>
-        <div>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
@@ -19,7 +17,6 @@
         <button><div class="navicon"></div></button>
         <ul class="hidden-links hidden"></ul>
       </nav>
-      </div>
     </div>
   </div>
 </div>
