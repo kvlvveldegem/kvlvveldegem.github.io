@@ -9,4 +9,5 @@ tags: ["Recept"]
 alias: ["/recept/sample"]
 author: Tom Kerkhove
 redirect_from:
+ - /recept/sample.html
 ---
