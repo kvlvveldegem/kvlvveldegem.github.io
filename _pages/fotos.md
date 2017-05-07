@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: /fotos/
-title: "Foto's'"
-author_profile: false
+title: "Foto's"
+author_profile: true
 ---
 
 - [Jaaropener 2017](https://www.flickr.com/photos/154196119@N08/albums/72157681407894741)
