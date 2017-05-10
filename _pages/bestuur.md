@@ -13,6 +13,6 @@ Allemaal vrijwilligers, allemaal gedreven enthousiaste vrouwen!
 Er woont zeker een bestuurslid in je buurt!
 
 
-|     |Naam         |Telefoonnummer|Rol        |
-|:----|:------------|:-------------|:----------|
+|Foto                                                             |Naam         |Telefoonnummer|Rol        |
+|:----------------------------------------------------------------|:------------|:-------------|:----------|
 |![Hilde Strubbe](./../assets/media/bestuur/hilde-strubbe-100.jpg)|Hilde Strubbe|050/27.95.35  |Voorzitster|
