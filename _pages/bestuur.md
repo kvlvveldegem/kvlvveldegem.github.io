@@ -16,4 +16,4 @@ Er woont zeker een bestuurslid in je buurt!
 |Foto                                                             |Naam         |Telefoonnummer|Rol        |
 |:----------------------------------------------------------------|:------------|:-------------|:----------|
 |![Hilde Strubbe](./../assets/media/bestuur/hilde-strubbe-100.jpg)|Hilde Strubbe|050/27.95.35  |Voorzitster|
-|<img src="./../assets/media/bestuur/hilde-strubbe-100.jpg" style=".align-center" />)|Hilde Strubbe|050/27.95.35  |Voorzitster|
+|<img src="./../assets/media/bestuur/hilde-strubbe-100.jpg" style="text-align: center" />|Hilde Strubbe|050/27.95.35  |Voorzitster|
