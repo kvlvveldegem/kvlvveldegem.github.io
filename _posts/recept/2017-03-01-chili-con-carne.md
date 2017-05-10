@@ -10,6 +10,7 @@ author: Tom Kerkhove
 ---
 
 # Ingrediënten
+Voor dit gerecht heb je volgende ingrediënten nodig voor 4 personen:
 
 - 2 Uien
 - 2 Teentjes Look
