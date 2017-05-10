@@ -5,12 +5,42 @@ title: "Agenda"
 author_profile: true
 ---
 
-## Januari 2017
+## Mei 2017
 
-- woensdag 18 januari - _Jaaropener_
+- maandag 29 mei - _Geocaching_
 
-## Februari 2017
+## Juni 2017
 
-- donderdag 9 februari - _Menopauze: een natuurlijke levensfase_
-- dinsdag 21 februari - _Mijn leven op stelten door Krista Bracke_
+- woensdag 20 juni - _BBQ @ MyGarden_
+- vrijdag 23 juni - _24 uur van de mantelzorger_
 
+## Juli 2017
+
+- donderdag 6 juli - Fietselieren
+
+## Augustus 2017
+KVLV uitrustmoment
+
+## September 2017
+
+- zondag 3 september - _Ontbijt_
+- woensdag 13, 20, 27 september - _Start Sportreeks (10x)_
+- zondag 24 september - _Bezoek aan wijndomein Monteberg_
+
+## Oktober 2017
+
+- woensdag 4, 11, 18, 25 oktober - _Sport_
+- donderdag 12 oktober - _Alcohol: Nuchter Bekeken_
+- dinsdag 24 oktober - _2017@2018: Instuifavond_
+
+## November 2017
+
+- woensdag 8 november - _Showoptreden Ann Helena Kenis_
+- woensdag 8/15/22 november - _Sport_
+- dinsdag 14 november - _Zorg voor je rug_
+- woensdag 29 november - _Crea-Café: Tweekleurige sjaal haken_
+
+## December 2017
+
+- donderdag 7 december - _Kookles (namiddag + avond)_
+- woensdag 13 december - _Crea-Café: Tweekleurige sjaal haken_
