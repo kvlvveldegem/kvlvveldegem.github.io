@@ -2,6 +2,4 @@
 layout: archive
 ---
 
-Welkom bij KVLV Veldegem!
-
-Meer info binnenkort.
+Welkom bij **KVLV Veldegem**!
