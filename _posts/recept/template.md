@@ -12,6 +12,7 @@ author: Tom Kerkhove
 _intro_
 
 # Ingrediënten
+Voor dit gerecht heb je volgende ingrediënten nodig voor <aantal> personen:
 
 - TBW
 
