@@ -10,6 +10,7 @@ Onze bestuursploeg is een groep dynamische vrouwen met een brede interesse. Vrou
 ## Ontmoet onze vrijwilligers!
 
 Allemaal vrijwilligers, allemaal gedreven enthousiaste vrouwen!
+
 Er woont zeker een bestuurslid in je buurt!
 
 
