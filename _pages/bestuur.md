@@ -12,6 +12,6 @@ Onze bestuursploeg is een groep dynamische vrouwen met een brede interesse. Vrou
 Allemaal vrijwilligers, allemaal gedreven enthousiaste vrouwen!
 Er woont zeker een bestuurslid in je buurt!
 
-|-----|-------------|------------|-----------|
+|:----|:------------|:-----------|:----------|
 |Image|Hilde Strubbe|050/27.95.35|Voorzitster|
 |-----|-------------|------------|-----------|
