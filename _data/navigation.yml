@@ -2,10 +2,10 @@
 main:
   - title: "Wat is KVLV?"
     url: /wat-is-kvlv/
-  - title: "Agenda"
-    url: /agenda/
   - title: "Bestuur"
     url: /bestuur/
+  - title: "Agenda"
+    url: /agenda/
   - title: "Lid Worden"
     url: /lid-worden/
   - title: "Foto's"
@@ -16,8 +16,6 @@ main:
     url: /agra/
   - title: "Contact"
     url: /contact/
-  - title: "Links"
-    url: /links/
 
   # Examples from the theme template
   # - title: "About"
