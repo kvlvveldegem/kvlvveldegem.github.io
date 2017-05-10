@@ -16,9 +16,9 @@ Er woont zeker een bestuurslid in je buurt!
 
 |Foto                                                                           |Naam                |Telefoonnummer|Rol         |
 |-------------------------------------------------------------------------------|:-------------------|:-------------|:-----------|
-|![Hilde Strubbe](./../assets/media/bestuur/hilde-strubbe-100.jpg)              |Hilde Strubbe       |050/27.95.35  |Voorzitster |
+|![Hilde Strubbe](./../assets/media/bestuur/hilde-strubbe-100.jpg)              |**Hilde Strubbe**       |050/27.95.35  |Voorzitster |
 |![Mieke Devriendt](./../assets/media/bestuur/mieke-devriendt-100.jpg)          |Mieke Devriendt     |050/27.54.71  |Secretaresse|
-|![Kim Blomme](./../assets/media/bestuur/kim-blomme-100.jpg)                    |Kim Blomme          |0478/69.87.99 |Secretaresse|
+|![Kim Blomme](./../assets/media/bestuur/kim-blomme-100.jpg)                    |**Kim Blomme**          |_0478/69.87.99_ |_Secretaresse_|
 |![Nancy Bolle](./../assets/media/bestuur/nancy-bolle-100.jpg)                  |Nancy Bolle         |050/20.86.77  |Bestuurslid |
 |![Ingrid Devoogt](./../assets/media/bestuur/ingrid-devoogt-100.jpg)            |Ingrid Devoogt      |050/27.75.60  |Bestuurslid |
 |![Bea Bouillon](./../assets/media/bestuur/bea-bouillon-100.jpg)                |Bea Bouillon        |0474/28.12.20 |Bestuurslid |
