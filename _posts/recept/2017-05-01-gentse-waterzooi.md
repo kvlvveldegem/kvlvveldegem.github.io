@@ -6,9 +6,10 @@ comments: true
 published: true
 categories: ["Recepten"]
 tags: ["Recept"]
-# alias: ["/recept/sample"]
 author: Tom Kerkhove
 ---
+
+_Waterzooi, da’s klassieke dagelijkse kost die vlotjes naar binnen gaat. Doe dat beetje extra moeite en bereid de trots van Gent met een zelfgemaakte groentebouillon. De verse groenten én een kwaliteitskip zullen ervoor zorgen dat je een heel smakelijke zooi op de tafel zet. Veel werk is er niet aan, hoogstens een beetje geduld._
 
 # Ingrediënten
 
