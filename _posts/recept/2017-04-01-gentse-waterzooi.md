@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Gentse waterzooi"
-date: 2011-05-12 14:27:00 +0000
+date: 2017-04-1 12:00:00 +0000
 comments: true
 published: true
 categories: ["Recepten"]
@@ -12,6 +12,7 @@ author: Tom Kerkhove
 _Waterzooi, da’s klassieke dagelijkse kost die vlotjes naar binnen gaat. Doe dat beetje extra moeite en bereid de trots van Gent met een zelfgemaakte groentebouillon. De verse groenten én een kwaliteitskip zullen ervoor zorgen dat je een heel smakelijke zooi op de tafel zet. Veel werk is er niet aan, hoogstens een beetje geduld._
 
 # Ingrediënten
+Voor dit gerecht heb je volgende ingrediënten nodig voor 4 personen:
 
 - Witte Selder
 - Prei
