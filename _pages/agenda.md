@@ -16,7 +16,7 @@ author_profile: true
 
 ## Juli 2017
 
-- donderdag 6 juli - Fietselieren
+- donderdag 6 juli - _Fietselieren_
 
 ## Augustus 2017
 KVLV uitrustmoment
