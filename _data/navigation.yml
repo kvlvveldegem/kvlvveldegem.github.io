@@ -4,10 +4,10 @@ main:
     url: /wat-is-kvlv/
   - title: "Bestuur"
     url: /bestuur/
-  - title: "Agenda"
-    url: /agenda/
   - title: "Lid Worden"
     url: /lid-worden/
+  - title: "Agenda"
+    url: /agenda/
   - title: "Foto's"
     url: /fotos/
   - title: "Recepten"
