@@ -2,4 +2,4 @@
 layout: archive
 ---
 
-Welkom bij **KVLV Veldegem**!
+Welkom bij KVLV Veldegem!
