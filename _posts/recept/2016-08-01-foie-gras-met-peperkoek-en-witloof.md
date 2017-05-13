@@ -9,7 +9,6 @@ author: Tom Kerkhove
 ---
 
 # Ingrediënten
-Voor dit gerecht heb je volgende ingrediënten nodig voor <aantal> personen:
 
 - 1 peperkoek met fruit (400 gr)
 - 2 eetlepels suiker
