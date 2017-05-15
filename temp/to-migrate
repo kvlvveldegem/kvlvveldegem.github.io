@@ -1,317 +1,66 @@
-		<div id="jun16">
-			<h1>Recept van de maand juni</h1>
-			<div id="hoofdgerecht">
-			  <h2>Ovenschotel van steenbolk en prei </h2>
-			  <div class="ingredienten">
-				<h3>Ingrediënten <i>(Voor 4 pers.)</i></h3>
-				<ul>
-                   <li>600g steenbolkfilet in plakjes</li>
-                   <li>2 teentjes knoflook</li>
-                   <li>1 el kerriepoeder</li>
-                   <li>150g gemalen kaas</li>
-                   <li>4 preiwitten</li>
-                   <li>peper & zout</li>
-                   <li>2 à 3 uien</li>
-                   <li>250ml room</li>
-                   <li>4 tomaten</li>
-                   <li>olijfolie</li>
-                   <li>boter</li>
-				</ul>
-			  </div>
-			  <div class="bereiding">
-				<h3>Bereidingswijze</h3>
-				<ol>
-                   <li>Verwarm de oven voor op 180°C & vet een ovenschaal in</li>
-                   <li>Spoel de prei, snij hem in ringen, leg ze in de ovenschaal & schik er de vis bovenop</li>
-                   <li>Kruid met peper en zout</li>
-                   <li>3 Pel de uien, snij ze in ringen & fruit ze goudgeel in boter</li>
-                   <li>Strooi er het kerriepoeder bij en bak even mee</li>
-                   <li>Roer er de room door, laat even inkoken & verdeel de saus over de vis en bestrooi met kaas</li>
-                   <li>Spoel & droog de tomaten waarna je er het kroontje uitsnijd</li>
-                   <li>Snipper de knoflook en meng hem met de tomaten, kruid met peper en zout</li>
-                   <li>Leg ze in een ovenschotel en sprenkel er royaal olijfolie over</li>
-                   <li>Zet ze, samen met de visschotel, 35 minuten in de oven</li>
-				</ol>
-			  </div>
-			  <div class="print"><a onclick="printContent('jun16')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
-			</div>
-		</div>
-		<div id="mei16">
-			<h1>Recept van de maand mei</h1>
-			<div id="hoofdgerecht">
-			  <h2>Gekruid Lamsvlees uit Ethiopië</h2>
-			  <div class="ingredienten">
-				<h3>Ingrediënten</h3>
-				<ul>
-                   <li>500 gr lamsfilet</li>
-                   <li>3 eetlepels olijfolie</li>
-                   <li>1 grote rode ui</li>
-                   <li>1 theelepel verse gember</li>
-                   <li>2 grote tenen knoflook (of 4 kleintjes)</li>
-                   <li>1 groene Spaanse peper</li>
-                   <li>1 eetlepel ghee (* ongezouten geklaarde boter, uitleg zie verder)</li>
-                   <li>3 theelepels berbere (* Ethiopisch specerijenmengsel, uitleg zie verder)</li>
-                   <li>Zeezout</li>
-                   <li>Vers gemalen 4-seizoenenpeper (of mixed peper)</li>
-                   <li>250 gr sperziebonen</li>
-                   <li>200 gr rijst</li>
-                   <li>4 theelepels chilipoeder</li>
-                   <li>2 theelepels fenegriekzaad</li>
-                   <li>2 theelepels gemberpoeder</li>
-                   <li>2 theelepels kaneelpoeder</li>
-                   <li>2 theelepels kardemonpoeder</li>
-                   <li>2 theelepels zwarte peperkorrels</li>
-                   <li>1 theelepels zout</li>
-                   <li>Mespunt nootmuskaat</li>
-                   <li>4 theelepels komijnzaad</li>
-                   <li>3 theelepels knoflookpoeder</li>
-                   <li>4 theelepels gedroogde basilicum</li>
-				</ul>
-			  </div>
-			  <div class="bereiding">
-				<h3>Bereidingswijze Berbere</h3>
-				<ol>
-                   <li>Maal het fenegriekzaad en de zwarte peperkorrels fijn</li>
-                   <li>Vermeng de chilipoeder, fenegriekzaad, gemberpoeder, kaneelpoeder, kardemonpoeder, zwarte peper en het zout met elkaar</li>
-                   <li>Rooster de specerijen (zonder olie) in een zware pan op laag vuur voor het verkrijgen van een meer intense smaak in ongeveer 10 minuten onder voortdurend roeren</li>
-                   <li>Maal het komijnzaad fijn</li>
-                   <li>Voeg vervolgens, de nootmuskaat, gemalen komijn, knoflookpoeder en de gedroogde basilicum aan toe</li>
-                   <li>Meng alles goed door elkaar</li>
-				</olul><br />
-                <i>Berbere kan ook gebruikt worden in soep, macaroni, nasi, voor het bestrijken van kip – rund en lam, voor marinades en sauzen, in visgerechten en groenteschotels. Berbere is ook kant & klaar te verkrijgen in een gespecialiseerde kruidenzaak.</i>
-                <h3>Bereidingswijze Ghee<i>(geklaarde boter)</i></h3>
-                <ul>
-                   <li>Verhit ongezouten boter tot het kookpunt</li>
-                   <li>Schep vervolgens de naar boven komende bestanddelen af</li>
-                </ul>
-				<h3>Bereidingswijze Berbere</h3>
-                <ol>
-                   <li>Haal de eindjes van de sperziebonen en breek ze doormidden</li>
-                   <li>Schil de rode ui en snijd deze in plakken van een centimeter dik</li>
-                   <li>Schil de gember en hak deze zeer fijn</li>
-                   <li>Hak de knoflook fijn</li>
-                   <li>Snijd de groene Spaanse peper in de lengte doormidden en verwijder het zaad en de zaadlijsten. Hak de groene peper fijn.</li>
-                   <li>Snijd het vet van de lamsfilet en daarna in blokjes van 2 centimeter</li>
-                   <li>Bereid de rijst volgens de instructies op de verpakking</li>
-                   <li>Verhit de olie in een grote, zware koekenpan en bak er het vlees en de ui 5-6 minuten in tot het vlees rondom bruin is</li>
-                   <li>Schep er de gember, knoflook en de berbere door</li>
-                   <li>Roerbak 8 minuten op hoog vuur</li>
-                   <li>Voeg na 2 minuten roerbakken de sperziebonen toe</li>
-                   <li>Voeg de fijngehakte spaanse peper toe en breng op smaak met royaal zeezout en 4-seizoenenpeper</li>
-                   <li>Roerbak het nog 1 minuut</li>
-                   <li>Schep vlak voor het serveren de ghee door het gerecht</li>
-                   <li>Serveer met de rijst</li>
-                </ol>
-			  </div>
-			  <div class="print"><a onclick="printContent('mei16')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
-			</div>
-		</div>
-		<div id="april16">
-			<h1>Recept van de maand april</h1>
-			<div id="hoofdgerecht">
-			  <h2>Kaas & Bananenkoek</h2>
-			  <div class="ingredienten">
-				<h3>Ingrediënten</h3>
-				<ul>
-					<li>25 gr bittere chocoladekrullen</li>
-					<li>25 gr witte chocoladekrullen</li>
-					<li>1 eetlepel  ahornsiroop</li>
-					<li>50gr gesmolten boter</li>
-					<li>3 eetlepels citroen</li>
-					<li>50 gr fijne suiker</li>
-					<li>250 gr mascarpone</li>
-					<li>1,5 dl room (40%)</li>
-					<li>175 gr boudoirs</li>
-					<li>2 bananen</li>
-				</ul>
-			  </div>
-			  <div class="bereiding">
-				<h3>Bereidingswijze</h3>
-				<ol>
-                   <li>Doe de koekjes in een plastiek zak</li>
-                   <li>Sluit goed af en bewerk ze met de deegrol  tot fijne kruimels</li>
-                   <li>Vermeng in een kom de koekjeskruimels met de gesmolten boter en de ahornsiroop</li>
-                   <li>Schep de massa in een springvorm (diameter 24cm) druk goed aan en zet in de koelkast</li>
-                   <li>Klop de room stijf</li>
-                   <li>Vermeng met de mascarpone, de suiker en het citroensap</li>
-                   <li>Snij de bananen in fijne plakjes</li>
-                   <li>Voeg ze bij de kaascrème</li>
-                   <li>Schep het mengsel op de opgesteven koekjesbodem en strijk de vulling mooi glad met de rugkant van een lepel</li>
-                   <li>Werk af met de chocoladekrullen en  laat nacht  in de koelkast opstijven</li>
-				</ol>
-			  </div>
-			  <div class="print"><a onclick="printContent('april16')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
-			</div>
-		</div>
-		<div id="mar16">
-			<h1>Recept van de maand maart</h1>
-			<div id="hoofdgerecht">
-			  <h2>Maïs Soep</h2>
-			  <div class="ingredienten">
-				<h3>Ingrediënten</h3>
-				<ul>
-					<li>fijn gesneden petereslie</li>
-					<li>100 gr gemalen gruyère</li>
-					<li>2 liter kippebouillon</li>
-					<li>2 koffielepels curry</li>
-					<li>1grote rode paprika</li>
-					<li>500g mais uit blik</li>
-					<li>1 eetlepel bloem</li>
-					<li>2 dl room (30%)</li>
-					<li>peper & zout</li>
-					<li>50 gr boter</li>
-					<li>4 dl melk</li>
-				</ul>
-			  </div>
-			  <div class="bereiding">
-				<h3>Bereidingswijze</h3>
-				<ol>
-                   <li>Paprika wassen, zaadjes verwijderen en in blokjes snijden</li>
-                   <li>Aanfruiten in boter</li>
-                   <li>Kruiden met peper en zout en curry</li>
-                   <li>Strooi bloem over en overgiet met melk en kippebouillon en omroeren</li>
-                   <li>Voeg de uitgelekte maiskorrels toe en laat alles 15 minuten zachtjes doorkoken</li>
-                   <li>Mix de soep en zeef</li>
-                   <li>Werk af met de room en de gemalen gruyère en mix nogmaals</li>
-                   <li>Voor het opdienen wat fijngesneden peterselie toevoegen</li>
-				</ol>
-			  </div>
-			  <div class="print"><a onclick="printContent('mar16')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
-			</div>
-		</div>
-		<div id="feb16">
-			<h1>Recept van de maand februari</h1>
-			<div id="hoofdgerecht">
-			  <h2>Koolvis met paprikasaus, quinoa & kerstomaatjes</h2>
-			  <div class="ingredienten">
-				<h3>Ingrediënten</h3>
-				<ul>
-					<li>2 kleine kopjes quinoa</li>
-					<li>2 kleine kopjes kippenbouillon</li>
-					<li>2 rode paprika’s (gepeld, zonder zaden en fijngesneden)</li>
-					<li>1 kleine ui (fijngesneden)</li>
-					<li>Olijfolie extra vergine</li>
-					<li>2 koolvisfilets</li>
-					<li>Peper & Zout</li>
-					<li>Olijfolie</li>
-					<li>Boter</li>
-				</ul>
-			  </div>
-			  <div class="bereiding">
-				<h3>Bereidingswijze</h3>
-				<ol>
-                   <li>Kook de quinoa in de kippenbouillon en volg de aanwijzing op de verpakking (ca. 15 minuten.)</li>
-                   <li>De graantjes nemen het vocht volledig op</li>
-                   <li>Bestrooi de drooggedepte visfilets met peper en zout</li>
-                   <li>Verhit in een pan een scheutje olie en een klontje boter en bak de visfilets aan beide kanten</li>
-                   <li>Stoof de paprika samen met de ui gaar in een beetje olijfolie, voeg een scheutje heet water toe</li>
-                   <li>Mix de saus heel fijn en breng op smaak met peper en zout</li>
-                   <li>Warm de saus (indien nodig) even op en schik alles op de borden</li>
-                   <li>In plaats van kerstomaatjes, kun je ook andere groenten kiezen</li>
-				</ol>
-			  </div>
-			  <div class="print"><a onclick="printContent('feb16')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
-			</div>
-		</div>
-		<div id="jan16">
-			<h1>Recept van de maand januari</h1>
-			<div id="hoofdgerecht">
-			  <h2>Orloffgebraad</h2>
-			  <div class="ingredienten">
-				<h3>Ingrediënten</h3>
-				<ul>
-				  <li>1 kg varkensgebraad</li>
-				  <li>1 bakje champignons</li>
-				  <li>250 gr room</li>
-				  <li>200 gr gemalen Gruyère</li>
-				  <li>10 sneetjes gekookte ham</li>
-				  <li>10 sneetjes Gruyèrekaas</li>
-				  <li>peper en zout</li>
-				  <li>boter</li>
-				</ul>
-			  </div>
-			  <div class="bereiding">
-				<h3>Bereidingswijze</h3>
-				<ol>
-                   <li>Kruid het gebraad en bak het aan één kant gedurende 10 minuten</li>
-				   <li>Bak het daarna aan de andere kant gedurende 15 minuten</li>
-				   <li>Let goed op dat de vetstof niet aanbrandt, voeg geregeld een klontje koude vetstof toe</li>
-				   <li>Haal het vlees uit de pan en leg het op een bord</li>
-				   <li>Dek af met zilverpapier</li>
-				   <li>Doe ondertussen de cahmpignons in de pan en stoof aan</li>
-				   <li>Voeg een beetje bouillon toe, doe er de room bij en laat even opkoken</li>
-				   <li>Snij ondertussen het vlees in en leg om beurt een sneetje kaas, een sneetje hesp, een sneetje gebraad, ....</li>
-				   <li>Leg het volledige gebraad in een ovenschaal</li>
-				   <li>Giet er de champignonsaus over en strooi kaas over het geheel</li>
-				   <li>Zet gedurende 10 minuten onder de grill</li>
-				</ol>
-			  </div>
-			  <div class="print"><a onclick="printContent('jan16')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
-			</div>
-		</div>
 		<div id="dec15">
 			<h1>Recept van de maand december</h1>
 			<div id="hoofdgerecht">
 			  <h2>Hazenrugfilet met trio van groentenpuree</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten (4 pers.)</h3>
-				<ul>
-				  <li>4 sneetjes gerookte ham</li>
-				  <li>2 brickdeegvellen</li>
-				  <li>4 hazenrugfilets</li>
-				  <li>2 eetlp walnootpitten</li>
-				  <li>200 gr erwten</li>
-				  <li>1 eetlp mosterd</li>
-				  <li>2 pastinaken</li>
-				  <li>3 dl wildfond (bokaal)</li>
-				  <li>½ plantje bieslook</li>
-				  <li>3 eetlp olijfolie</li>
-				  <li>4 middelgrote aardappelen</li>
-				  <li>nootmuskaat</li>
-				  <li>2 zoete aardappelen</li>
-				  <li>peper en zout</li>
-				  <li>instantsausbinder</li>
-				  <li>2 teentjes knoflook</li>
-				  <li>2 eetlp boter</li>
-				  <li>1 ui</li>
-				</ul>
+				
+- 4 sneetjes gerookte ham
+- 2 brickdeegvellen
+- 4 hazenrugfilets
+- 2 eetlp walnootpitten
+- 200 gr erwten
+- 1 eetlp mosterd
+- 2 pastinaken
+- 3 dl wildfond (bokaal)
+- ½ plantje bieslook
+- 3 eetlp olijfolie
+- 4 middelgrote aardappelen
+- nootmuskaat
+- 2 zoete aardappelen
+- peper en zout
+- instantsausbinder
+- 2 teentjes knoflook
+- 2 eetlp boter
+- 1 ui
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Voorbereiding</h3>
-				<ol>
-                   <li>Verwarm de oven voor op 180° C</li>
-                   <li>Snipper het bieslook, de ui en de knoflookteentjes fijn</li>
-                   <li>Schil de zoete aardappelen en de pastinaken en snij in gelijke stukken</li>
-                   <li>Hak de walnootpitten fijn</li>
-                   <li>Vouw de sneetjes ham in de lengte in 2 en leg ze op een bakplaat</li>
-                   <li>Bak 20 min krokant in de voorverwarmde oven</li>
-                   <li>Snij intussen 16 cirkels (ongeveer diameter 5cm) uit het brickdeeg</li>
-                   <li>Leg ze op een bakplaat met bakpapier en bak 5 min mee in de hete oven</li>
-                   <li>Veeg de aardappelen goed schoon en snij ze in de lengte in 4</li>
-				</ol>
+				
+- Verwarm de oven voor op 180° C
+- Snipper het bieslook, de ui en de knoflookteentjes fijn
+- Schil de zoete aardappelen en de pastinaken en snij in gelijke stukken
+- Hak de walnootpitten fijn
+- Vouw de sneetjes ham in de lengte in 2 en leg ze op een bakplaat
+- Bak 20 min krokant in de voorverwarmde oven
+- Snij intussen 16 cirkels (ongeveer diameter 5cm) uit het brickdeeg
+- Leg ze op een bakplaat met bakpapier en bak 5 min mee in de hete oven
+- Veeg de aardappelen goed schoon en snij ze in de lengte in 4
+				
 				<h3>Bereidingswijze</h3>
-				<ol>
-                   <li>Kook de aardappelen 20 min in licht gezouten water. Giet af en doe in een ovenschaal</li>
-                   <li>Meng er de olijfolie, bieslook, peper en zout onder</li>
-                   <li>Zet 10 min in de oven op 180°C.</li>
-                   <li>Kook intussen de pastinaken 20 min in licht gezouten water</li>
-                   <li>Giet af, pureer en roer er de walnootpitten onder</li>
-                   <li>Kruid met nootmuskaat, peper en zout</li>
-                   <li>Kook de zoete aardappelen en het knoflook 15 min i lichtgezouten water</li>
-                   <li>Giet af, pureer en kruid met peper en zout & hou het warm</li>
-                   <li>Smelt de boter in een braadpan en bak de hazenrugfilets aan alle kanten goudbruin</li>
-                   <li>Zet het vuur lager en laat nog 10 min verder garen</li>
-                   <li>Kruid opnieuw met peper en zout</li>
-                   <li>Breng intussen 1 dl wildfond aan de kook, samen met de ui en de diepgevroren erwten</li>
-                   <li>Laat 5 min koken en mix daarna tot een gladde puree en kruid met peper en zout</li>
-                   <li>Haal het vlees uit de pan en hou warm. Blus de pan met 2 dl wildfond en schraap de braadresten los</li>
-                   <li>Roer er de mosterd onder en kruid metpeper en zout</li>
-                   <li>Bind eventueel lichtjes met instantsausbinder</li>
-				</ol>
+				
+- Kook de aardappelen 20 min in licht gezouten water. Giet af en doe in een ovenschaal
+- Meng er de olijfolie, bieslook, peper en zout onder
+- Zet 10 min in de oven op 180°C.
+- Kook intussen de pastinaken 20 min in licht gezouten water
+- Giet af, pureer en roer er de walnootpitten onder
+- Kruid met nootmuskaat, peper en zout
+- Kook de zoete aardappelen en het knoflook 15 min i lichtgezouten water
+- Giet af, pureer en kruid met peper en zout & hou het warm
+- Smelt de boter in een braadpan en bak de hazenrugfilets aan alle kanten goudbruin
+- Zet het vuur lager en laat nog 10 min verder garen
+- Kruid opnieuw met peper en zout
+- Breng intussen 1 dl wildfond aan de kook, samen met de ui en de diepgevroren erwten
+- Laat 5 min koken en mix daarna tot een gladde puree en kruid met peper en zout
+- Haal het vlees uit de pan en hou warm. Blus de pan met 2 dl wildfond en schraap de braadresten los
+- Roer er de mosterd onder en kruid metpeper en zout
+- Bind eventueel lichtjes met instantsausbinder
+				
 				<h3>Afwerking</h3>
 				<olul>
-                   <li>Maak op elk bord een torentje met de 3 soorten groetenpuree, afwisselend met het brickdeeg en de ham</li>
-				</ol>
+- Maak op elk bord een torentje met de 3 soorten groetenpuree, afwisselend met het brickdeeg en de ham
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('dec15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -322,35 +71,35 @@
 			  <h2>Frisse tarwekorrelsalade</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten</h3>
-				<ul>
-				  <li>250 gr tarwekorrels</li>
-				  <li>5 dl kippenbouillon</li>
-				  <li>200 gr zongedroogde tomaten</li>
-				  <li>1 courgette</li>
-				  <li>100 gr pijnboompitten</li>
-				  <li>250 gr gerookte zalm</li>
-				  <li>verse basilicumblaadjes</li>
-				  <li>Voor de dressing<ul>
-				  <li>olijfolie</li>
-				  <li>4 lepels olie</li>
-				  <li>2 lepels limoensap</li>
-				  <li>1/2 lepel kerriepoeder</li>
-				  <li>1/2 lepel paprikapoeder</li></ul></li>
-				  <li>peper & zout</li>
-				</ul>
+				
+- 250 gr tarwekorrels
+- 5 dl kippenbouillon
+- 200 gr zongedroogde tomaten
+- 1 courgette
+- 100 gr pijnboompitten
+- 250 gr gerookte zalm
+- verse basilicumblaadjes
+- Voor de dressing
+- olijfolie
+- 4 lepels olie
+- 2 lepels limoensap
+- 1/2 lepel kerriepoeder
+- 1/2 lepel paprikapoeder
+- peper & zout
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ul>
-                   <li>Snijd de courgette in blokjes en bak ze aan in wat olijfolie</li>
-				   <li>Snijd de zalm & tomaten in reepjes</li>
-				   <li>Rooster de pijnboompitten in een droge pan en hak ze fijn</li>
-				   <li>Kook de tarwekorrels in de kippenbouillon volgens de instructies op de verpakking en laat het afkoelen</li>
-				   <li>Voeg de zongedroogde tomaten, de courgetteblokjes, de zalm en de pijnboompitten toe</li>
-				   <li>Breng op smaak met peper en zout</li>
-				   <li>Meng de ingrediënten voor de dressing onder elkaar en breng op smaak met peper en zout</li>
-				   <li>Verdeel de dressing onder de salade en werk af met fijngesnipperde basilicumblaadjes</li>
-				</ul>
+				
+- Snijd de courgette in blokjes en bak ze aan in wat olijfolie
+- Snijd de zalm & tomaten in reepjes
+- Rooster de pijnboompitten in een droge pan en hak ze fijn
+- Kook de tarwekorrels in de kippenbouillon volgens de instructies op de verpakking en laat het afkoelen
+- Voeg de zongedroogde tomaten, de courgetteblokjes, de zalm en de pijnboompitten toe
+- Breng op smaak met peper en zout
+- Meng de ingrediënten voor de dressing onder elkaar en breng op smaak met peper en zout
+- Verdeel de dressing onder de salade en werk af met fijngesnipperde basilicumblaadjes
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('nov15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -361,26 +110,26 @@
 			  <h2>Koekjestaart</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten</h3>
-				<ul>
-				  <li>300 gr boter</li>
-				  <li>7 soeplepels bloemsuiker</li>
-				  <li>1 ei</li>
-				  <li>1 flesje rumessence</li>
-				  <li>2 dozen madeirakoekjes</li>
-				  <li>vanillepudding van 1/2 l melk en 1 zakje poeder</li>
-				</ul>
+				
+- 300 gr boter
+- 7 soeplepels bloemsuiker
+- 1 ei
+- 1 flesje rumessence
+- 2 dozen madeirakoekjes
+- vanillepudding van 1/2 l melk en 1 zakje poeder
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ul>
-                   <li>boter zacht laten worden en luchtig roeren met bloemsuiker</li>
-                   <li>Voeg dooier & rum toe</li>
-                   <li>De vanillepudding half koud, lepel per lepel, bij het mengsel voegen</li>
-                   <li>Klop het eiwit stijf en voeg voorzichtig bij het mengsel</li>
-                   <li>De koekjes schikken in een schaal en bedekken met het mengsel</li>
-                   <li>Eindigen met nog een laag koekjes</li>
-                   <li><i>Optioneel - Indien gewenst bestrooien met muizenstrontjes</i></li>
-				</ul>
+				
+- boter zacht laten worden en luchtig roeren met bloemsuiker
+- Voeg dooier & rum toe
+- De vanillepudding half koud, lepel per lepel, bij het mengsel voegen
+- Klop het eiwit stijf en voeg voorzichtig bij het mengsel
+- De koekjes schikken in een schaal en bedekken met het mengsel
+- Eindigen met nog een laag koekjes
+- <i>Optioneel-  Indien gewenst bestrooien met muizenstrontjes</i>
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('okt15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -391,23 +140,23 @@
 			  <h2>Speculoosmousse</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten <i>(4 pers.)</i></h3>
-				<ul>
-				  <li>10 speculooskoekjes</li>
-				  <li>2 eieren</li>
-				  <li>1 soeplepel suiker</li>
-				  <li>250gr mascarpone</li>
-				</ul>
+				
+- 10 speculooskoekjes
+- 2 eieren
+- 1 soeplepel suiker
+- 250gr mascarpone
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ul>
-                   <li>Maal de speculooskoekjes fijn, tot een gladde massa</li>
-                   <li>Doe de eierdooiers en de suiker in een mengkom en klop deze op tot een schuimige, lichtgekleurde massa</li>
-                   <li>Voeg de mascarpone bij dit mengsel en klop los</li>
-                   <li>Voeg de speculoos toe</li>
-                   <li>Klop het eiwit op en spatel deze voorzichtig door de rest van het mengsel</li>
-                   <li>Laat minimum 1 uurtje opstijven in de koelkast</li>
-				</ul>
+				
+- Maal de speculooskoekjes fijn, tot een gladde massa
+- Doe de eierdooiers en de suiker in een mengkom en klop deze op tot een schuimige, lichtgekleurde massa
+- Voeg de mascarpone bij dit mengsel en klop los
+- Voeg de speculoos toe
+- Klop het eiwit op en spatel deze voorzichtig door de rest van het mengsel
+- Laat minimum 1 uurtje opstijven in de koelkast
+				
 				<br />
 				<i>Serveertip: Strooi wat stukjes speculoos over de mousse.</i>
 			  </div>
@@ -420,35 +169,35 @@
 			  <h2>Balletjes met kleurrijke groentjes & goudgele patatjes</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten</h3>
-				<ul>
-				  <li>½ broccoli</li>
-				  <li>Handvol verse groene boontjes</li>
-				  <li>4 tal wortels</li>
-				  <li>2 uien</li>
-				  <li>2 teentjes look</li>
-				  <li>650 gr aardappelen</li>
-				  <li>2 Granny Smith appels</li>
-				  <li>Rozemarijn</li>
-				  <li>couscouskruiden</li>
-				  <li>olijfolie</li>
-				  <li>bloem voor saus</li>
-				  <li>boter</li>
-				  <li>peper & zout</li>
-				</ul>
+				
+- ½ broccoli
+- Handvol verse groene boontjes
+- 4 tal wortels
+- 2 uien
+- 2 teentjes look
+- 650 gr aardappelen
+- 2 Granny Smith appels
+- Rozemarijn
+- couscouskruiden
+- olijfolie
+- bloem voor saus
+- boter
+- peper & zout
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ul>
-                   <li>Schil aardappelen en snij ze in niet al te grote stukken, kook ze bijna etensklaar</li>
-                   <li>Giet af en meng deze in een ovenschotel met olijfolie, peper en zout en rijkelijk met rozemarijn</li>
-                   <li>Was en snij alle groentjes in kleine stukjes, broccoli in kleine roosjes. <i>(De stam gebruik je in de soep)</i></li>
-                   <li>Stoof 1 ui samen met de wortelstukjes, blancheer broccoli en boontjes samen, giet af maar spaar het vocht</li>
-                   <li>Maak een saus van klontje boter, bloem en groenten vocht, voeg ook beetje melk toe, kruiden</li>
-                   <li>Meng het gehakt met 1 fijngesneden ui, 2 teentjes look, 1 ½ geraspte appel, peper en zout en couscouskruiden</li>
-                   <li>Maak er balletjes van, bak die een half uur in oven van 180° lichtjes overgoten met olijfolie</li>
-                   <li>Bak ook de aardappeltjes half uur goudbruin in oven</li>
-                   <li>Giet de saus over je groentjes, meng alles samen en hou warm</li>
-				</ul>
+				
+- Schil aardappelen en snij ze in niet al te grote stukken, kook ze bijna etensklaar
+- Giet af en meng deze in een ovenschotel met olijfolie, peper en zout en rijkelijk met rozemarijn
+- Was en snij alle groentjes in kleine stukjes, broccoli in kleine roosjes. <i>(De stam gebruik je in de soep)</i>
+- Stoof 1 ui samen met de wortelstukjes, blancheer broccoli en boontjes samen, giet af maar spaar het vocht
+- Maak een saus van klontje boter, bloem en groenten vocht, voeg ook beetje melk toe, kruiden
+- Meng het gehakt met 1 fijngesneden ui, 2 teentjes look, 1 ½ geraspte appel, peper en zout en couscouskruiden
+- Maak er balletjes van, bak die een half uur in oven van 180° lichtjes overgoten met olijfolie
+- Bak ook de aardappeltjes half uur goudbruin in oven
+- Giet de saus over je groentjes, meng alles samen en hou warm
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('aug15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -459,25 +208,25 @@
 			  <h2>Perentaart</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten</h3>
-				<ul>
-				  <li>1 bladerdeeg</li>
-				  <li>3 peren</li>
-				  <li>3 eieren</li>
-				  <li>150 gr suiker</li>
-				  <li>2,5 dl slagroom</li>
-				  <li>1 zakje vanillesuiker</li>
-				  <li>1 soeplepel maizena</li>
-				</ul>
+				
+- 1 bladerdeeg
+- 3 peren
+- 3 eieren
+- 150 gr suiker
+- 2,5 dl slagroom
+- 1 zakje vanillesuiker
+- 1 soeplepel maizena
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ul>
-                   <li>Leg het bladerdeeg in de bakvorm en prik die met een vork in</li>
-                   <li>Snij de peren in stukjes en beleg het bladerdeeg hiermee</li>
-                   <li>Meng de eieren, suiker, slagroom en maizena</li>
-                   <li>Giet alles over de peren</li>
-                   <li>Bak dit af op 180° voor 40 minuten</li>
-				</ul>
+				
+- Leg het bladerdeeg in de bakvorm en prik die met een vork in
+- Snij de peren in stukjes en beleg het bladerdeeg hiermee
+- Meng de eieren, suiker, slagroom en maizena
+- Giet alles over de peren
+- Bak dit af op 180° voor 40 minuten
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('juli15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -488,50 +237,50 @@
 			  <h2>Cannelloni met prei in tomatensaus</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten <i>(4 pers.)</i></h3>
-				<ul>
-				  <li>100 gr gekookte hamreepjes</li>
-				  <li>4 takjes verse tijm</li>
-				  <li>2 teentjes knoflook</li>
-				  <li>8 zongedroogde tomaten</li>
-				  <li>200 gr mozzarella (blok)</li>
-				  <li>125 gr ricotta</li>
-				  <li>1 eetl. Boter</li>
-				  <li>12 cannelloni</li>
-				  <li>800 gr tomatenstukjes (blik)</li>
-				  <li>2 eetl. Olijfolie</li>
-				  <li>1 blaadje laurier</li>
-				  <li>4 preiwitten</li>
-				  <li>1 ui</li>
-				  <li>zwarte peper & zout</li>
-				</ul>
+				
+- 100 gr gekookte hamreepjes
+- 4 takjes verse tijm
+- 2 teentjes knoflook
+- 8 zongedroogde tomaten
+- 200 gr mozzarella (blok)
+- 125 gr ricotta
+- 1 eetl. Boter
+- 12 cannelloni
+- 800 gr tomatenstukjes (blik)
+- 2 eetl. Olijfolie
+- 1 blaadje laurier
+- 4 preiwitten
+- 1 ui
+- zwarte peper & zout
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ul>
-					<li>
-						<p>Voorbereiding (15 min) -</p>
-						<ol>
-							<li>Snipper het knoflook, de ui en de preiwitten fijn</li>
-							<li>Snij de mozzarella in sneetjes</li>
-							<li>Snij de zongedroogde tomaten in fijne reepjes</li>
-						</ol>
-					</li>
-					<li>
-						<p>Bereiding -</p>
-						<ol>
-							<li>Verhit 1 eetlepel olijfolie & 1 eetlepel boter in een pan
-							<li>stoof het preiwit ong. 15 min, samen met de tijm en het laurierblaadje</li>
-							<li>Verhit ondertussen 1 eetlepel olijfolie in een kookpot en bak het knoflook & de ui glazig
-							<li>Voeg de tomatenstukjes en de reepjes zongedroogde tomaat toe in de kookpot en laat 20 min. afgedekt sudderen op een zacht vuur
-							<li>Kruid het geheel met zwarte peper en zout</li>
-							<li>Verwijder de takjes tijm en het laurierblaadje uit de gestoofde prei
-							<li>Meng er de ricotta en de hamreepjes onder & kruid met zwarte peper en zout</li>
-							<li>Verwarm de oven voor op 180°</li>
-							<li>Vul de cannelloni met het preimengsel en leg ze naast elkaar in een ovenschaal
-							<li>Giet er de tomatensaus over en leg er de sneetjes mozzarella op. Zet 30 minuten in de voorverwarmde oven</li>
-						</ol>
-					</li>
-				</ul>
+				
+- 
+						<p>Voorbereiding (15 min)- </p>
+						
+		- Snipper het knoflook, de ui en de preiwitten fijn
+		- Snij de mozzarella in sneetjes
+		- Snij de zongedroogde tomaten in fijne reepjes
+						
+					
+- 
+						<p>Bereiding- </p>
+						
+		- Verhit 1 eetlepel olijfolie & 1 eetlepel boter in een pan
+		- stoof het preiwit ong. 15 min, samen met de tijm en het laurierblaadje
+		- Verhit ondertussen 1 eetlepel olijfolie in een kookpot en bak het knoflook & de ui glazig
+		- Voeg de tomatenstukjes en de reepjes zongedroogde tomaat toe in de kookpot en laat 20 min. afgedekt sudderen op een zacht vuur
+		- Kruid het geheel met zwarte peper en zout
+		- Verwijder de takjes tijm en het laurierblaadje uit de gestoofde prei
+		- Meng er de ricotta en de hamreepjes onder & kruid met zwarte peper en zout
+		- Verwarm de oven voor op 180°
+		- Vul de cannelloni met het preimengsel en leg ze naast elkaar in een ovenschaal
+		- Giet er de tomatensaus over en leg er de sneetjes mozzarella op. Zet 30 minuten in de voorverwarmde oven
+						
+					
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('juni15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -542,27 +291,27 @@
 			  <h2>Frittata van Courgettes</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten <i>(4 pers.)</i></h3>
-				<ul>
-				  <li>1 ui</li>
-				  <li>500gr courgettes</li>
-				  <li>2el olijfolie</li>
-				  <li>6 grote eieren</li>
-				  <li>60gr geraspte parmezaan</li>
-				  <li>Peper & zout</li>
-				</ul>
+				
+- 1 ui
+- 500gr courgettes
+- 2el olijfolie
+- 6 grote eieren
+- 60gr geraspte parmezaan
+- Peper & zout
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ol>
-					<li>Snipper de ui, was de courgettes en rasp ze grof</li>
-					<li>Leg ze in een zeef met een beetje zout & laat ze 2u uitlekken</li>
-					<li>Verhit de olie in een grote pan en fruit de uien 20 minuten onder deksel op een zacht vuur</li>
-					<li>Voeg de courgettes toe en laat nog 10 minuten bakken</li>
-					<li>Kluts de eieren in een grote kom en voeg peper, zout en de parmezaan toe</li>
-					<li>Giet dit mengsel in de pan en laat 15 minuten bakken op een zacht vuur</li>
-					<li>Wacht tot de frittata gestold is en draai hem met behulp van een bord om, zodat ook de andere kant goudbruin kleurt</li>
-					<li>Verdeel naar keuze in een glas of in potjes</li>
-				</ol>
+				
+- Snipper de ui, was de courgettes en rasp ze grof
+- Leg ze in een zeef met een beetje zout & laat ze 2u uitlekken
+- Verhit de olie in een grote pan en fruit de uien 20 minuten onder deksel op een zacht vuur
+- Voeg de courgettes toe en laat nog 10 minuten bakken
+- Kluts de eieren in een grote kom en voeg peper, zout en de parmezaan toe
+- Giet dit mengsel in de pan en laat 15 minuten bakken op een zacht vuur
+- Wacht tot de frittata gestold is en draai hem met behulp van een bord om, zodat ook de andere kant goudbruin kleurt
+- Verdeel naar keuze in een glas of in potjes
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('mei15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -573,23 +322,23 @@
 			  <h2>Sabayon</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten <i>(4 pers.)</i></h3>
-				<ul>
-				  <li>4 eierdooiers</li>
-				  <li>4 halve eierdopjes suiker</li>
-				  <li>8 halve dopjes zoete witte wijn <i>(of zoet bier)</i></li>
-				</ul>
+				
+- 4 eierdooiers
+- 4 halve eierdopjes suiker
+- 8 halve dopjes zoete witte wijn <i>(of zoet bier)</i>
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ol>
-					<li>Scheidt de eieren, hou een half eierdopje apart en doe de rest v/d dooiers in een klein kookpotje</li>
-					<li>Schep per eierdooier 1 dopje suiker bij in het kookpotje</li>
-					<li>Voeg per dooier 2 dopjes goede witte wijn toe & roer goed los alvorens op het vuur te zetten</li>
-					<li>Werk nu snel zodat de eierdooiers met de suiker niet verbranden</li>
-					<li>Zet op een licht vuurtje, klop met de klopper in een 8 & beweeg tergelijkertijd voortdurend met het potje zodat het ei niet kan kleven aan de bodem</li>
-					<li>Als de massa mooi schuimig is, haal van het vuur & zet het potje meteen op een koude ondergrond</li>
-					<li>Verdeel naar keuze in een glas of in potjes</li>
-				</ol>
+				
+- Scheidt de eieren, hou een half eierdopje apart en doe de rest v/d dooiers in een klein kookpotje
+- Schep per eierdooier 1 dopje suiker bij in het kookpotje
+- Voeg per dooier 2 dopjes goede witte wijn toe & roer goed los alvorens op het vuur te zetten
+- Werk nu snel zodat de eierdooiers met de suiker niet verbranden
+- Zet op een licht vuurtje, klop met de klopper in een 8 & beweeg tergelijkertijd voortdurend met het potje zodat het ei niet kan kleven aan de bodem
+- Als de massa mooi schuimig is, haal van het vuur & zet het potje meteen op een koude ondergrond
+- Verdeel naar keuze in een glas of in potjes
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('april15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -600,22 +349,22 @@
 			  <h2>Witloofroomsoep</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten <i>(8 pers.)</i></h3>
-				<ul>
-				  <li>1,5 kg witloof , 300g ui, 300g preiwit, 4 kippe bouillonblokjes,1,5dl room</li>
-				</ul>
+				
+- 1,5 kg witloof , 300g ui, 300g preiwit, 4 kippe bouillonblokjes,1,5dl room
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ol>
-					<li>Snij de ui, preiwit & witloof in grove stukken</li>
-					<li>Stoof ze daarna in boter zonder te kleuren, bestrooi ze met bloem, meng ze en laat het eventjes drogen</li>
-					<li>bevochtig met kippenbouillon & voeg een kruidenboeket <i>(half blaadje laurier,1 takje tijm)</i></li>
-					<li>Laat het gedurende 30 minuten zachtjes gaarkoken, verwijder het kruidenboeket & mix de soep</li>
-					<li>Breng de soep op smaak met peper & zout</li>
-					<li>zeef alles met een puntzeef</li>
-					<li>Maak een garnituur door spekblokjes krokant bakken zonder vetstof, op keukenpapier laten uitlekken & fijn bieslook snijden</li>
-					<li>Breng het terug aan de kook & werk af met een scheutje room</li>
-				</ol>
+				
+- Snij de ui, preiwit & witloof in grove stukken
+- Stoof ze daarna in boter zonder te kleuren, bestrooi ze met bloem, meng ze en laat het eventjes drogen
+- bevochtig met kippenbouillon & voeg een kruidenboeket <i>(half blaadje laurier,1 takje tijm)</i>
+- Laat het gedurende 30 minuten zachtjes gaarkoken, verwijder het kruidenboeket & mix de soep
+- Breng de soep op smaak met peper & zout
+- zeef alles met een puntzeef
+- Maak een garnituur door spekblokjes krokant bakken zonder vetstof, op keukenpapier laten uitlekken & fijn bieslook snijden
+- Breng het terug aan de kook & werk af met een scheutje room
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('mar15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -626,36 +375,36 @@
 			  <h2>Shepherds pie (Iers / Engelse ovenschotel)</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten</h3>
-				<ul>
-				  <li>800 gr aardappelen</li>
-				  <li>500 gram lamsgehakt (of rund / varken naar keuze)</li>
-				  <li>1 grote uit</li>
-				  <li>1 grote wortel</li>
-				  <li>250gr champignons</li>
-				  <li>30gr boter</li>
-				  <li>50gr cheddarkaas</li>
-				  <li>2dl rundsbouillon</li>
-				  <li>1 eetl. tomatenpuree</li>
-				  <li>1 eetl. bloem</li>
-				  <li>½ theel. rozemarijn</li>
-				  <li>½ theel. tijm</li>
-				  <li>zwarte peper</li>
-				</ul>
+				
+- 800 gr aardappelen
+- 500 gram lamsgehakt (of rund / varken naar keuze)
+- 1 grote uit
+- 1 grote wortel
+- 250gr champignons
+- 30gr boter
+- 50gr cheddarkaas
+- 2dl rundsbouillon
+- 1 eetl. tomatenpuree
+- 1 eetl. bloem
+- ½ theel. rozemarijn
+- ½ theel. tijm
+- zwarte peper
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ol>
-					<li>Snij de ui, wortel en champignon in stukjes</li>
-					<li>Verwarm olie in een grote braadpan en voeg de ui & wortel toe</li>
-					<li>Fruit dit circa 5-8 minuten onder af en toe roeren tot de ui licht bruin gekleurd is.</li>
-					<li>Schil ondertussen de aardappelen, snij ze in 4 en kook ze</li>
-					<li>Voeg het gehakt toe aan het ui-wortel mengsel en bak alles circa 10 minuten, zodat het gehakt korrelig en rul wordt. Bak op het laatste de champignons mee</li>
-					<li>Strooi de bloem bij het mengsel. Voeg de bouillon, de rozemarijn, tijm en tomatenpuree toe en kruid met zwarte peper. Laat sudderen gedurende ± 15 minuten, tot het vocht verdampt is</li>
-					<li>Maak van de aardappelen met wat boter en melk een smeuïge puree. Rasp de kaas door de puree met een snuifje zout</li>
-					<li>Voeg eventueel aan het vleesmengsel nog wat zout toe (wees voorzichtig als je bouillon van een blokje gemaakt hebt, daar zit al zout in)</li>
-					<li>Breng het vlees in een ovenschaal en bedek dit met de aardappelpuree. Breng met een vork wat  richels aan. Strooi wat paneermeel over en een aantal klontjes boter</li>
-					<li>Bak de Shepherds Pie circa 35-40 minuten in een voorverwarde oven (200 °C) totdat de puree licht bruin is gekleurd</li>
-				</ol>
+				
+- Snij de ui, wortel en champignon in stukjes
+- Verwarm olie in een grote braadpan en voeg de ui & wortel toe
+- Fruit dit circa 5-8 minuten onder af en toe roeren tot de ui licht bruin gekleurd is.
+- Schil ondertussen de aardappelen, snij ze in 4 en kook ze
+- Voeg het gehakt toe aan het ui-wortel mengsel en bak alles circa 10 minuten, zodat het gehakt korrelig en rul wordt. Bak op het laatste de champignons mee
+- Strooi de bloem bij het mengsel. Voeg de bouillon, de rozemarijn, tijm en tomatenpuree toe en kruid met zwarte peper. Laat sudderen gedurende ± 15 minuten, tot het vocht verdampt is
+- Maak van de aardappelen met wat boter en melk een smeuïge puree. Rasp de kaas door de puree met een snuifje zout
+- Voeg eventueel aan het vleesmengsel nog wat zout toe (wees voorzichtig als je bouillon van een blokje gemaakt hebt, daar zit al zout in)
+- Breng het vlees in een ovenschaal en bedek dit met de aardappelpuree. Breng met een vork wat  richels aan. Strooi wat paneermeel over en een aantal klontjes boter
+- Bak de Shepherds Pie circa 35-40 minuten in een voorverwarde oven (200 °C) totdat de puree licht bruin is gekleurd
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('feb15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -666,45 +415,45 @@
 			  <h2>Vitello Chimay</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten</h3>
-				<ul>
-				  <li>varkenshaasjes-gandaham of bacon</li>    
-				  <li>150gr gerookt en gebakken spek</li>
-				  <li>2 lep fijngehakte peterselie</li>
-				  <li>150 gr blokjes jonge kaas</li> 
-				  <li>rucolasla (één bakje)</li>   
-				  <li>pepper & zout</li>  
-				  <li>nootmuskaat</li>
-				  <li>aardappelen</li>                          
-				  <li>chimaykaas</li>
-				  <li>boter</li>
-				  <li>melk</li>
-				  <li>ei</li>
-				</ul>
+				
+- varkenshaasjes-gandaham of bacon    
+- 150gr gerookt en gebakken spek
+- 2 lep fijngehakte peterselie
+- 150 gr blokjes jonge kaas 
+- rucolasla (één bakje)   
+- pepper & zout  
+- nootmuskaat
+- aardappelen                          
+- chimaykaas
+- boter
+- melk
+- ei
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ul>
-					<li>
+				
+- 
 						<p>Voorbereiding</p>
-						<ol>
-							<li>kook de aardappelen en stamp fijn</li>
-							<li>Meng met melk/klontje boter/ei en breng op smaak met pepper, zout & nootmuskaat</li>
-							<li>Meng blokjes kaas, gebakken spek en peterselie door de puree</li>
-							<li>Bak het vlees mooi bruin (juist aanbakken) en kruid met pepper & zout</li>
-							<li>Snij het vlees in en beleg met een snede ham, chimaykaas & rucola <i>(cfr orloffgebraad)</i></li>
-						</ol>
-					</li>
-					<li>
+						
+		- kook de aardappelen en stamp fijn
+		- Meng met melk/klontje boter/ei en breng op smaak met pepper, zout & nootmuskaat
+		- Meng blokjes kaas, gebakken spek en peterselie door de puree
+		- Bak het vlees mooi bruin (juist aanbakken) en kruid met pepper & zout
+		- Snij het vlees in en beleg met een snede ham, chimaykaas & rucola <i>(cfr orloffgebraad)</i>
+						
+					
+- 
 						<p>À la minute</p>
-						<ol>
-							<li>gedurende 12 tal minuten garen met het bakvet in voorverwarmde oven van 180°c</li>
-							<li>Puree presenteren in een ring & daarin het vlees schikken</li>
-							<li>Bord afwerken met een straaltje olijfolie en straaltje balsamicoazijn.</li>
-							<li>De jus deglaceren met 1 ½ dl bruine fond, 2 dl room samen aan de kook brengen</li>
-							<li>Op smaak brengen met pepper & zout en wat aalbessenconfituur toevoegen</li>
-						</ol>
-					</li>
-				</ul>
+						
+		- gedurende 12 tal minuten garen met het bakvet in voorverwarmde oven van 180°c
+		- Puree presenteren in een ring & daarin het vlees schikken
+		- Bord afwerken met een straaltje olijfolie en straaltje balsamicoazijn.
+		- De jus deglaceren met 1 ½ dl bruine fond, 2 dl room samen aan de kook brengen
+		- Op smaak brengen met pepper & zout en wat aalbessenconfituur toevoegen
+						
+					
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('jan15')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -715,20 +464,20 @@
 			  <h2>Jackpot Mocktail</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten</h3>
-				<ul>
-				  <li>60ml pompelmoessap</li>
-				  <li>30ml limoensap</li>
-				  <li>15ml grenadine</li>
-				</ul>
+				
+- 60ml pompelmoessap
+- 30ml limoensap
+- 15ml grenadine
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ol>
-					<li>Doe alles in een shaker met wat ijs</li>
-					<li>Schud tot gekoeld</li>
-					<li>Zeef in een cocktailglas</li>
-					<li>Garneer met een stukje pompelmoes</li>
-				</ol>
+				
+- Doe alles in een shaker met wat ijs
+- Schud tot gekoeld
+- Zeef in een cocktailglas
+- Garneer met een stukje pompelmoes
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('dec14')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -739,31 +488,31 @@
 			  <h2>Moelleux  van chocolade</h2>
 			  <div class="ingredienten">
 				<h3>Ingrediënten</h3>
-				<ul>
-				  <li>100 g donkere chocolade</li>
-				  <li>110 g boter</li>
-				  <li>50 g gezeefde bloem (patisseriebloem)</li>
-				  <li>100 g suiker</li>
-				  <li>vanille-ijs en/of vers rood fruit</li>
-				  <li>4 eieren</li>
-				</ul>
+				
+- 100 g donkere chocolade
+- 110 g boter
+- 50 g gezeefde bloem (patisseriebloem)
+- 100 g suiker
+- vanille-ijs en/of vers rood fruit
+- 4 eieren
+				
 			  </div>
 			  <div class="bereiding">
 				<h3>Bereidingswijze</h3>
-				<ol>
-					<li>Weeg alle ingrediënten zorgvuldig af. Dat is zeer belangrijk voor het eindresultaat.</li>
-					<li>Neem de helft van de eieren en meng ze volledig met de suiker. Doe hetzelfde met de dooiers van de andere helft.</li>
-					<li>Zeef de bloem in de mengkom en klop het geheel goed los tot je een homogene massa krijgt.</li>
-					<li>Smelt de chocolade samen met de boter en voeg ze toe aan het mengsel.</li>
-					<li>Giet het geheel in een gesloten spuitzak. Laat deze afkoelen in de koelkast, zodat het mengsel wat kan opstijven.</li>
-					<li>Bak de moelleux vlak voor het serveren. Tot zolang kan het beslag in de koelkast blijven liggen.</li>
-					<li>Laat de oven voorwerwarmen op 210°C. Hou de bakplaat apart.</li>
-					<li>Wrijf de binnenzijde van de serveerringen in met een beetje boter en strooi er vervolgens wat bloem over. Dat is belangrijk om de gebakjes later makkelijk los te maken uit de vorm.</li>
-					<li>Plaats de ringen op de bakplaat, op een vel bakpapier of een siliconenmatje. Spuit dan het beslag in de vormpjes. Let op: vul elke ring voor 2/3 met het beslag. Het gebak zal rijzen in de oven.</li>
-					<li>Bak de moelleux 8 à 10 minuten in de oven op 210 °C. De baktijd hangt af van het type oven.</li>
-					<li>Maak de gebakjes voorzichtig los en zet er ééntje op elk dessertbord. Het hart van de moelleux moet vloeibaar zijn. Meteen serveren!</li>
-					<li>Serveer de warme moelleux met een bol vanille-ijs en/of een beetje vers rood fruit.</li>
-				</ol>
+				
+- Weeg alle ingrediënten zorgvuldig af. Dat is zeer belangrijk voor het eindresultaat.
+- Neem de helft van de eieren en meng ze volledig met de suiker. Doe hetzelfde met de dooiers van de andere helft.
+- Zeef de bloem in de mengkom en klop het geheel goed los tot je een homogene massa krijgt.
+- Smelt de chocolade samen met de boter en voeg ze toe aan het mengsel.
+- Giet het geheel in een gesloten spuitzak. Laat deze afkoelen in de koelkast, zodat het mengsel wat kan opstijven.
+- Bak de moelleux vlak voor het serveren. Tot zolang kan het beslag in de koelkast blijven liggen.
+- Laat de oven voorwerwarmen op 210°C. Hou de bakplaat apart.
+- Wrijf de binnenzijde van de serveerringen in met een beetje boter en strooi er vervolgens wat bloem over. Dat is belangrijk om de gebakjes later makkelijk los te maken uit de vorm.
+- Plaats de ringen op de bakplaat, op een vel bakpapier of een siliconenmatje. Spuit dan het beslag in de vormpjes. Let op: vul elke ring voor 2/3 met het beslag. Het gebak zal rijzen in de oven.
+- Bak de moelleux 8 à 10 minuten in de oven op 210 °C. De baktijd hangt af van het type oven.
+- Maak de gebakjes voorzichtig los en zet er ééntje op elk dessertbord. Het hart van de moelleux moet vloeibaar zijn. Meteen serveren!
+- Serveer de warme moelleux met een bol vanille-ijs en/of een beetje vers rood fruit.
+				
 			  </div>
 			  <div class="print"><a onclick="printContent('nov14')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 			</div>
@@ -774,47 +523,47 @@
 		  <h2>Stoofpot met kabeljauw</h2>
           <div class="ingredienten">
             <h3>Ingrediënten</h3>
-            <ul>
-			  <li>3 uien</li>
-			  <li>olijfolie</li>
-			  <li>korianderl</li>
-			  <li>1 kg tomaten</li>
-			  <li>250gr passata</li>
-			  <li>1 rode paprika</li>
-			  <li>aurierbladeren</li>
-			  <li>1 groene paprika</li>
-			  <li>4 grote aardappelen</li>
-			  <li>2 glazen witte wijn</li>
-			  <li>1kg kabeljauw op vel</li>
-            </ul>
+            
+			  <li>3 uien
+			  <li>olijfolie
+			  <li>korianderl
+			  <li>1 kg tomaten
+			  <li>250gr passata
+			  <li>1 rode paprika
+			  <li>aurierbladeren
+			  <li>1 groene paprika
+			  <li>4 grote aardappelen
+			  <li>2 glazen witte wijn
+			  <li>1kg kabeljauw op vel
+            
           </div>
 		  <div class="bereiding">
 			<h3>Bereidingswijze</h3>
-			<ul>
+			
 				<li>Maken van de tomatensaus
-					<ul>
-						<li>Versnipper een ajuin en bak aan in de olie</li>
-						<li>Voeg 2 à 3 fijngehakte tomaten toe</li>
-						<li>Kruid met peper en zout en laat even inkoken</li>
-						<li>Voeg na een paar minuten de passata toe</li>
-						<li>Laten sudderen op een laag vuurtje</li>
-					</ul>
-				</li>
+					
+	- Versnipper een ajuin en bak aan in de olie
+	- Voeg 2 à 3 fijngehakte tomaten toe
+	- Kruid met peper en zout en laat even inkoken
+	- Voeg na een paar minuten de passata toe
+	- Laten sudderen op een laag vuurtje
+					
+				
 				<li>Maken van het stoofpotje
-					<ul>
-						<li>Neem een grote kookpot die ook in de oven kan</li>
-						<li>Snij een ajuin in stevige ringen en bak aan in olijfolie</li>
-						<li>Snij de paprika in grove stukken en voeg toe</li>
-						<li>Schil de aardappelen, snij in dobbelstenen en laat ze mee bakken & roer geregeld om</li>
-						<li>Vel de rest van de tomaten, snijd ze in kwarten, verwijder de pitjes en voeg het vruchtvlees toe waarna je blust met de witte wijn</li>
-						<li>Voeg de tomatensaus toe aan de groenten</li>
-						<li>Kruid met peper en gemalen korianderpoeder en leg 2 laurierbladen in de saus</li>
-						<li>Spoel de vis, snijd in stukken en leg boven op de groenten met de velkant naar beneden</li>
-						<li>Duw de vis een beetje, maar niet helemaal in de saus</li>
-						<li>Sluit de pot met een deksel en zet in een voorverwarmde oven van 175 ° gedurende 45 à 50 minuten.</li>
-					</ul>
-				</li>
-			</ul>
+					
+	- Neem een grote kookpot die ook in de oven kan
+	- Snij een ajuin in stevige ringen en bak aan in olijfolie
+	- Snij de paprika in grove stukken en voeg toe
+	- Schil de aardappelen, snij in dobbelstenen en laat ze mee bakken & roer geregeld om
+	- Vel de rest van de tomaten, snijd ze in kwarten, verwijder de pitjes en voeg het vruchtvlees toe waarna je blust met de witte wijn
+	- Voeg de tomatensaus toe aan de groenten
+	- Kruid met peper en gemalen korianderpoeder en leg 2 laurierbladen in de saus
+	- Spoel de vis, snijd in stukken en leg boven op de groenten met de velkant naar beneden
+	- Duw de vis een beetje, maar niet helemaal in de saus
+	- Sluit de pot met een deksel en zet in een voorverwarmde oven van 175 ° gedurende 45 à 50 minuten.
+					
+				
+			
 		  </div>
 		  <div class="print"><a onclick="printContent('oct14')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 		</div>
@@ -826,55 +575,55 @@
 		  <h2>Opgevulde pannenkoeken met kaas & hesp</h2>
           <div class="ingredienten">
             <h3>Ingrediënten</h3>
-            <ul>
-			  <li>zout</li>
-			  <li>eiwit</li>
-			  <li>kaneel</li>
-			  <li>2 eieren</li>
-			  <li>1/4 l melk</li>
-			  <li>paneermeel</li>
-			  <li>1/4 l melk</li>
-			  <li>125 gr bloem</li>
-			  <li>2 lepels olie</li>
-			  <li>1 lepel boter</li>
-			  <li>3 schellen hesp</li>
-			  <li>50gr gemalen kaas</li>
-			  <li>mespuntje bakpoeder</li>
-			  <li>2 halve lepels bloem</li>
-            </ul>
+            
+			  <li>zout
+			  <li>eiwit
+			  <li>kaneel
+			  <li>2 eieren
+			  <li>1/4 l melk
+			  <li>paneermeel
+			  <li>1/4 l melk
+			  <li>125 gr bloem
+			  <li>2 lepels olie
+			  <li>1 lepel boter
+			  <li>3 schellen hesp
+			  <li>50gr gemalen kaas
+			  <li>mespuntje bakpoeder
+			  <li>2 halve lepels bloem
+            
           </div>
 		  <div class="bereiding">
 			<h3>Bereidingswijze (10/12 pannenkoeken)</h3>
-			<ul>
-				<li>Pannenkoeken -
-					<ol>
-						<li> meng bakpoeder onder bloem in een deegkom</li>
-						<li>strooi kaneel, voeg zout toe & maak een kuiltje</li>
-						<li>breng de eidooiers in het kuiltje en roer ze ondereen</li>
-						<li>voeg geleidelijk de melk erbij, roer alle klonters eruit</li>
-						<li>klop eiwit tot sneeuw en schep het onder het deeg</li>
-						<li>bak goudgele pannenkoekjes</li>
-					</ol>
-				</li>
-				<li>Saus -
-					<ol>
-						<li>plaats de pan van het vuur en roer er de bloem bij</li>
-						<li>voeg er geleidelijk de melk bij & goed laten doorkoken </li>
-						<li>voeg er de gemalen kaas bij en roer tot hij gesmolten is</li>
-						<li>snijd de hesp in kleine blokjes & meng deze onder de saus</li>
-						<li>breng de saus verder op smaak met peper en zout</li>
-					</ol>
-				</li>
-				<li>Afwerking -
-					<ol>
-						<li>leg ongeveer 1 lp saus op de helft van een pannenkoek</li>
-						<li>maak de boorden van de pannenkoek met wat water nat</li>
-						<li>plooi de pannenkoek toe en druk met de vingertoppen beide kanten goed op elkaar</li>
-						<li>wentel de pannenkoeken voorzichtig in eiwit & daarna in paneermeel</li>
-						<li>bak de gepaneerde pannenkoekjes in de frituur (180°) & dien warm op (als tussengerecht)</li>
-					</ol>
-				</li>
-			</ul>
+			
+				<li>Pannenkoeken- 
+					
+	-  meng bakpoeder onder bloem in een deegkom
+	- strooi kaneel, voeg zout toe & maak een kuiltje
+	- breng de eidooiers in het kuiltje en roer ze ondereen
+	- voeg geleidelijk de melk erbij, roer alle klonters eruit
+	- klop eiwit tot sneeuw en schep het onder het deeg
+	- bak goudgele pannenkoekjes
+					
+				
+				<li>Saus- 
+					
+	- plaats de pan van het vuur en roer er de bloem bij
+	- voeg er geleidelijk de melk bij & goed laten doorkoken 
+	- voeg er de gemalen kaas bij en roer tot hij gesmolten is
+	- snijd de hesp in kleine blokjes & meng deze onder de saus
+	- breng de saus verder op smaak met peper en zout
+					
+				
+				<li>Afwerking- 
+					
+	- leg ongeveer 1 lp saus op de helft van een pannenkoek
+	- maak de boorden van de pannenkoek met wat water nat
+	- plooi de pannenkoek toe en druk met de vingertoppen beide kanten goed op elkaar
+	- wentel de pannenkoeken voorzichtig in eiwit & daarna in paneermeel
+	- bak de gepaneerde pannenkoekjes in de frituur (180°) & dien warm op (als tussengerecht)
+					
+				
+			
 		  </div>
 		  <div class="print"><a onclick="printContent('sept14')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 		</div>
@@ -886,25 +635,25 @@
 		  <h2>Peptaartje</h2>
           <div class="ingredienten">
             <h3>Ingrediënten</h3>
-            <ul>
-			  <li>750 ml melk</li>
-			  <li>10 klontjes suiker</li>
-			  <li>2 volledige eieren</li>
-			  <li>een stuk boter</li>
-			  <li>100 gr rozijnen</li>
-			  <li>5 eierkoeken</li>
-            </ul>
+            
+			  <li>750 ml melk
+			  <li>10 klontjes suiker
+			  <li>2 volledige eieren
+			  <li>een stuk boter
+			  <li>100 gr rozijnen
+			  <li>5 eierkoeken
+            
           </div>
 		  <div class="bereiding">
 			<h3>Bereidingswijze</h3>
-			<ol>
-			    <li>Eierkoeken in stukjes doen en de boter in kleine klompjes verdelen</li>
-				<li>Melk goed opwarmen en van het vuur nemen om daarna de verbrokkelde eierkoeken en boter toevoegen al roerende</li>
-				<li>De eieren apart goed klutsen en toevoegen aan het mengsel met de rozijnen en de suiker</li>
-				<li>Het mengsel terug op het vuur zetten op een laag vuurtje en goed dooreen roeren</li>
-				<li>Boter de vorm goed in en stort hierin het mengsel</li>
-				<li>Bak dit ongeveer 30 minuten op 180° en laat enkele minuten nagaren in een uitgeschakelde oven</li>
-			</ol>
+			
+			    <li>Eierkoeken in stukjes doen en de boter in kleine klompjes verdelen
+				<li>Melk goed opwarmen en van het vuur nemen om daarna de verbrokkelde eierkoeken en boter toevoegen al roerende
+				<li>De eieren apart goed klutsen en toevoegen aan het mengsel met de rozijnen en de suiker
+				<li>Het mengsel terug op het vuur zetten op een laag vuurtje en goed dooreen roeren
+				<li>Boter de vorm goed in en stort hierin het mengsel
+				<li>Bak dit ongeveer 30 minuten op 180° en laat enkele minuten nagaren in een uitgeschakelde oven
+			
 		  </div>
 		  <div class="print"><a onclick="printContent('aug14')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 		</div>
@@ -916,24 +665,24 @@
 		  <h2>Plattekaastaart</h2>
           <div class="ingredienten">
             <h3>Ingrediënten</h3>
-            <ul>
-              <li>500 gr platte kaas</li>
-			  <li>3 eieren</li>
-			  <li>125 gr suiker</li>
-			  <li>1 zakje vanillesuiker</li>
-			  <li>1 soeplepel vanillebloem</li>
-			  <li>bladerdeeg</li>
-            </ul>
+            
+              <li>500 gr platte kaas
+			  <li>3 eieren
+			  <li>125 gr suiker
+			  <li>1 zakje vanillesuiker
+			  <li>1 soeplepel vanillebloem
+			  <li>bladerdeeg
+            
           </div>
 		  <div class="bereiding">
 			<h3>Bereidingswijze</h3>
-			<ol>
-			    <li>meng de platte kaas met de suiker</li>
-				<li>vanillesuiker en de vanillebloem (of maizena) & doe er het eigeel bij.</li>
-				<li>Klop de eiwitten stijf en spatel ze onder het mengsel</li>
-				<li>Leg het bladerdeeg in de bakvorm & stort er het mengsel op.</li>
-				<li>Bak ongeveer 35 minuten op 160°</li>
-			</ol>
+			
+			    <li>meng de platte kaas met de suiker
+				<li>vanillesuiker en de vanillebloem (of maizena) & doe er het eigeel bij.
+				<li>Klop de eiwitten stijf en spatel ze onder het mengsel
+				<li>Leg het bladerdeeg in de bakvorm & stort er het mengsel op.
+				<li>Bak ongeveer 35 minuten op 160°
+			
 		  </div>
 		  <div class="print"><a onclick="printContent('jun14')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 		</div>
@@ -945,24 +694,24 @@
 		  <h2>Tagliatelle met gerookte zalm</h2>
           <div class="ingredienten">
             <h3>Ingrediënten</h3>
-            <ul>
-              <li>400 gr tagliatelle</li>
-			  <li>250 gr gerookte zalm</li>
-			  <li>25 cl room</li>
-			  <li>peper</li>
-			  <li>eventueel 1 kopje fijngehakte kruiden <br /><i>(dille, peterselie, kervel, dragon en bieslook)</i></li>
-            </ul>
+            
+              <li>400 gr tagliatelle
+			  <li>250 gr gerookte zalm
+			  <li>25 cl room
+			  <li>peper
+			  <li>eventueel 1 kopje fijngehakte kruiden <br /><i>(dille, peterselie, kervel, dragon en bieslook)</i>
+            
           </div>
 		  <div class="bereiding">
 			<h3>Bereidingswijze</h3>
-			<ol>
-			    <li>snij de gerookte zalm in reepjes</li>
-				<li>Breng water aan de kook met zout en olie voor de pasta</li>
-				<li>Kook de tagliatelle aan de hand van de aanwijzingen op de verpakking</li>
-				<li>Warm ondertussen in een pannetje de room op met de fijngehakte kruiden &voeg peper toe</li>
+			
+			    <li>snij de gerookte zalm in reepjes
+				<li>Breng water aan de kook met zout en olie voor de pasta
+				<li>Kook de tagliatelle aan de hand van de aanwijzingen op de verpakking
+				<li>Warm ondertussen in een pannetje de room op met de fijngehakte kruiden &voeg peper toe
 				<li>Meng vlak voor het opdienen de gerookte zalm door de room<br /><i>(opgelet, de zalm mag niet gekookt worden!)</i>
-				<li>Breng verder op smaak. Verdeel de pasta en overgiet met de saus.</li>
-			</ol>
+				<li>Breng verder op smaak. Verdeel de pasta en overgiet met de saus.
+			
 		  </div>
 		  <div class="print"><a onclick="printContent('mei14')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 		</div>
@@ -974,33 +723,33 @@
 		  <h2>Speculooskaastaart</h2>
           <div class="ingredienten">
             <h3>Ingrediënten</h3>
-            <ul>
-              <li>1 vel kruimeldeeg</li>
-              <li>3 eieren</li>
-              <li>100g fijne suiker</li>
-              <li>1 eetlepel patisseriebloem</li>
-              <li>40g speculoos</li>
-              <li>2 eetlepels amaretto</li>
-              <li>500g volle plattekaas</li>
-              <li>slagroom om af te werken</li>
-            </ul>
+            
+              <li>1 vel kruimeldeeg
+              <li>3 eieren
+              <li>100g fijne suiker
+              <li>1 eetlepel patisseriebloem
+              <li>40g speculoos
+              <li>2 eetlepels amaretto
+              <li>500g volle plattekaas
+              <li>slagroom om af te werken
+            
           </div>
 		  <div class="bereiding">
 			<h3>Bereidingswijze</h3>
-			<ol>
-			    <li>Verwarm de oven voor op 210°C</li>
-			    <li>Leg het kruimeldeeg met het bakpapier in een springvorm. Druk de zijkanten goed aan</li>
-			    <li>Splits de eieren</li>
-			    <li>Klop het eigeel los en meng met de suiker en de bloem</li>
-			    <li>Maal de speculoos fijn en voeg bij het eiermengsel</li>
-			    <li>Voeg de amaretto toe</li>
-			    <li>Meng met de plattekaas</li>
-			    <li>Klop de eiwitten stijf en schep ze door het mengsel</li>
-			    <li>Schep alles in een springvorm en strijk de bovenkant glad</li>
-			    <li>Bak 30 à 35 minuten in de voorverwarmde oven</li>
-			    <li>Laat even afkoelen, haal uit de springvorm en laat verder afkoelen op een rooster</li>
-			    <li>Snij in stukken en werk af met slagroom</li>
-			</ol>
+			
+			    <li>Verwarm de oven voor op 210°C
+			    <li>Leg het kruimeldeeg met het bakpapier in een springvorm. Druk de zijkanten goed aan
+			    <li>Splits de eieren
+			    <li>Klop het eigeel los en meng met de suiker en de bloem
+			    <li>Maal de speculoos fijn en voeg bij het eiermengsel
+			    <li>Voeg de amaretto toe
+			    <li>Meng met de plattekaas
+			    <li>Klop de eiwitten stijf en schep ze door het mengsel
+			    <li>Schep alles in een springvorm en strijk de bovenkant glad
+			    <li>Bak 30 à 35 minuten in de voorverwarmde oven
+			    <li>Laat even afkoelen, haal uit de springvorm en laat verder afkoelen op een rooster
+			    <li>Snij in stukken en werk af met slagroom
+			
 		  </div>
 		  <div class="print"><a onclick="printContent('april14')" alt="Print deze pagina af"><img src="images/printer_icon.png" width="20" height="22" alt="print" /></a> </div>
 		</div>
