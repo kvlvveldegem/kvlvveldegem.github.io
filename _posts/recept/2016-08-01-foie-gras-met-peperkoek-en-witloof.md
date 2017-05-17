@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Hapje van foie gras met peperkoek en chutney van witloof"
-date: 2017-03-1 12:00:00 +0000
+date: 2016-08-1 12:00:00 +0000
 published: true
 categories: ["Recepten"]
 tags: ["Recept"]

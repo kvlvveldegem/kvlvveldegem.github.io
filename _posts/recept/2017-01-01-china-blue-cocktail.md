@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "China Blue cocktail"
-date: 2017-03-1 12:00:00 +0000
+date: 2017-01-1 12:00:00 +0000
 comments: true
 published: true
 categories: ["Recepten"]
