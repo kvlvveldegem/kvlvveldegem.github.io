@@ -17,6 +17,9 @@ author_profile: true
 - donderdag 12 oktober - _Alcohol: Nuchter Bekeken_
 - dinsdag 24 oktober - _2017@2018: Instuifavond_
 
+<a href="{{base_path}}">test</a>
+<a href="{{base_path}}/assets/media/agenda/2017-09-03-ontbijt.jpg">test</a>
+
 ## November 2017
 
 - woensdag 8 november - _Showoptreden Ann Helena Kenis_
