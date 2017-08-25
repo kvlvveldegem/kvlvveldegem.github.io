@@ -7,7 +7,7 @@ author_profile: true
 
 ## September 2017
 
-- zondag 3 september - [_Ontbijt_](./assets/media/agenda/2017-09-03-ontbijt.jpg)
+- zondag 3 september - [_Ontbijt_](./../assets/media/agenda/2017-09-03-ontbijt.jpg)
 - woensdag 13, 20, 27 september - _Start Sportreeks (10x)_
 - zondag 24 september - _Bezoek aan wijndomein Monteberg_
 
