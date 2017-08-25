@@ -5,22 +5,6 @@ title: "Agenda"
 author_profile: true
 ---
 
-## Mei 2017
-
-- maandag 29 mei - _Geocaching_
-
-## Juni 2017
-
-- woensdag 20 juni - _BBQ @ MyGarden_
-- vrijdag 23 juni - _24 uur van de mantelzorger_
-
-## Juli 2017
-
-- donderdag 6 juli - _Fietselieren_
-
-## Augustus 2017
-KVLV uitrustmoment
-
 ## September 2017
 
 - zondag 3 september - _Ontbijt_
