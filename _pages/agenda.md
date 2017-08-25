@@ -7,7 +7,7 @@ author_profile: true
 
 ## September 2017
 
-- zondag 3 september - [_Ontbijt_](./../assets/media/agenda/2017-09-03-ontbijt.jpg)
+- zondag 3 september - [_Ontbijt_](/assets/media/agenda/2017-09-03-ontbijt.jpg)
 - woensdag 13, 20, 27 september - _Start Sportreeks (10x)_
 - zondag 24 september - _Bezoek aan wijndomein Monteberg_
 
@@ -17,10 +17,6 @@ author_profile: true
 - donderdag 12 oktober - _Alcohol: Nuchter Bekeken_
 - dinsdag 24 oktober - _2017@2018: Instuifavond_
 
-This works
-<a href='{{ base }}'>Back to home</a>
-<a href="{{base_path}}/assets/media/agenda/2017-09-03-ontbijt.jpg">test</a>
-Stopped working
 ## November 2017
 
 - woensdag 8 november - _Showoptreden Ann Helena Kenis_
