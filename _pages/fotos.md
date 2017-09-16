@@ -5,5 +5,11 @@ title: "Foto's"
 author_profile: true
 ---
 
-- [Jaaropener 2017](https://www.flickr.com/photos/154196119@N08/albums/72157681407894741)
+# 2017
+- [Geocaching](https://www.flickr.com/photos/kvlvveldegem/sets/72157686692046513)
+- [Focken](https://www.flickr.com/photos/kvlvveldegem/sets/72157689121310375)
+- [BBQ @ My Home](https://www.flickr.com/photos/kvlvveldegem/sets/72157685230332652)
+- [Eerste Hulp Bij Autoproblemen (EHBA)](https://www.flickr.com/photos/kvlvveldegem/sets/72157686692051983)
+
+# 2016
 - [Sharefair 2016](https://www.flickr.com/photos/154196119@N08/albums/72157680340920374)
