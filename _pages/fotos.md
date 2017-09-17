@@ -29,6 +29,49 @@ author_profile: true
 - [Stap & Hap Brugge](https://www.flickr.com/photos/kvlvveldegem/albums/72157689128367445)
 - [Workshop Maquillage](https://www.flickr.com/photos/kvlvveldegem/albums/72157686721212294)
 
+## 2015
+- [Bezoek aan Lobster Fish](https://www.flickr.com/photos/kvlvveldegem/albums/72157686023260591)
+- [Crea-café - Feesten tussen bloemen](https://www.flickr.com/photos/kvlvveldegem/albums/72157686755444254)
+- [Gin Tasting](https://www.flickr.com/photos/kvlvveldegem/albums/72157686023271051)
+- [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157686023284841)
+- [Lievekensfeest](https://www.flickr.com/photos/kvlvveldegem/albums/72157686755515274)
+- [Ontbijtroute](https://www.flickr.com/photos/kvlvveldegem/albums/72157686023345241)
+- [Oorbellen, zo gemaakt!](https://www.flickr.com/photos/kvlvveldegem/albums/72157686271554780)
+- [ShareFair](https://www.flickr.com/photos/kvlvveldegem/albums/72157686755514504)
+- [Vroegmarkt In Brussel](https://www.flickr.com/photos/kvlvveldegem/albums/72157686755508314)
+
+## 2014
+- [Bezoek Aan Aspergeboerderij](https://www.flickr.com/photos/kvlvveldegem/albums/72157686732966703)
+- [Culinaire Avondwandeling In Ieper](https://www.flickr.com/photos/kvlvveldegem/albums/72157686732978473)
+- [Fietselieren](https://www.flickr.com/photos/kvlvveldegem/albums/72157689167141605)
+- [Handverzorging](https://www.flickr.com/photos/kvlvveldegem/albums/72157688514699206)
+- [Instuifavond](https://www.flickr.com/photos/kvlvveldegem/albums/72157685263320972)
+- [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157688514715416)
+- [Leer Naaien Met De Naaimachine](https://www.flickr.com/photos/kvlvveldegem/albums/72157686023209871)
+- [Ontbijtroute](https://www.flickr.com/photos/kvlvveldegem/albums/72157689167190605)
+- [ShareFair](https://www.flickr.com/photos/kvlvveldegem/albums/72157686271480370)
+- [Sjaal In De Knoop](https://www.flickr.com/photos/kvlvveldegem/albums/72157686755388414)
+- [Styling Tips & Tricks](https://www.flickr.com/photos/kvlvveldegem/albums/72157688514763826)
+
+## 2013
+- [Goed Gevoel](https://www.flickr.com/photos/kvlvveldegem/albums/72157686732573553)
+- [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157685262905182)
+- [Kleurenconsulente](https://www.flickr.com/photos/kvlvveldegem/albums/72157686754862474)
+- [Ontbijtroute](https://www.flickr.com/photos/kvlvveldegem/albums/72157686022843721)
+- [Sfeerverlichting Gips](https://www.flickr.com/photos/kvlvveldegem/albums/72157686754904394)
+- [Soirée Parfumée](https://www.flickr.com/photos/kvlvveldegem/albums/72157686754942814)
+- [Sing Your Song](https://www.flickr.com/photos/kvlvveldegem/albums/72157686022885451)
+- [Trendy Sjaal](https://www.flickr.com/photos/kvlvveldegem/albums/72157689166708265)
+- [Wijndegustatie](https://www.flickr.com/photos/kvlvveldegem/albums/72157686732660363)
+
+## 2012
+- [Bedrijf in actie](https://www.flickr.com/photos/kvlvveldegem/sets/72157689166500785)
+- [Feestmenu](https://www.flickr.com/photos/kvlvveldegem/sets/72157689166482465)
+- [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/sets/72157689166474795)
+- [Maastricht](https://www.flickr.com/photos/kvlvveldegem/sets/72157686732471593)
+- [Ontbijtroute](https://www.flickr.com/photos/kvlvveldegem/sets/72157688514259546)
+
 ## 2011
+- [Maffiafeest](https://www.flickr.com/photos/kvlvveldegem/albums/72157686754555704)
 - [Ontbijtroute](https://www.flickr.com/photos/kvlvveldegem/albums/72157686698638583)
 - [Start De Passie](https://www.flickr.com/photos/kvlvveldegem/albums/72157686721592014)
