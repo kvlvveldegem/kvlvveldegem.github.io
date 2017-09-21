@@ -4,13 +4,13 @@ layout: archive
 
 Welkom bij KVLV Veldegem!
 
-<center>Ontdek je graag nieuwe, hippe dingen?</center>
-<center>Wil je nieuwe vrouwen leren kennen?</center>
-<center>Ben je zot van crea of koken?</center>
-<center>Of ben je sportief?</center>
-<center>Leer je graag iets bij?</center>
-<center>Hou je van gezelligheid en afspreken met vriendinnen?</center>
+<p style="text-align: center">Ontdek je graag nieuwe, hippe dingen?</p>
+<p style="text-align: center">Wil je nieuwe vrouwen leren kennen?</p>
+<p style="text-align: center">Ben je zot van crea of koken?</p>
+<p style="text-align: center">Of ben je sportief?</p>
+<p style="text-align: center">Leer je graag iets bij?</p>
+<p style="text-align: center">Hou je van gezelligheid en afspreken met vriendinnen?</p>
 
-<center>Dan is KVLV, Vrouwen met Vaart zeker iets voor jou!</center>
+<p style="text-align: center">Dan is KVLV, Vrouwen met Vaart zeker iets voor jou!</p>
 
-<center>Zin in meer?</center>
+<p style="text-align: center">Zin in meer?</p>
