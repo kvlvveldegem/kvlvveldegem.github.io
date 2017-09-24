@@ -11,4 +11,4 @@ Hou je van gezelligheid en afspreken met vriendinnen?</p>
 
 <p style="text-align: center"><b>Dan is KVLV, Vrouwen met Vaart zeker iets voor jou!</b></p>
 
-<p style="text-align: center">Zin in meer? Wordt dan zeker <a href="lid-worden">lid van KVLV</a>!</p>
+<p style="text-align: center">Welkom bij KVLV Veldegem!</p>
