@@ -15,7 +15,7 @@ author_profile: true
 
 - woensdag 4, 11, 18, 25 oktober - [_Sport_](/assets/media/agenda/2017-09-13-Sport.pdf)
 - donderdag 12 oktober - [_Alcohol: Nuchter Bekeken_](/assets/media/agenda/2017-10-12-alcohol-nuchter-bekeken.jpg)
-- dinsdag 24 oktober - _2017@2018: Instuifavond_
+- dinsdag 24 oktober - [_2017@2018: Instuifavond_](/assets/media/agenda/2017-10-24-instuif.jpg)
 
 ## November 2017
 
