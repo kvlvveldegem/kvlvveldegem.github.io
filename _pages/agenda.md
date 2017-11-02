@@ -22,9 +22,9 @@ author_profile: true
 - woensdag 8 november - _Showoptreden Ann Helena Kenis_
 - woensdag 8/15/22 november - [_Sport_](/assets/media/agenda/2017-09-13-Sport.pdf)
 - dinsdag 14 november - [_Zorg voor je rug_](/assets/media/agenda/2017-11-14-zorg-voor-je-rug.jpg)
-- woensdag 29 november - _Crea-Café: Tweekleurige sjaal haken_
+- woensdag 29 november - [_Crea-Café: Tweekleurige sjaal haken_](/assets/media/agenda/2017-11-29-crea-cafe.jpg)
 
 ## December 2017
 
 - donderdag 7 december - _Kookles (namiddag + avond)_
-- woensdag 13 december - _Crea-Café: Tweekleurige sjaal haken_
+- woensdag 13 december - [_Crea-Café: Tweekleurige sjaal haken_](/assets/media/agenda/2017-11-29-crea-cafe.jpg)
