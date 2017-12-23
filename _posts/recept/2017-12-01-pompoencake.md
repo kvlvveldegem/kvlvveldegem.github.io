@@ -2,7 +2,7 @@
 layout: single
 title: "Pompoencake"
 date: 2017-12-1 12:00:00 +0000
-published: false
+published: true
 categories: ["Recepten"]
 tags: ["Recept"]
 author: Tom Kerkhove
