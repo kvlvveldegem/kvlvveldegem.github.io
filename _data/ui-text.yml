@@ -722,7 +722,7 @@ nl: &DEFAULT_NL
   toc_label                  : "Op deze pagina"
   ext_link_label             : "Directe Link"
   less_than                  : "minder dan"
-  minute_read                : "minuut gelezen"
+  minute_read                : "minuut lezen"
   share_on_label             : "Deel op"
   meta_label                 :
   tags_label                 : "Labels:"
