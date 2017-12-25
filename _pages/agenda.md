@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 ## December 2017
-- donderdag 7 december - _Kookles (namiddag + avond)_
-- woensdag 13 december - [_Crea-Café: Tweekleurige sjaal haken_](/assets/media/agenda/2017-11-29-crea-cafe.jpg)
+- **Donderdag 7 december** - Kookles (namiddag + avond)
+- **Woensdag 13 december** - [Crea-Café: Tweekleurige sjaal haken](/assets/media/agenda/2017-11-29-crea-cafe.jpg)
 
 ## Januari 2018
-- donderdag 18 januari - _Jaaropener: Van oud naar nieuw_
+- **Donderdag 18 januari** - Jaaropener: _Van oud naar nieuw_
 
 ## Februari 2018
-- **donderdag 8 februari** - Baas over je blaas
-- **Donderdag 20 februari** - Kookles: streedfrood
+- **Donderdag 8 februari** - Baas over je blaas
+- **Donderdag 20 februari** - Kookles: _Streedfrood_
 
 ## Maart 2018
-- woensdag 14 maart - _Margriet Hermans: Een tocht als vluchteling_
-- donderdag 15 maart - _Cocktails @ Your Place_
+- **Woensdag 14 maart** - Margriet Hermans: _Een tocht als vluchteling_
+- **Donderdag 15 maart** - Cocktails @ Your Place
