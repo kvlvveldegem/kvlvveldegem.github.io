@@ -5,7 +5,13 @@ title: "Agenda"
 author_profile: true
 ---
 
-## December 2017
+## Januari 2018
+- Donderdag 18 januari - Jaaropener: Van oud naar nieuw
 
-- donderdag 7 december - _Kookles (namiddag + avond)_
-- woensdag 13 december - [_Crea-Café: Tweekleurige sjaal haken_](/assets/media/agenda/2017-11-29-crea-cafe.jpg)
+## Februari 2018
+- Donderdag 8 februari - Baas over je blaas
+- Donderdag 20 februari - Kookles: Streedfrood
+
+## Maart 2018
+- Woensdag 14 maart - Margriet Hermans: Een tocht als vluchteling
+- Donderdag 15 maart - Cocktails @ Your Place
