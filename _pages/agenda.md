@@ -13,8 +13,8 @@ author_profile: true
 - donderdag 18 januari - _Jaaropener: Van oud naar nieuw_
 
 ## Februari 2018
-- donderdag 8 februari - _Baas over je blaas_
-- donderdag 20 februari - _Kookles: streedfrood_
+- **donderdag 8 februari** - Baas over je blaas
+- donderdag 20 februari - **Kookles: streedfrood**
 
 ## Maart 2018
 - woensdag 14 maart - _Margriet Hermans: Een tocht als vluchteling_
