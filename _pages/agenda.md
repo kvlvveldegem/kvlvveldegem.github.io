@@ -10,7 +10,7 @@ author_profile: true
 
 ## Februari 2018
 - Donderdag 8 februari - Baas over je blaas
-- Donderdag 20 februari - Kookles: "Streedfrood"
+- Donderdag 20 februari - Kookles: "Streetfrood"
 
 ## Maart 2018
 - Woensdag 14 maart - Margriet Hermans: "Een tocht als vluchteling"
