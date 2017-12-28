@@ -16,7 +16,7 @@ Er woont zeker een bestuurslid in je buurt!
 
 |Foto                                                                           |Naam                    |Telefoonnummer  |Rol                                     |
 |-------------------------------------------------------------------------------|:-----------------------|:---------------|:---------------------------------------|
-|![Hilde Strubbe](./../assets/media/bestuur/hilde-strubbe-100.jpg)              |**Hilde Strubbe**       |_050/27.95.35_  |_Voorzitster_                           |
+|![Hilde Strubbe](./../assets/media/bestuur/hilde-strubbe-100.jpg)              |**Hilde Strubbe**       |_050/27.95.35_  |_Voorzitster & Agraverantwoordelijke_   |
 |![Mieke Devriendt](./../assets/media/bestuur/mieke-devriendt-100.jpg)          |**Mieke Devriendt**     |_050/27.54.71_  |_Secretaresse_                          |
 |![Kim Blomme](./../assets/media/bestuur/kim-blomme-100.jpg)                    |**Kim Blomme**          |_0478/69.87.99_ |_Secretaresse_                          |
 |![Nancy Bolle](./../assets/media/bestuur/nancy-bolle-100.jpg)                  |**Nancy Bolle**         |_050/20.86.77_  |_Bestuurslid & Gewestverantwoordelijke_ |
