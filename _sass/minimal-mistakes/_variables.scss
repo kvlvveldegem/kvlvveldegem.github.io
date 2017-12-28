@@ -61,6 +61,7 @@ $text-color                 : $dark-gray !default;
 $border-color               : $lighter-gray !default;
 
 $primary-color              : #7a8288 !default;
+$primary-navigation-color   : #7a8288 !default;
 $success-color              : #62c462 !default;
 $warning-color              : #f89406 !default;
 $danger-color               : #ee5f5b !default;
@@ -93,8 +94,8 @@ $xing-color                 : #006567 !default;
 $link-color                 : $info-color !default;
 $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 25%) !default;
-$masthead-link-color        : $primary-color !default;
-$masthead-link-color-hover  : mix(#a0ad5b, $primary-color, 25%) !default;
+$masthead-link-color        : $primary-navigation-color !default;
+$masthead-link-color-hover  : mix(#a0ad5b, $primary-navigation-color, 25%) !default;
 
 
 /*
