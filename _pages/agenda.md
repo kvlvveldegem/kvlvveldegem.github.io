@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Januari 2018
-- Donderdag 18 januari - Jaaropener: "Van oud naar nieuw"
+- Donderdag 18 januari - [Jaaropener: "Van oud naar nieuw"](/assets/media/agenda/2018-01-18-jaaropener.png)
 
 ## Februari 2018
 - Donderdag 8 februari - Baas over je blaas
