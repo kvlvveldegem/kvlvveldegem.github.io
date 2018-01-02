@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /lid-worden/
-title: "Lid Worden"
+title: "Lid worden"
 author_profile: true
 ---
 
