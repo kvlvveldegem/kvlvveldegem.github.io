@@ -9,7 +9,7 @@ author_profile: true
 - Donderdag 18 januari - [Jaaropener: "Van oud naar nieuw"](/assets/media/agenda/2018-01-18-jaaropener.png)
 
 ## Februari 2018
-- Donderdag 8 februari - Baas over je blaas
+- Donderdag 8 februari - [Baas over je blaas](/assets/media/agenda/2018-01-18-baas-over-je-blaas.jpg)
 - Donderdag 20 februari - Kookles: "Streetfrood"
 
 ## Maart 2018
