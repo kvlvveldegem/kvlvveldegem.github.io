@@ -13,7 +13,7 @@ author_profile: true
 - Donderdag 20 februari - Kookles: "Streetfrood"
 
 ## Maart 2018
-- Woensdag 14 maart - Margriet Hermans: "Een tocht als vluchteling"
+- Woensdag 14 maart - [Margriet Hermans: "Een tocht als vluchteling"](/assets/media/agenda/2018-03-14-margriet-hermans.jpg)
 - Donderdag 15 maart - Cocktails @ Your Place
 
 ## April 2018
