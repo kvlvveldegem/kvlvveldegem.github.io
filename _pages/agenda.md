@@ -17,7 +17,7 @@ author_profile: true
 - Donderdag 15 maart - Cocktails @ Your Place
 
 ## April 2018
-- Donderdag 19 april - Beleving: Foodsharing
+- Donderdag 19 april - [Beleving: Foodsharing](/assets/media/agenda/2018-20-02-Streetfood.jpg)
 - Woensdag 25 april - Crea-Café: "Kabouters" _(deel 1)_
 - Zaterdag 28 april - Stand-up Comedian Kamal
 
