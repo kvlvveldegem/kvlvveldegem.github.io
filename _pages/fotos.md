@@ -5,7 +5,14 @@ title: "Foto's"
 author_profile: true
 ---
 
+## 2018
+- [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157691541760651)
+
 ## 2017
+- [Instuif VIP](https://www.flickr.com/photos/kvlvveldegem/albums/72157665591087438)
+- [Ontbijt](https://www.flickr.com/photos/kvlvveldegem/albums/72157692486043844)
+- [Tweekleurige sjaal haken](https://www.flickr.com/photos/kvlvveldegem/albums/72157669411562729)
+- [Monteberg](https://www.flickr.com/photos/kvlvveldegem/albums/72157693259692015)
 - [BBQ @ My Home](https://www.flickr.com/photos/kvlvveldegem/albums/72157685230332652)
 - [Contest Of The Best](https://www.flickr.com/photos/kvlvveldegem/albums/72157689128218405)
 - [Eerste Hulp Bij Autoproblemen (EHBA)](https://www.flickr.com/photos/kvlvveldegem/albums/72157686692051983)
