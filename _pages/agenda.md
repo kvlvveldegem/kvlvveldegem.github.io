@@ -10,14 +10,14 @@ author_profile: true
 
 ## Februari 2018
 - Donderdag 8 februari - [Baas over je blaas](/assets/media/agenda/2018-01-18-baas-over-je-blaas.jpg)
-- Donderdag 20 februari - Kookles: "Streetfrood"
+- Donderdag 20 februari - [Kookles: "Streetfrood"](/assets/media/agenda/2018-20-02-Streetfood.jpg)
 
 ## Maart 2018
 - Woensdag 14 maart - [Margriet Hermans: "Een tocht als vluchteling"](/assets/media/agenda/2018-03-14-margriet-hermans.jpg)
 - Donderdag 15 maart - Cocktails @ Your Place
 
 ## April 2018
-- Donderdag 19 april - [Beleving: Foodsharing](/assets/media/agenda/2018-20-02-Streetfood.jpg)
+- Donderdag 19 april - Beleving: Foodsharing
 - Woensdag 25 april - Crea-Café: "Kabouters" _(deel 1)_
 - Zaterdag 28 april - Stand-up Comedian Kamal
 
