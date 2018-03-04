@@ -11,7 +11,8 @@ author: Tom Kerkhove
 # Ingrediënten
 Voor dit gerecht heb je volgende ingrediënten nodig :
 
-- 1 courgetteparmaham
+- 1 courgette
+- Parmaham
 - 1 handvol verse basilicum
 - 200 gr. tomatenblokjes (blik)
 - 1 teen knoflook
