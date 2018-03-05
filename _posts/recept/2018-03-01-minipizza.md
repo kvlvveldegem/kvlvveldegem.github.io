@@ -2,7 +2,7 @@
 layout: single
 title: "Minipizza's van courgette en tomaat"
 date: 2018-03-1 12:00:00 +0000
-published: true
+published: false
 categories: ["Recepten"]
 tags: ["Recept"]
 author: Tom Kerkhove
@@ -11,12 +11,12 @@ author: Tom Kerkhove
 # Ingrediënten
 Voor dit gerecht heb je volgende ingrediënten nodig :
 
-- 1 courgette
-- Parmaham
+- 1 courgetteparmaham
 - 1 handvol verse basilicum
 - 200 gr. tomatenblokjes (blik)
 - 1 teen knoflook
-- 1 el amandelmeel of bloempijnboompitten
+- 1 el amandelmeel of bloem
+- pijnboompitten
 - gemalen mozarella
 - peper & zout
 - olijfolie
