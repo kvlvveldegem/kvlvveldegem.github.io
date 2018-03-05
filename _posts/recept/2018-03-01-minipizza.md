@@ -15,7 +15,8 @@ Voor dit gerecht heb je volgende ingrediënten nodig :
 - 1 handvol verse basilicum
 - 200 gr. tomatenblokjes (blik)
 - 1 teen knoflook
-- 1 el amandelmeel of bloempijnboompitten
+- 1 el amandelmeel of bloem
+- pijnboompitten
 - gemalen mozarella
 - peper & zout
 - olijfolie
