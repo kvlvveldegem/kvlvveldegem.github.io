@@ -2,7 +2,7 @@
 layout: single
 title: "Minipizza's van courgette en tomaat"
 date: 2018-03-1 12:00:00 +0000
-published: false
+published: true
 categories: ["Recepten"]
 tags: ["Recept"]
 author: Tom Kerkhove
