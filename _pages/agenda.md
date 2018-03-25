@@ -19,7 +19,7 @@ author_profile: true
 ## April 2018
 - Donderdag 19 april - Beleving: Foodsharing
 - Woensdag 25 april - Crea-Café: "Kabouters" _(deel 1)_
-- Zaterdag 28 april - Stand-up Comedian Kamal
+- Zaterdag 28 april - [Stand-up Comedian Kamal](/assets/media/agenda/2018-04-28-Kamal.jpg)
 
 ## Mei 2018
 - Woensdag 2 mei - Crea-Café: "Kabouters" _(deel 2)_
