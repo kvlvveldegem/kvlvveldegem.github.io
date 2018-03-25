@@ -14,7 +14,7 @@ author_profile: true
 
 ## Maart 2018
 - Woensdag 14 maart - [Margriet Hermans: "Een tocht als vluchteling"](/assets/media/agenda/2018-03-14-margriet-hermans.jpg)
-- Donderdag 15 maart - Cocktails @ Your Place
+- Donderdag 15 maart - [Cocktails @ Your Place](/assets/media/agenda/2018-03-15-cocktails.jpg)
 
 ## April 2018
 - Donderdag 19 april - Beleving: Foodsharing
