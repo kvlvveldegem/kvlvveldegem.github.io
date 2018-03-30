@@ -17,8 +17,8 @@ author_profile: true
 - Donderdag 15 maart - [Cocktails @ Your Place](/assets/media/agenda/2018-03-15-cocktails.jpg)
 
 ## April 2018
-- Donderdag 19 april - Beleving: Foodsharing
-- Woensdag 25 april - Crea-Café: "Kabouters" _(deel 1)_
+- Donderdag 19 april - [Beleving: Foodsharing](/assets/media/agenda/2018-20-02-Streetfood.jpg)
+- Woensdag 25 april - [Crea-Café: "Kabouters" _(deel 1)_](/assets/media/agenda/2018-04-25-kabouters.jpg)
 - Zaterdag 28 april - [Stand-up Comedian Kamal](/assets/media/agenda/2018-04-28-Kamal.jpg)
 
 ## Mei 2018
