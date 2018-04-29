@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "<title>"
+title: "Aspergen op vlaamse wijze"
 date: 2018-04-1 12:00:00 +0000
-published: false
+published: true
 categories: ["Recepten"]
 tags: ["Recept"]
 author: Tom Kerkhove
