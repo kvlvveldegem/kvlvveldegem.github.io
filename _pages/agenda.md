@@ -23,7 +23,7 @@ author_profile: true
 
 ## Mei 2018
 - Woensdag 2 mei - Crea-Café: "Kabouters" _(deel 2)_
-- Dinsdag 15 mei - Zoete zonde
+- Dinsdag 15 mei - [Zoete zonde](/assets/media/agenda/2018-05-15-zoete-zonde.pdf)
 
 ## Juni 2018
 - Woensdag 20 juni - Midsummerpicknick : "Workshop"
