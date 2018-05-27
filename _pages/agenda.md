@@ -26,7 +26,7 @@ author_profile: true
 - Dinsdag 15 mei - [Zoete zonde](/assets/media/agenda/2018-05-15-zoete-zonde.pdf)
 
 ## Juni 2018
-- Woensdag 20 juni - Midsummerpicknick : "Workshop"
+- Woensdag 20 juni - [Midsummerpicknick : "Workshop"](/assets/media/agenda/2018-06-20-mid-summer-picknick.jpg)
 - Zaterdag 23 juni - Dag van de Mantelzorger
 
 ## Juli
