@@ -30,7 +30,7 @@ author_profile: true
 - Zaterdag 23 juni - Dag van de Mantelzorger
 
 ## Juli
-- Woensdag 4 juli - Ip de vélo: Fietstocht
+- Woensdag 4 juli - [Ip de vélo: Fietstocht](/assets/media/agenda/2018-07-04-ip-de-velo.jpg)
 
 ## September
 - Zondag 2 september - Ontbijt
