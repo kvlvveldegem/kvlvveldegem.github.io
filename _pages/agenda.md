@@ -33,7 +33,7 @@ author_profile: true
 - Woensdag 4 juli - [Ip de vélo: Fietstocht](/assets/media/agenda/2018-07-04-ip-de-velo.jpg)
 
 ## September
-- Zondag 2 september - Ontbijt
+- Zondag 2 september - [Ontbijt](/assets/media/agenda/2018-09-02-ontbijt.jpg)
 - Woensdag 12/19/26 september - Sport
 - Dinsdag 25 september - KVLV Haar Soirée
 
