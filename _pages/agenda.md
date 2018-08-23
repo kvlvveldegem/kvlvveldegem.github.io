@@ -35,9 +35,9 @@ author_profile: true
 ## September
 - Zondag 2 september - [Ontbijt](/assets/media/agenda/2018-09-02-ontbijt.jpg)
 - Woensdag 12/19/26 september - Sport
-- Dinsdag 25 september - KVLV Haar Soirée
 
 ## Oktober
+- Dinsdag 2 oktober - KVLV Haar Soirée
 - Woensdag 3/10/17/24 oktober - Sport
 - Donderdag 18 oktober - Crea-Café: "Creatief met chrysanten"
 - Dinsdag 23 oktober - 2018@2019 Instuif: "KVLV VIP Avond"
