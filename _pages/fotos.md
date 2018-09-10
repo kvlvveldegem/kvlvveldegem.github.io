@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## 2018
+- [Trio van kabouters](https://www.flickr.com/photos/kvlvveldegem/albums/72157700904226984)
+- [Midsummer Picknick](https://www.flickr.com/photos/kvlvveldegem/albums/72157700904522964)
+- [Cocktails @ Your Place](https://www.flickr.com/photos/kvlvveldegem/albums/72157673277660568)
+- [Ip de velo](https://www.flickr.com/photos/kvlvveldegem/albums/72157699597900701)
 - [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157691541760651)
 
 ## 2017
