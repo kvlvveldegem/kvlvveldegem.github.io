@@ -37,7 +37,7 @@ author_profile: true
 - Woensdag 12/19/26 september - [Sport](/assets/media/agenda/2018-09-12-sport-body-and-mind.pdf)
 
 ## Oktober
-- Dinsdag 2 oktober - KVLV Haar Soirée
+- Dinsdag 2 oktober - [KVLV Haar Soirée](/assets/media/agenda/2018-10-02-haar-soiree.png)
 - Woensdag 3/10/17/24 oktober - [Sport](/assets/media/agenda/2018-09-12-sport-body-and-mind.pdf)
 - Donderdag 18 oktober - Crea-Café: "Creatief met chrysanten"
 - Dinsdag 23 oktober - 2018@2019 Instuif: "KVLV VIP Avond"
