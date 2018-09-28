@@ -4,7 +4,7 @@ header:
   overlay_image: /assets/media/home/splash-1.jpg
 ---
 
-{% include figure image_path="/assets/media/home/splash-1-resized.jpg" alt="this is a placeholder image" %}
+{% include figure image_path="/assets/media/home/splash-1200x500-optimized.jpg" alt="this is a placeholder image" %}
 
 <p style="text-align: center">Ontdek je graag nieuwe, hippe dingen?<br />
 Wil je nieuwe vrouwen leren kennen?<br />
