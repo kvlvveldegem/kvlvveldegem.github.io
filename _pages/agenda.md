@@ -40,7 +40,7 @@ author_profile: true
 - Dinsdag 2 oktober - [KVLV Haar Soirée](/assets/media/agenda/2018-10-02-haar-soiree.png)
 - Woensdag 3/10/17/24 oktober - [Sport](/assets/media/agenda/2018-09-12-sport-body-and-mind.pdf)
 - Donderdag 18 oktober - [Crea-Café: "Creatief met chrysanten"](/assets/media/agenda/2018-10-18-crysanten.jpg)
-- Dinsdag 23 oktober - 2018@2019 Instuif: "KVLV VIP Avond"
+- Dinsdag 23 oktober - [2018@2019 Instuif: "KVLV VIP Avond"](/assets/media/agenda/2018-10-23-vip-avond.jpg)
 
 ## November
 - Donderdag 15 november - Bezoek en film Cinema Dekeyzer
