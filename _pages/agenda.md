@@ -43,7 +43,7 @@ author_profile: true
 - Dinsdag 23 oktober - [2018@2019 Instuif: "KVLV VIP Avond"](/assets/media/agenda/2018-10-23-vip-avond.jpg)
 
 ## November
-- Donderdag 15 november - Bezoek en film Cinema Dekeyzer
+- Donderdag 15 november - [Bezoek en film Cinema Dekeyzer](/assets/media/agenda/2018-11-15-film.jpg)
 - Woensdag 7/14/21 november - [Sport](/assets/media/agenda/2018-09-12-sport-body-and-mind.pdf)
 
 ## December
