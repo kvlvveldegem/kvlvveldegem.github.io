@@ -2,7 +2,7 @@
 layout: single
 title: "Feestelijk aperitiefhapje"
 date: 2018-12-01 12:00:00 +0000
-published: false
+published: true
 categories: ["Recepten"]
 tags: ["Recept"]
 author: Tom Kerkhove
