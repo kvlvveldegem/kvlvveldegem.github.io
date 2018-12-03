@@ -6,14 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme: minimal-mistakes-jekyll
 locale                   : "nl"
 title                    : "KVLV Veldegem"
 title_separator          : "-"
 name                     : "KVLV Veldegem"
 description              : "KVLV Veldegem - Vrouwen met Vaart"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.kvlvveldegem.be # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : kvlvveldegem/kvlvveldegem.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -178,7 +179,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
