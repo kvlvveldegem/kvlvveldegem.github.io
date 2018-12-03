@@ -4,45 +4,47 @@ permalink: /agenda/
 title: "Agenda"
 author_profile: true
 ---
+## December 2018
+- Woensdag 5 december - Kookles: "Feest" _(Namiddag & Avond)_
 
-## Januari 2018
+## Januari 2019
 - Woensdag 16 januari - Jaaropener
 
-## Februari 2018
+## Februari 2019
 - Dinsdag 19 februari - Kookles: "Pasta Basta"
 - Woensdag 27 februari - Women with style
 
-## Maart 2018
+## Maart 2019
 - Vrijdag 29 maart - Bedrijfsbezoek: Kruidenkwekerij en zoveel meer
 
-## April 2018
+## April 2019
 - Dinsdag 23 april - Voedselallergie & voedselintolerantie	
 
-## Mei 2018
+## Mei 2019
 - Vrijdag 17 mei - Stand-up comedian: Bert Kruismans
 - Dinsdag 28 mei - Crea-Café: "Veelzijdige bloemenframes"
 
-## Juni 2018
+## Juni 2019
 - Woensdag 12 juni - Bezoek Rabarberhoeve 't Warandehof'
 - Zondag 23 juni - Dag van de Mantelzorger
 
-## Juli
+## Juli 2019
 - Donderdag 4 juli - Te voete
 
-## September
+## September 2019
 - Zondag 1 september - Ontbijt
 - Woensdag 11 september - Start sportreeks
 - Woensdag 18/25 september - Sport
 - Maandag 30 september - Tapas: making & tasting
 
-## Oktober
+## Oktober 2019
 - Woensdag 2/9/16/23 oktober - Sport
 - Donderdag 10 oktober - Je darmen doorgelicht	
 - Donderdag 24 oktober - 2019@2020: Instuif
 
-## November
+## November 2019
 - Woensdag 6 november - Crea-café: Juwelen van hout
 - Maandag 18 november - Ontspannen en beter inslapen!
 
-## December
+## December 2019
 - Woensdag 4 december - Kookles: "Feest" _(Namiddag & Avond)_
