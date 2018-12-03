@@ -11,6 +11,12 @@ author_profile: true
 - [Cocktails @ Your Place](https://www.flickr.com/photos/kvlvveldegem/albums/72157673277660568)
 - [Ip de velo](https://www.flickr.com/photos/kvlvveldegem/albums/72157699597900701)
 - [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157691541760651)
+- [Trio van kabouters](https://www.flickr.com/photos/kvlvveldegem/albums/72157700904226984)
+- [Creatief met Chrysanten](https://www.flickr.com/photos/kvlvveldegem/albums/72157674153780427)
+- [Haarsoirée](https://www.flickr.com/photos/kvlvveldegem/albums/72157674153717157)
+- [KVLV heeft een hart](https://www.flickr.com/photos/kvlvveldegem/albums/72157702783587651)
+- [Cinema De Keizer](https://www.flickr.com/photos/kvlvveldegem/albums/72157676313035238)
+- [KVLV VIP Avond](https://www.flickr.com/photos/kvlvveldegem/albums/72157704269541255)
 
 ## 2017
 - [Instuif VIP](https://www.flickr.com/photos/kvlvveldegem/albums/72157665591087438)
