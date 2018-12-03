@@ -9,7 +9,7 @@ author: Tom Kerkhove
 ---
 
 # Ingrediënten
-Voor dit gerecht heb je volgende ingrediënten nodig voor <aantal> personen:
+Voor dit gerecht heb je volgende ingrediënten nodig :
 
 - 2 eetl appelazijn _(of sherryazijn)_
 - 100 g geitenkaas _(bv Damse Mokke)_

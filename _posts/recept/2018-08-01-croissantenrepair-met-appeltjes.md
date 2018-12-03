@@ -9,7 +9,7 @@ author: Tom Kerkhove
 ---
 
 # Ingrediënten
-Voor dit gerecht heb je volgende ingrediënten nodig voor <aantal> personen:
+Voor dit gerecht heb je volgende ingrediënten nodig :
 
 - 5 oude croissants _(of brioches, melk- of suikerbrood, …)_
 - 350 ml melk

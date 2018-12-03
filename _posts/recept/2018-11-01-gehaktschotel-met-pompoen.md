@@ -11,7 +11,7 @@ author: Tom Kerkhove
 Het is herfst, tijd om terug ovenschotels te maken!
 
 # Ingrediënten
-Voor dit gerecht heb je volgende ingrediënten nodig voor <aantal> personen:
+Voor dit gerecht heb je volgende ingrediënten nodig :
 
 - 800 gr gemengd gehakt
 - 800 gr bloemige aardappelen
