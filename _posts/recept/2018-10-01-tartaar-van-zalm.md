@@ -9,7 +9,7 @@ author: Tom Kerkhove
 ---
 
 # Ingrediënten
-Voor dit gerecht heb je volgende ingrediënten nodig voor <aantal> personen:
+Voor dit gerecht heb je volgende ingrediënten nodig :
 
 - scheutje notenolie en balsamico
 - 200 gr. Verse zalmfilet
