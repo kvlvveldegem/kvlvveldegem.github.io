@@ -22,7 +22,7 @@ Stuur een e-mail naar **[kvlvveldegem@gmail.com](mailto:kvlvveldegem@gmail.com)*
 ## Nieuw bij KVLV?
 Nog nooit lid geweest van kvlv?
 
-Voor €10 kan U 1 werkjaar proeven van het ruim aanbod!
+Voor €15 kan U 1 werkjaar proeven van het ruim aanbod!
 
 ## Kan je niet wachten?!
 Kan je niet wachten?! Wij raden u de volgende links aan :
