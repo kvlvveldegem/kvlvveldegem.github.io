@@ -16,6 +16,7 @@ author_profile: true
 - [Haarsoirée](https://www.flickr.com/photos/kvlvveldegem/albums/72157674153717157)
 - [KVLV heeft een hart](https://www.flickr.com/photos/kvlvveldegem/albums/72157702783587651)
 - [Cinema De Keizer](https://www.flickr.com/photos/kvlvveldegem/albums/72157676313035238)
+- [KVLV VIP Avond](https://www.flickr.com/photos/kvlvveldegem/albums/72157704269541255)
 
 ## 2017
 - [Instuif VIP](https://www.flickr.com/photos/kvlvveldegem/albums/72157665591087438)
