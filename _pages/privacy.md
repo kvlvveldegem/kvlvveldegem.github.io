@@ -15,7 +15,7 @@ KVLV Veldegem bewaart enkel de gegevens die ze van jou ontvangt, bij het aangaan
 Ben je lid, dan worden je naam, adres, contactgegevens en geboortedatum opgeslagen in eLEnA, de beveiligde centrale databank van KVLV vzw (Remylaan 4b, 3018 Wijgmaal) en, indien van toepassing, of je Agravrouw en/of mantelzorger bent.
 KVLV vzw verwerkt deze gegevens o.m. om je het magazine ‘Vrouwen met vaart’ en de KVLV-Nieuwsbrief te bezorgen en je interessante ledenvoordelen te bieden. Agravrouwen ontvangen bovenop een Agr@zine.
 Ben je vormingswerker, en niet geregistreerd in eLEnA, dan bezorgt KVLV Veldegem jouw persoonsgegevens aan KVLV vzw met oog op verzekering en de administratieve en financiële afwerking van je prestaties.
-De privacyverklaring van KVLV vzw vind je op www.kvlv.be.
+De privacyverklaring van KVLV vzw vind je op [www.kvlv.be](https://www.kvlv.be).
 
 KVLV Veldegem gebruikt de gegevens uit eLEnA om onze lokale werking te organiseren. Wij gebruiken jouw gegevens om onze administratie optimaal te kunnen voeren, om je op de hoogte te houden van onze werking via ons groepsblad of nieuwsbrief, om je uitnodigingen voor en (foto)verslagen van KVLV-activiteiten te bezorgen, gemeentelijke subsidies te bekomen, te communiceren over een goed doel waarvoor we ons inzetten etc.
 We bewaren jouw gegevens tot je je lidmaatschap beëindigt.
@@ -25,11 +25,11 @@ Neem je als niet-lid deel aan onze activiteiten, dan nemen wij je gegevens op in
 
 Op onze KVLV-activiteiten maken we graag sfeerbeelden om onze werking bekend te maken. Wens je niet in beeld te komen (ook niet toevallig), laat dit dan weten aan de fotograaf of aan de verantwoordelijke van de activiteit.
 
-Als je als KVLV-lid je gegevens wilt inkijken en (laten) verbeteren, kan je dit zelf doen via MijnKVLV op www.kvlv.be. Wijziging van je adresgegevens geef je door aan ledenadmin@ons.be.
+Als je als KVLV-lid je gegevens wilt inkijken en (laten) verbeteren, kan je dit zelf doen via MijnKVLV op [www.kvlv.be](https://www.kvlv.be). Wijziging van je adresgegevens geef je door aan [ledenadmin@ons.be](mailto:ledenadmin@ons.be).
 Je kan ook contact opnemen met een bestuurslid om je persoonsgegevens in te kijken, te laten verbeteren of in te trekken.
 
-Heb je vragen of een klacht in verband met de verwerking van jouw persoonsgegevens, neem dan contact op met kvlvveldegem@gmail.com of met gdpr.kvlv@ons.be.
+Heb je vragen of een klacht in verband met de verwerking van jouw persoonsgegevens, neem dan contact op met [kvlvveldegem@gmail.com](mailto:kvlvveldegem@gmail.com) of met [gdpr.kvlv@ons.be](mailto:gdpr.kvlv@ons.be).
 
-KVLV Veldegem kan haar privacyverklaring wijzigen. De meest recente versie vind je op onze website www.kvlvveldegem.be
+KVLV Veldegem kan haar privacyverklaring wijzigen. De meest recente versie vind je op onze website [www.kvlvveldegem.be](www.kvlvveldegem.be)
 
 Versie d.d.12/12/2018
