@@ -4,11 +4,9 @@ permalink: /agenda/
 title: "Agenda"
 author_profile: true
 ---
-## December 2018
-- Woensdag 5 december - [Kookles: "Feest" _(Namiddag & Avond)_](/assets/media/agenda/2018-12-05-feestmenu.jpg)
 
 ## Januari 2019
-- Woensdag 16 januari - Jaaropener
+- Woensdag 16 januari - [Jaaropener](/assets/media/agenda/2019-01-16-Jaaropener.pdf)
 
 ## Februari 2019
 - Dinsdag 19 februari - Kookles: "Pasta Basta"
