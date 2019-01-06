@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Januari 2019
-- Woensdag 16 januari - [Jaaropener](/assets/media/agenda/2019-01-16-Jaaropener.pdf)
+- Woensdag 16 januari - [Jaaropener](/assets/media/agenda/2019-01-16-jaaropener.png)
 
 ## Februari 2019
 - Dinsdag 19 februari - Kookles: "Pasta Basta"
