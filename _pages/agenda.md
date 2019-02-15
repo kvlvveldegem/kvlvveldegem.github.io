@@ -9,7 +9,7 @@ author_profile: true
 - Woensdag 16 januari - [Jaaropener](/assets/media/agenda/2019-01-16-jaaropener.png)
 
 ## Februari 2019
-- Dinsdag 19 februari - [Kookles: "Pasta Basta"](/assets/media/agenda/2019-02-19-pasta-basta.pdf)
+- Dinsdag 19 februari - [Kookles: "Pasta Basta"](/assets/media/agenda/2019-02-19-Pasta-Basta.pdf)
 - Woensdag 27 februari - [Women with style](/assets/media/agenda/2019-02-27-women-with-style.jpg)
 
 ## Maart 2019
