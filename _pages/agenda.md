@@ -19,7 +19,7 @@ author_profile: true
 - Dinsdag 23 april - Voedselallergie & voedselintolerantie	
 
 ## Mei 2019
-- Vrijdag 17 mei - Stand-up comedian: Bert Kruismans
+- Vrijdag 17 mei - [Stand-up comedian: Bert Kruismans](/assets/media/agenda/2019-05-17-bert-kruismans.jpg)
 - Dinsdag 28 mei - Crea-Café: "Veelzijdige bloemenframes"
 
 ## Juni 2019
