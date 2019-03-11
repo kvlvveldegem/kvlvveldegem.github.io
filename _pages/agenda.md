@@ -13,7 +13,7 @@ author_profile: true
 - Woensdag 27 februari - [Women with style](/assets/media/agenda/2019-02-27-women-with-style.jpg)
 
 ## Maart 2019
-- Vrijdag 29 maart - Bedrijfsbezoek: Kruidenkwekerij en zoveel meer
+- Vrijdag 29 maart - [Bedrijfsbezoek: Kruidenkwekerij en zoveel meer](/assets/media/agenda/2019-03-29-bedrijfsbezoek.jpg)
 
 ## April 2019
 - Dinsdag 23 april - Voedselallergie & voedselintolerantie	
