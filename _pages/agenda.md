@@ -16,7 +16,7 @@ author_profile: true
 - Vrijdag 29 maart - [Bedrijfsbezoek: Kruidenkwekerij en zoveel meer](/assets/media/agenda/2019-03-29-bedrijfsbezoek.jpg)
 
 ## April 2019
-- Dinsdag 23 april - Voedselallergie & voedselintolerantie	
+- Dinsdag 23 april - [Voedselallergie & voedselintolerantie](/assets/media/agenda/2019-04-23-voedselallergie.jpg)
 
 ## Mei 2019
 - Vrijdag 17 mei - [Stand-up comedian: Bert Kruismans](/assets/media/agenda/2019-05-17-bert-kruismans.jpg)
