@@ -20,7 +20,7 @@ author_profile: true
 
 ## Mei 2019
 - Vrijdag 17 mei - [Stand-up comedian: Bert Kruismans](/assets/media/agenda/2019-05-17-bert-kruismans.jpg)
-- Dinsdag 28 mei - Crea-Café: "Veelzijdige bloemenframes"
+- Dinsdag 28 mei - [Crea-Café: "Veelzijdige bloemenframes"](/assets/media/agenda/2019-05-28-bloemen.jpg)
 
 ## Juni 2019
 - Woensdag 12 juni - Bezoek Rabarberhoeve 't Warandehof'
