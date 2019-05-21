@@ -23,7 +23,7 @@ author_profile: true
 - Dinsdag 28 mei - [Crea-Café: "Veelzijdige bloemenframes"](/assets/media/agenda/2019-05-28-bloemen.jpg)
 
 ## Juni 2019
-- Woensdag 12 juni - Bezoek Rabarberhoeve 't Warandehof'
+- Woensdag 12 juni - [Bezoek Rabarberhoeve 't Warandehof'](/assets/media/agenda/2019-06-12-rabarber.jpg)
 - Zondag 23 juni - Dag van de Mantelzorger
 
 ## Juli 2019
