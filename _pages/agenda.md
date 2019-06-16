@@ -27,7 +27,7 @@ author_profile: true
 - Zondag 23 juni - Dag van de Mantelzorger
 
 ## Juli 2019
-- Donderdag 4 juli - Te voete
+- Donderdag 4 juli - [Te voete](/assets/media/agenda/2019-07-04-te-voete.jpg)
 
 ## September 2019
 - Zondag 1 september - Ontbijt
