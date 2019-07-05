@@ -35,7 +35,7 @@ Voor dit gerecht heb je volgende ingrediënten nodig voor 4 personen:
 3. Snijd de chorizo in dunne reepjes en bak ze in de olie
 4. Pel en snipper de uien waarna je ze bij de chorizo doet
 5. Verwijder de zaden en zaadlijst van de puntpaprika
-    - Tip - Omdat de schil van een rode puntpaprika heel dun is, hoef je hem niet te schillen.
+    - _Tip - Omdat de schil van een rode puntpaprika heel dun is, hoef je hem niet te schillen._
 6. Snijd ze eerst in repen en dan in kleine blokjes (brunoise) en laat de paprika meestoven
 7. Kneus en pel de knoflook
 8. Snipper de teen en plet met een mes en stoof de knoflookpulp met de uien en paprika
@@ -49,7 +49,7 @@ Voor dit gerecht heb je volgende ingrediënten nodig voor 4 personen:
 2. Kruid met peper en zout
 3. Besprenkel met olijfolie en azijn
 
-## Afwerkign
+## Afwerking
 
 1. Giet de zoete aardappelen af, snij ze doormidden en hol ze uit
 2. Doe het vruchtvlees in de pan met de chorizo en paprika, voeg ook de zure room toe en roer goed
