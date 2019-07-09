@@ -30,7 +30,7 @@ author_profile: true
 - Donderdag 4 juli - [Te voete](/assets/media/agenda/2019-07-04-te-voete.jpg)
 
 ## September 2019
-- Zondag 1 september - Ontbijt
+- Zondag 1 september - [Ontbijt](/assets/media/agenda/2019-09-01-ontbijt.jpg)
 - Woensdag 11 september - Start sportreeks
 - Woensdag 18/25 september - Sport
 - Maandag 30 september - Tapas: making & tasting
