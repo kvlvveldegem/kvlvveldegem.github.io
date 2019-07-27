@@ -5,6 +5,12 @@ title: "Foto's"
 author_profile: true
 ---
 
+## 2019
+- [Bedrijfsbezoek Kruiden Claus](https://www.flickr.com/photos/kvlvveldegem/albums/72157709807654812)
+- [Bezoek Rabarberhoeve ‘t Warandehof’](https://www.flickr.com/photos/kvlvveldegem/albums/72157709807656287)
+- [Crea-Café “Veelzijdige bloemenframes”](https://www.flickr.com/photos/kvlvveldegem/albums/72157709806525171)
+- [Women with style](https://www.flickr.com/photos/kvlvveldegem/albums/72157709807661607)
+
 ## 2018
 - [Trio van kabouters](https://www.flickr.com/photos/kvlvveldegem/albums/72157700904226984)
 - [Midsummer Picknick](https://www.flickr.com/photos/kvlvveldegem/albums/72157700904522964)
