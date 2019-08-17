@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2019
+- [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157710364202812)
 - [Bedrijfsbezoek Kruiden Claus](https://www.flickr.com/photos/kvlvveldegem/albums/72157709807654812)
 - [Bezoek Rabarberhoeve ‘t Warandehof’](https://www.flickr.com/photos/kvlvveldegem/albums/72157709807656287)
 - [Crea-Café “Veelzijdige bloemenframes”](https://www.flickr.com/photos/kvlvveldegem/albums/72157709806525171)
