@@ -31,17 +31,17 @@ author_profile: true
 
 ## September 2019
 - Zondag 1 september - [Ontbijt](/assets/media/agenda/2019-09-01-ontbijt.jpg)
-- Woensdag 11 september - Start sportreeks
-- Woensdag 18/25 september - Sport
+- Donderdag 12/19/25 september - [Start sportreeks - Body & Mind](/assets/media/agenda/2019-09-12-body-mind.jpg)
 - Maandag 30 september - Tapas: making & tasting
 
 ## Oktober 2019
-- Woensdag 2/9/16/23 oktober - Sport
+- Donderdag 3/10/17/24 oktober - [Sport - Body & Mind](/assets/media/agenda/2019-09-12-body-mind.jpg)
 - Donderdag 10 oktober - Je darmen doorgelicht	
 - Donderdag 24 oktober - 2019@2020: Instuif
 
 ## November 2019
 - Woensdag 6 november - Crea-café: Juwelen van hout
+- Donderdag 14/21/28 oktober - [Sport - Body & Mind](/assets/media/agenda/2019-09-12-body-mind.jpg)
 - Maandag 18 november - Ontspannen en beter inslapen!
 
 ## December 2019
