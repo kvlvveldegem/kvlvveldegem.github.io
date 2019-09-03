@@ -32,6 +32,7 @@ author_profile: true
 ## September 2019
 - Zondag 1 september - [Ontbijt](/assets/media/agenda/2019-09-01-ontbijt.jpg)
 - Woensdag 11/18/24 september - [Start sportreeks - Body & Mind](/assets/media/agenda/2019-09-11-body-mind.jpg)
+- Vrijdag 13 september - [Café Corneel: Ibiza Night](/assets/media/agenda/2019-09-13-ibiza.jpg)
 - Maandag 30 september - Tapas: making & tasting
 
 ## Oktober 2019
