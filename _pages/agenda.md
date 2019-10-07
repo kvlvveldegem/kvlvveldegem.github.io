@@ -38,7 +38,7 @@ author_profile: true
 ## Oktober 2019
 - Woensdag 2/9/16/23 oktober - [Sport - Body & Mind](/assets/media/agenda/2019-09-11-body-mind.jpg)
 - Donderdag 10 oktober - [Je darmen doorgelicht](/assets/media/agenda/2019-10-10-darmen.jpg)
-- Donderdag 24 oktober - 2019@2020: Instuif
+- Donderdag 24 oktober - [2019@2020: Instuif](/assets/media/agenda/2019-10-24-VIP.jpg)
 
 ## November 2019
 - Woensdag 6 november - Crea-café: Juwelen van hout
