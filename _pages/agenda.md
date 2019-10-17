@@ -41,7 +41,7 @@ author_profile: true
 - Donderdag 24 oktober - [2019@2020: Instuif](/assets/media/agenda/2019-10-24-VIP.jpg)
 
 ## November 2019
-- Woensdag 6 november - Crea-café: Juwelen van hout
+- Woensdag 6 november - [Crea-café: Juwelen van hout](/assets/media/agenda/2019-11-06-juwelen-hout.jpg)
 - Maandag 18 november - Ontspannen en beter inslapen!
 
 ## December 2019
