@@ -42,7 +42,7 @@ author_profile: true
 
 ## November 2019
 - Woensdag 6 november - [Crea-café: Juwelen van hout](/assets/media/agenda/2019-11-06-juwelen-hout.jpg)
-- Maandag 18 november - Ontspannen en beter inslapen!
+- Maandag 18 november - [Ontspannen en beter inslapen!](/assets/media/agenda/2019-11-18-inslapen.jpg)
 
 ## December 2019
 - Woensdag 4 december - Kookles: "Feest" _(Namiddag & Avond)_
