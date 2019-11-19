@@ -45,4 +45,4 @@ author_profile: true
 - Maandag 18 november - [Ontspannen en beter inslapen!](/assets/media/agenda/2019-11-18-inslapen.jpg)
 
 ## December 2019
-- Woensdag 4 december - Kookles: "Feest" _(Namiddag & Avond)_
+- Woensdag 4 december - [Kookles: "Feest"](/assets/media/agenda/2019-12-04-feestmenu.jpg) _(Namiddag & Avond)_
