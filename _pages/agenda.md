@@ -5,44 +5,47 @@ title: "Agenda"
 author_profile: true
 ---
 
-## Januari 2019
-- Woensdag 16 januari - [Jaaropener](/assets/media/agenda/2019-01-16-jaaropener.png)
+## Januari 2020
+- Woensdag 29 januari - Jaaropener
 
-## Februari 2019
-- Dinsdag 19 februari - [Kookles: "Pasta Basta"](/assets/media/agenda/2019-02-19-Pasta-Basta.pdf)
-- Woensdag 27 februari - [Women with style](/assets/media/agenda/2019-02-27-women-with-style.jpg)
+## Februari 2020
+- Dinsdag 4 februari - Bedrijfsbezoek bij "La Lorraine"
+- Dinsdag 18 februari - Gewrichten in de kijker
 
-## Maart 2019
-- Vrijdag 29 maart - [Bedrijfsbezoek: Kruidenkwekerij en zoveel meer](/assets/media/agenda/2019-03-29-bedrijfsbezoek.jpg)
+## Maart 2020
+- Vrijdag 6 maart - KVLVision
+- Donderdag 12/19/26 maart - Start to Walk (10x)
 
-## April 2019
-- Dinsdag 23 april - [Voedselallergie & voedselintolerantie](/assets/media/agenda/2019-04-23-voedselallergie.jpg)
+## April 2020
+- Donderdag 2/9/16/30 april - Start to Walk (10x)
+- Woensdag 22 april - Start to Walk (10x)
+- Donderdag 23 april - Kookles "Asperges"
 
-## Mei 2019
-- Vrijdag 17 mei - [Stand-up comedian: Bert Kruismans](/assets/media/agenda/2019-05-17-bert-kruismans.jpg)
-- Dinsdag 28 mei - [Crea-Café: "Veelzijdige bloemenframes"](/assets/media/agenda/2019-05-28-bloemen.jpg)
+## Mei 2020
+- Maandag 4 mei - Workshop "Sandaaltjes maken"
+- Donderdag 7/14 mei - Start to Walk (10x)
+- Vrijdag 15 mei - Great Escape
 
-## Juni 2019
-- Woensdag 12 juni - [Bezoek Rabarberhoeve 't Warandehof'](/assets/media/agenda/2019-06-12-rabarber.jpg)
-- Zondag 23 juni - Dag van de Mantelzorger
+## Juni 2020
+- Woensdag 17 juni - De Zomertafel
+- Dinsdag  23 juni - Dag van de Mantelzorger
 
-## Juli 2019
-- Donderdag 4 juli - [Te voete](/assets/media/agenda/2019-07-04-te-voete.jpg)
+## Juli 2020
+- Maandag 6 juli - Vive le velo
 
-## September 2019
-- Zondag 1 september - [Ontbijt](/assets/media/agenda/2019-09-01-ontbijt.jpg)
-- Woensdag 11/18/24 september - [Start sportreeks - Body & Mind](/assets/media/agenda/2019-09-11-body-mind.jpg)
-- Vrijdag 13 september - [Café Corneel: Ibiza Night](/assets/media/agenda/2019-09-13-ibiza.jpg)
-- Maandag 30 september - [Tapas: making & tasting](/assets/media/agenda/2019-09-30-tapas.jpg)
+## September 2020
+- Zondag 6 september - Ontbijt
+- Dinsdag 29 september - "Traliemama’s" door Sabine De Vos
 
-## Oktober 2019
-- Woensdag 2/9/16/23 oktober - [Sport - Body & Mind](/assets/media/agenda/2019-09-11-body-mind.jpg)
-- Donderdag 10 oktober - [Je darmen doorgelicht](/assets/media/agenda/2019-10-10-darmen.jpg)
-- Donderdag 24 oktober - [2019@2020: Instuif](/assets/media/agenda/2019-10-24-VIP.jpg)
+## Oktober 2020
+- Woensdag 7 oktober - Digicafé
+- Woensdag 28 oktober - Instuif-VIP-avond 2019@2020
 
-## November 2019
-- Woensdag 6 november - [Crea-café: Juwelen van hout](/assets/media/agenda/2019-11-06-juwelen-hout.jpg)
-- Maandag 18 november - [Ontspannen en beter inslapen!](/assets/media/agenda/2019-11-18-inslapen.jpg)
+## November 2020
+- Zondag 8 november - Bedrijfsbezoek "Wat was er eerst: de kip of het ei?" _(Datum onder voorbehoud)_
+- Donderdag 12 november - Nieren zijn stille harde werkers
+- Woensdag 18 november - Café Retouche
+- Woensdag 25 november - Café Retouche
 
-## December 2019
-- Woensdag 4 december - [Kookles: "Feest"](/assets/media/agenda/2019-12-04-feestmenu.jpg) _(Namiddag & Avond)_
+## December 2020
+- Donderdag 3 december - Kookles: "Feest" _(Namiddag & Avond)_
