@@ -28,4 +28,6 @@ Er woont zeker een bestuurslid in je buurt!
 |![Isabelle Debusschere](./../assets/media/bestuur/isabelle-debusschere-100.jpg)|**Isabelle Debusschere**|_050/54.81.39_  |_Bestuurslid_                           |
 |![Cecile Vanhollebeke](./../assets/media/bestuur/cecile-vanhollebeke-100.jpg)  |**Cecile Vanhollebeke** |_050/27.80.82_  |_Bestuurslid_                           |
 |![Isabelle Flamée](./../assets/media/bestuur/flamee-isabelle-100.jpg)          |**Flamée Isabelle**     |_0473/33.76.61_ |_Bestuurslid_                           |
-|                                                                               |**Nathalie Sioen**     |_0473/94.97.10_ |_Bestuurslid_                           |
+|                                                                               |**Nathalie Sioen**      |_0473/94.97.10_ |_Bestuurslid_                           |
+|                                                                               |**Zeli Lambrecht**      |_0474/20.76.88_ |_Bestuurslid_                           |
+|                                                                               |**Charlotte Verhegge**  |_0497/52.09.24_ |_Bestuurslid_                           |

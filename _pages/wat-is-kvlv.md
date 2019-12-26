@@ -17,6 +17,6 @@ Samengevat : de zes pijlers van KVLV :
 - **KVLV kiest voor gezondheid en conditie**
 - **KVLV ondersteunt agravrouwen**
 
-We tellen momenteel ruim **180 leden**. Een ploeg van **12 bestuursleden** zorgt voor een zeer gevarieerd programma en voor elk wat wils.
+We tellen momenteel ruim **180 leden**. Een ploeg van **15 bestuursleden** zorgt voor een zeer gevarieerd programma en voor elk wat wils.
 
 Onze activiteiten staan open voor leden en hun gezinsleden.

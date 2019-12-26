@@ -39,7 +39,7 @@ author_profile: true
 
 ## Oktober 2020
 - Woensdag 7 oktober - Digicafé
-- Woensdag 28 oktober - Instuif-VIP-avond 2019@2020
+- Woensdag 28 oktober - Instuif-VIP-avond 2020@2021
 
 ## November 2020
 - Zondag 8 november - Bedrijfsbezoek "Wat was er eerst: de kip of het ei?" _(Datum onder voorbehoud)_
