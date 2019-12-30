@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Januari 2020
-- Woensdag 29 januari - Jaaropener
+- Woensdag 29 januari - [Jaaropener](/assets/media/agenda/2020-01-29-Start.pdf)
 
 ## Februari 2020
 - Dinsdag 4 februari - Bedrijfsbezoek bij "La Lorraine"
