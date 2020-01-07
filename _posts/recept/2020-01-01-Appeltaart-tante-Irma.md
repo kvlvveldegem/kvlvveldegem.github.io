@@ -8,10 +8,8 @@ tags: ["Recept"]
 author: Tom Kerkhove
 ---
 
-_intro_
-
 # Ingrediënten
-Voor dit gerecht heb je volgende ingrediënten nodig voor <aantal> personen:
+Voor dit gerecht heb je volgende ingrediënten nodig :
 
 - 166g zelfrijzende bloem of gewone bloem + bakpoeder
 - Een paar lepels abrikozenconfituur
