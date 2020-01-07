@@ -9,7 +9,7 @@ author_profile: true
 - Woensdag 29 januari - [Jaaropener](/assets/media/agenda/2020-01-29-Start.pdf)
 
 ## Februari 2020
-- Dinsdag 4 februari - Bedrijfsbezoek bij "La Lorraine"
+- Dinsdag 4 februari - [Bedrijfsbezoek bij "La Lorraine"](/assets/media/agenda/2020-02-04-lorraine.jpg)
 - Dinsdag 18 februari - Gewrichten in de kijker
 
 ## Maart 2020
