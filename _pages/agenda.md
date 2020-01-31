@@ -10,7 +10,7 @@ author_profile: true
 
 ## Februari 2020
 - Dinsdag 4 februari - [Bedrijfsbezoek bij "La Lorraine"](/assets/media/agenda/2020-02-04-lorraine.jpg)
-- Dinsdag 18 februari - Gewrichten in de kijker
+- Dinsdag 18 februari - [Gewrichten in de kijker](/assets/media/agenda/2020-02-18-Gewrichten-in-de-kijker.pdf)
 
 ## Maart 2020
 - Vrijdag 6 maart - KVLVision
