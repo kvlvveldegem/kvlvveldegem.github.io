@@ -1,5 +1,5 @@
-# KVLV Veldegem
-Repository contains source code for [kvlvveldegem.be](http://kvlvveldegem.be/).
+# Ferm Veldegem
+Repository contains source code for [fermveldegem.be](http://fermveldegem.be/).
 
 ## Running it locally
 You can run the website locally via the following command:
