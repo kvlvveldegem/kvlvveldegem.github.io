@@ -13,7 +13,7 @@ author_profile: true
 - Dinsdag 18 februari - [Gewrichten in de kijker](/assets/media/agenda/2020-02-18-Gewrichten-in-de-kijker.pdf)
 
 ## Maart 2020
-- Vrijdag 6 maart - KVLVision
+- Vrijdag 6 maart - [KVLVision](/assets/media/agenda/2020-03-06-KVLVision.pdf)
 - Donderdag 12/19/26 maart - Start to Walk (10x)
 
 ## April 2020
