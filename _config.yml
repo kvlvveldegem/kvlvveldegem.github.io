@@ -10,10 +10,10 @@ locale                   : "nl"
 title                    : "Ferm Veldegem"
 title_separator          : "-"
 name                     : "Ferm Veldegem"
-description              : "Ferm Veldegem - Vrouwen met Vaart"
+description              : "Ferm Veldegem"
 url                      : https://www.fermveldegem.be/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : Fermveldegem/Fermveldegem.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : fermveldegem/fermveldegem.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -79,14 +79,14 @@ analytics:
 author:
   name             : "Ferm Veldegem"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ferm Veldegem - Vrouwen met Vaart"
+  bio              : "Ferm Veldegem"
   location         : "Veldegem"
-  email            : "Fermveldegem@gmail.com"
+  email            : "fermveldegem@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : people/Fermveldegem
+  flickr           : people/kvlvveldegem
   facebook         : FermVeldegem
   foursquare       :
   github           :

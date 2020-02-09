@@ -4,19 +4,13 @@ permalink: /wat-is-Ferm/
 title: "Wat is Ferm?"
 author_profile: true
 ---
-Ferm, dat zijn Vrouwen met Vaart.
-Ferm wordt in één adem genoemd met Ons Kookboek, Ons Bakboek & Ons Breiboek.
-Maar er is zoveel meer...
 
-Samengevat : de zes pijlers van Ferm :
+We zijn een netwerk gedragen door vrouwen, waarmee mensen zich betrokken en verbonden voelen, op elk moment in het leven.
 
-- **Ferm leeft op het platteland**
-- **Ferm leert Vlaanderen lekker en gezond eten**
-- **Ferm draagt bij tot zorgzaam samenleven**
-- **Ferm zet aan tot creativiteit**
-- **Ferm kiest voor gezondheid en conditie**
-- **Ferm ondersteunt agravrouwen**
+Met een daadkrachtige visie op maatschappelijke thema’s. Met een breed aanbod van diensten. Met ontspannende en educatieve activiteiten.
 
-We tellen momenteel ruim **180 leden**. Een ploeg van **15 bestuursleden** zorgt voor een zeer gevarieerd programma en voor elk wat wils.
+We zijn steeds dichtbij: op het platteland, in je buurt - waar je ook bent.
+
+We tellen momenteel ongeveer **200 leden**. Een team van **14 dames** zorgt voor een zeer gevarieerd programma en voor elk wat wils.
 
 Onze activiteiten staan open voor leden en hun gezinsleden.

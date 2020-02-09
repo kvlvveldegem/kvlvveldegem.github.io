@@ -2,8 +2,8 @@
 main:
   - title: "Wat is Ferm?"
     url: /wat-is-ferm/
-  - title: "Bestuur"
-    url: /bestuur/
+  - title: "Team"
+    url: /team/
   - title: "Lid worden"
     url: /lid-worden/
   - title: "Agenda"

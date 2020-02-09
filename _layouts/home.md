@@ -13,6 +13,6 @@ Of ben je sportief?<br />
 Leer je graag iets bij?<br />
 Hou je van gezelligheid en afspreken met vriendinnen?</p>
 
-<p style="text-align: center"><b>Dan is Ferm, Vrouwen met Vaart zeker iets voor jou!</b></p>
+<p style="text-align: center"><b>Dan is Ferm iets voor jou!</b></p>
 
 <p style="text-align: center">Welkom bij Ferm Veldegem!</p>
