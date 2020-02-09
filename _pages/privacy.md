@@ -28,8 +28,8 @@ Op onze Ferm-activiteiten maken we graag sfeerbeelden om onze werking bekend te 
 Als je als Ferm-lid je gegevens wilt inkijken en (laten) verbeteren, kan je dit zelf doen via MijnFerm op [www.Ferm.be](https://www.Ferm.be). Wijziging van je adresgegevens geef je door aan [ledenadmin@ons.be](mailto:ledenadmin@ons.be).
 Je kan ook contact opnemen met een bestuurslid om je persoonsgegevens in te kijken, te laten verbeteren of in te trekken.
 
-Heb je vragen of een klacht in verband met de verwerking van jouw persoonsgegevens, neem dan contact op met [Fermveldegem@gmail.com](mailto:Fermveldegem@gmail.com) of met [gdpr.Ferm@ons.be](mailto:gdpr.Ferm@ons.be).
+Heb je vragen of een klacht in verband met de verwerking van jouw persoonsgegevens, neem dan contact op met [fermveldegem@gmail.com](mailto:fermveldegem@gmail.com) of met [gdpr.Ferm@ons.be](mailto:gdpr.Ferm@ons.be).
 
-Ferm Veldegem kan haar privacyverklaring wijzigen. De meest recente versie vind je op onze website [www.Fermveldegem.be](www.Fermveldegem.be)
+Ferm Veldegem kan haar privacyverklaring wijzigen. De meest recente versie vind je op onze website [www.fermveldegem.be](www.fermveldegem.be)
 
 Versie d.d.12/12/2018
