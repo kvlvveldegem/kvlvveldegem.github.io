@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /wat-is-Ferm/
+permalink: /wat-is-ferm/
 title: "Wat is Ferm?"
 author_profile: true
 ---
