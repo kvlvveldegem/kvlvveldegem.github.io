@@ -9,6 +9,8 @@ Ons team is een groep dynamische vrouwen met een brede interesse. Vrouwen die en
 
 Vrouwen die een deel van hun (vrije) tijd ter beschikking stellen. Vrouwen die tegen een stootje kunnen‚ vrouwen die gewoon zijn de handen uit de mouwen te steken.
 
+![Team](./../assets/media/team.jpg)
+
 ## Ontmoet onze vrijwilligers!
 
 Allemaal vrijwilligers, allemaal gedreven enthousiaste vrouwen!
@@ -27,8 +29,5 @@ Er woont zeker een teamlid in je buurt!
 - **Isabelle Debusschere** - Bestuurslid _(050/54.81.39)_
 - **Cecile Vanhollebeke** - Bestuurslid _(050/27.80.82)_
 - **Nathalie Sioen** - Bestuurslid _(0473/94.97.10)_
-- **Zeli Lambrecht** - Bestuurslid
+- **Zeli Lambrecht** - Bestuurslid _(0474/20.76.88)_
 - **Charlotte Verhegge** - Bestuurslid _(0474/20.76.88)_
-- **Flamée Isabelle**
-
-![Team](./../assets/media/team.jpg)
