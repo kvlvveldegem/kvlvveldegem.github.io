@@ -5,7 +5,7 @@ title: "Privacyverklaring"
 author_profile: false
 ---
 
-Ferm VELDEGEM
+FERM VELDEGEM
 
 Als je je persoonsgegevens aan Ferm Veldegem toevertrouwt, mag je erop rekenen dat Ferm Veldegem op een goede, veilige manier met jouw gegevens omgaat.
 Ferm Veldegem respecteert daarbij de Europese Verordening 2016/679 m.b.t. de bescherming van persoonsgegevens (de GDPR).

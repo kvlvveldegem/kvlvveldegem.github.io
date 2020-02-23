@@ -14,7 +14,8 @@ $indent-var                 : 1.3em !default;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif !default;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif: Arial !default;
+// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
@@ -61,7 +62,8 @@ $text-color                 : $dark-gray !default;
 $border-color               : $lighter-gray !default;
 
 $primary-color              : #7a8288 !default;
-$primary-navigation-color   : #662d58 !default;
+$primary-navigation-color   : #000 !default;
+$secondary-navigation-color: #16D0C1 !default;
 $success-color              : #62c462 !default;
 $warning-color              : #f89406 !default;
 $danger-color               : #ee5f5b !default;
@@ -96,6 +98,7 @@ $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 25%) !default;
 $masthead-link-color        : $primary-navigation-color !default;
 $masthead-link-color-hover  : mix(#662d58, $primary-navigation-color, 25%) !default;
+// $masthead-link-color-hover  : $primary-navigation-color-hover !default;
 
 
 /*
