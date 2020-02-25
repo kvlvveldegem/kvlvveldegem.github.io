@@ -14,16 +14,16 @@ author_profile: true
 
 ## Maart 2020
 - Vrijdag 6 maart - [KVLVision](/assets/media/agenda/2020-03-06-KVLVision.pdf)
-- Donderdag 12/19/26 maart - Start to Walk (10x)
+- Donderdag 12/19/26 maart - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
 
 ## April 2020
-- Donderdag 2/9/16/30 april - Start to Walk (10x)
-- Woensdag 22 april - Start to Walk (10x)
+- Donderdag 2/9/16/30 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
+- Woensdag 22 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
 - Donderdag 23 april - Kookles "Asperges"
 
 ## Mei 2020
 - Maandag 4 mei - Workshop "Sandaaltjes maken"
-- Donderdag 7/14 mei - Start to Walk (10x)
+- Donderdag 7/14 mei - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
 - Vrijdag 15 mei - Great Escape
 
 ## Juni 2020
