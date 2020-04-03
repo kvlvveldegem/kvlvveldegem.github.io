@@ -19,14 +19,14 @@ author_profile: true
 ## April 2020
 - Donderdag 2/9/16/30 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
 - Woensdag 22 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
-- Donderdag 23 april - Kookles "Asperges"
+- <s>Donderdag 23 april - Kookles "Asperges"</s>
 
 ## Mei 2020
-- Maandag 4 mei - Workshop "Sandaaltjes maken"
 - Donderdag 7/14 mei - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
 - Vrijdag 15 mei - Great Escape
 
 ## Juni 2020
+- Woensdag 9 juni - Workshop "Sandaaltjes maken" _(verplaatst van mei naar juni)_
 - Woensdag 17 juni - De Zomertafel
 - Dinsdag  23 juni - Dag van de Mantelzorger
 
@@ -35,6 +35,7 @@ author_profile: true
 
 ## September 2020
 - Zondag 6 september - Ontbijt
+- Maandag 21 september - Kookles _(thema nog aan te kondigen)_
 - Dinsdag 29 september - "Traliemama’s" door Sabine De Vos
 
 ## Oktober 2020
