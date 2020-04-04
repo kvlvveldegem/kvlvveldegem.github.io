@@ -5,6 +5,11 @@ title: "Foto's"
 author_profile: true
 ---
 
+## 2020
+- [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157713750885246)
+- [KVLV wordt Ferm](https://www.flickr.com/photos/kvlvveldegem/albums/72157713749794587)
+- [200ste lid](https://www.flickr.com/photos/kvlvveldegem/albums/72157713748677242)
+
 ## 2019
 - [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157710364202812)
 - [Bedrijfsbezoek Kruiden Claus](https://www.flickr.com/photos/kvlvveldegem/albums/72157709807654812)
