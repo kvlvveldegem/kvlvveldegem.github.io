@@ -14,26 +14,32 @@ author_profile: true
 
 ## Maart 2020
 - Vrijdag 6 maart - [KVLVision](/assets/media/agenda/2020-03-06-KVLVision.pdf)
-- Donderdag 12/19/26 maart - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
+- <s>Donderdag 12/19/26 maart - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)</s>
 
 ## April 2020
-- Donderdag 2/9/16/30 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
-- Woensdag 22 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
+- <s>Donderdag 2/9/16/30 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)</s>
+- <s>Woensdag 22 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)</s>
 - <s>Donderdag 23 april - Kookles "Asperges"</s>
 
 ## Mei 2020
-- Donderdag 7/14 mei - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)
+- <s>Donderdag 7/14 mei - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)</s>
 - Vrijdag 15 mei - Great Escape
 
 ## Juni 2020
 - Woensdag 9 juni - Workshop "Sandaaltjes maken" _(verplaatst van mei naar juni)_
+- Donderdag 11/18/25 juni - [Start to Walk (10x)](/assets/media/agenda/2020-Herstart-Start-to-Walk.pdf)
 - Woensdag 17 juni - De Zomertafel
 - Dinsdag  23 juni - Dag van de Mantelzorger
 
 ## Juli 2020
+- Donderdag 2/9 juli - [Start to Walk (10x)](/assets/media/agenda/2020-Herstart-Start-to-Walk.pdf)
 - Maandag 6 juli - Vive le velo
 
+## Augustus 2020
+- Donderdag 20/27 augustus - [Start to Walk (10x)](/assets/media/agenda/2020-Herstart-Start-to-Walk.pdf)
+
 ## September 2020
+- Donderdag 3/10/17 september - [Start to Walk (10x)](/assets/media/agenda/2020-Herstart-Start-to-Walk.pdf)
 - Zondag 6 september - Ontbijt
 - Maandag 21 september - Kookles _(thema nog aan te kondigen)_
 - Dinsdag 29 september - "Traliemama’s" door Sabine De Vos
