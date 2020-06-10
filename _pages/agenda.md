@@ -14,15 +14,15 @@ author_profile: true
 
 ## Maart 2020
 - Vrijdag 6 maart - [KVLVision](/assets/media/agenda/2020-03-06-KVLVision.pdf)
-- <s>Donderdag 12/19/26 maart - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)</s>
+- <s>Donderdag 12/19/26 maart - Start to Walk (10x)</s>
 
 ## April 2020
-- <s>Donderdag 2/9/16/30 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)</s>
-- <s>Woensdag 22 april - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)</s>
+- <s>Donderdag 2/9/16/30 april - Start to Walk (10x)</s>
+- <s>Woensdag 22 april - Start to Walk (10x)</s>
 - <s>Donderdag 23 april - Kookles "Asperges"</s>
 
 ## Mei 2020
-- <s>Donderdag 7/14 mei - [Start to Walk (10x)](/assets/media/agenda/2020-03-12-start-to-walk.jpg)</s>
+- <s>Donderdag 7/14 mei - Start to Walk (10x)</s>
 - Vrijdag 15 mei - Great Escape
 
 ## Juni 2020
