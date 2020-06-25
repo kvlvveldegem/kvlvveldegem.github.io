@@ -30,4 +30,4 @@ Er woont zeker een teamlid in je buurt!
 - **Cecile Vanhollebeke** - Bestuurslid _(050/27.80.82)_
 - **Nathalie Sioen** - Bestuurslid _(0473/94.97.10)_
 - **Zeli Lambrecht** - Bestuurslid _(0474/20.76.88)_
-- **Charlotte Verhegge** - Bestuurslid _(0474/20.76.88)_
+- **Charlotte Verhegge** - Bestuurslid _(0497/52.09.24)_
