@@ -33,7 +33,7 @@ author_profile: true
 
 ## Juli 2020
 - Donderdag 2/9 juli - [Start to Walk (10x)](/assets/media/agenda/2020-Herstart-Start-to-Walk.pdf)
-- Maandag 6 juli - Vive le velo
+- Maandag 6 juli - [Vive le velo](/assets/media/agenda/06-07-2020-vive-le-velo.jpg)
 
 ## Augustus 2020
 - Donderdag 20/27 augustus - [Start to Walk (10x)](/assets/media/agenda/2020-Herstart-Start-to-Walk.pdf)
