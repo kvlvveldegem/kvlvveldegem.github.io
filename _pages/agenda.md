@@ -34,7 +34,7 @@ author_profile: true
 - Maandag 6 juli - Vive le velo
 
 ## September 2020
-- Zondag 6 september - Ontbijt
+- Zondag 6 september - [Ontbijt](/assets/media/agenda/2020-09-06-ontbijt.pdf) ([schrijf je in](/assets/media/agenda/2020-09-06-ontbijt.pdf))
 - Maandag 21 september - Kookles _(thema nog aan te kondigen)_
 - Dinsdag 29 september - "Traliemama’s" door Sabine De Vos
 
