@@ -42,7 +42,7 @@ author_profile: true
 - Donderdag 3/10/17 september - [Start to Walk (10x)](/assets/media/agenda/2020-Herstart-Start-to-Walk.pdf)
 - Zondag 6 september - [Ontbijt](/assets/media/agenda/2020-09-06-ontbijt.pdf) ([schrijf je in](/assets/media/agenda/2020-09-06-ontbijt.pdf))
 - Maandag 21 september - Kookles _(thema nog aan te kondigen)_
-- Dinsdag 29 september - "Traliemama’s" door Sabine De Vos
+- Dinsdag 29 september - ["Traliemama’s" door Sabine De Vos](/assets/media/agenda/29-09-2020-traliemama.jpg)
 
 ## Oktober 2020
 - Woensdag 7 oktober - Digicafé
