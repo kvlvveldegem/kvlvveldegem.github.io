@@ -2,7 +2,7 @@
 layout: single
 title: "Yoghurtmousse met mango"
 date: 2020-09-01 12:00:00 +0000
-published: false
+published: true
 categories: ["Recepten"]
 tags: ["Recept"]
 author: Tom Kerkhove
