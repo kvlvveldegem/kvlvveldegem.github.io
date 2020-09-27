@@ -45,7 +45,7 @@ author_profile: true
 - Dinsdag 29 september - ["Traliemama’s" door Sabine De Vos](/assets/media/agenda/29-09-2020-traliemama.jpg)
 
 ## Oktober 2020
-- Woensdag 7 oktober - Digicafé
+- Woensdag 7/14 oktober - [Digicafé](/assets/media/agenda/2020-10-07-digicafe.jpg)
 - Woensdag 28 oktober - Instuif-VIP-avond 2020@2021
 
 ## November 2020
