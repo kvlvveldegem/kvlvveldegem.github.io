@@ -49,10 +49,10 @@ author_profile: true
 - Woensdag 28 oktober - [Instuif-VIP-avond 2020@2021](/assets/media/agenda/2020-10-28-vip.jpg)
 
 ## November 2020
-- Zondag 8 november - Bedrijfsbezoek "Wat was er eerst: de kip of het ei?" _(Datum onder voorbehoud)_
-- Donderdag 12 november - Nieren zijn stille harde werkers
-- Woensdag 18 november - Café Retouche
-- Woensdag 25 november - Café Retouche
+- <s>Zondag 8 november - Bedrijfsbezoek "Wat was er eerst: de kip of het ei?"</s> _(Verplaatst naar voorjaar 2022)_
+- <s>Donderdag 12 november - Nieren zijn stille harde werkers</s> _(Verplaatst naar 2021)_
+- <s>Woensdag 18 november - Café Retouche</s> _(Verplaatst naar 2021)_
+- <s>Woensdag 25 november - Café Retouche</s> _(Verplaatst naar 2021)_
 
 ## December 2020
-- Donderdag 3 december - Kookles: "Feest" _(Namiddag & Avond)_
+- <s>Donderdag 3 december - Kookles: "Feest"</s> _(Email met recepten volgt)_
