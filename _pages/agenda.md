@@ -5,6 +5,8 @@ title: "Agenda"
 author_profile: true
 ---
 
+**Ben je corona bue? Neem dan deel aan onze Jinglejacht!** Lees er meer over in onze [flyer] en start wandelen met onze [route](/assets/media/agenda/jinglejacht-route.pdf).
+
 ## Januari 2020
 - Woensdag 29 januari - [Jaaropener](/assets/media/agenda/2020-01-29-Start.pdf)
 
