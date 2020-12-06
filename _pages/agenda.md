@@ -7,7 +7,7 @@ author_profile: true
 
 ## Jinglejacht!
 
-**Ben je corona bue? Neem dan deel aan onze Jinglejacht!** Lees er meer over in onze flyer ([link](/assets/media/agenda/jinglejacht.jpg)) en start wandelen met onze route ([link](/assets/media/agenda/jinglejacht-route.pdf)).
+**Ben je corona beu? Neem dan deel aan onze Jinglejacht!** Lees er meer over in onze flyer ([link](/assets/media/agenda/jinglejacht.jpg)) en start wandelen met onze route ([link](/assets/media/agenda/jinglejacht-route.pdf)).
 
 ## Januari 2020
 - Woensdag 29 januari - [Jaaropener](/assets/media/agenda/2020-01-29-Start.pdf)
