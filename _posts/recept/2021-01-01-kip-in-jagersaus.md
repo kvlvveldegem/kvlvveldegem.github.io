@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Kip in jagersaus"
-date: 2020-01-01 12:00:00 +0000
+date: 2021-01-01 12:00:00 +0000
 published: true
 categories: ["Recepten"]
 tags: ["Recept"]
