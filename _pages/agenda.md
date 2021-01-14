@@ -5,9 +5,13 @@ title: "Agenda"
 author_profile: true
 ---
 
+## Ferm Challenge!
+
+**Ben je corona beu? Neem dan deel aan onze Ferm Challenge!** Lees er meer over in [onze flyer](/assets/media/agenda/ferm-challenge.jpg).
+
 ## Jinglejacht!
 
-**Ben je corona beu? Neem dan deel aan onze Jinglejacht!** Lees er meer over in onze flyer ([link](/assets/media/agenda/jinglejacht.jpg)) en start wandelen met onze route ([link](/assets/media/agenda/jinglejacht-route.pdf)).
+**Nam je deel aan onze Jinglejacht?** Stuur zeker je antwoord door online ([link](https://bit.ly/ferm-jingle-jacht)) of via onze flyer ([link](/assets/media/agenda/jinglejacht-route.pdf)).
 
 ## Januari 2020
 - Woensdag 29 januari - [Jaaropener](/assets/media/agenda/2020-01-29-Start.pdf)
