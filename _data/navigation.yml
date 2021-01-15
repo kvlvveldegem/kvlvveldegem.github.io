@@ -8,6 +8,8 @@ main:
     url: /lid-worden/
   - title: "Agenda"
     url: /agenda/
+  - title: "Challenges"
+    url: /challenges/
   - title: "Foto's"
     url: /fotos/
   - title: "Recepten"

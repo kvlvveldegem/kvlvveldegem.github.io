@@ -7,7 +7,7 @@ author_profile: true
 
 ## Ferm Challenge!
 
-**Ben je corona beu? Neem dan deel aan onze Ferm Challenge!** Lees er meer over in [onze flyer](/assets/media/agenda/ferm-challenge.jpg).
+**Ben je corona beu? Neem dan deel aan onze Ferm Challenge!** Lees er meer over op deze pagina ([link](/challenges/)).
 
 ## Jinglejacht!
 
