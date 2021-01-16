@@ -21,6 +21,6 @@ Onze eerste opdracht is een puzzel die je kan downloaden ([link](/assets/media/c
 
 Heb je een `ij` nodig? Dan moet je hiervoor 2 vakjes nemen (eentje voor de i en eentje voor de j).
 
-Foto van het resultaat doorsturen, tegen **uiterlijk 31/1**, naar [fermchallengeveldegem@gmail.com](fermchallengeveldegem@gmail.com).
+Foto van het resultaat doorsturen, tegen **uiterlijk 31/1**, naar [fermchallengeveldegem@hotmail.com](fermchallengeveldegem@hotmail.com).
 
 > 📌Tip - Alle activiteiten zijn terug te vinden op onze website www.fermveldegem.be onder agenda of foto’s.
