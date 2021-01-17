@@ -9,10 +9,6 @@ author_profile: true
 
 **Ben je corona beu? Neem dan deel aan onze Ferm Challenge!** Lees er meer over op deze pagina ([link](/challenges/)).
 
-## Jinglejacht!
-
-**Nam je deel aan onze Jinglejacht?** Stuur zeker je antwoord door online ([link](https://bit.ly/ferm-jingle-jacht)) of via onze flyer ([link](/assets/media/agenda/jinglejacht-route.pdf)).
-
 ## Januari 2020
 - Woensdag 29 januari - [Jaaropener](/assets/media/agenda/2020-01-29-Start.pdf)
 
