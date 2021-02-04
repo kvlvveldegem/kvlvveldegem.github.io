@@ -10,6 +10,7 @@ author_profile: true
 Hier zijn alle opdrachten:
 
 - **Januari** - Maak een puzzel ([link](#puzzelen-in-januari-))
+- **Febrauri** - Appelbabbelbak ([link](#appelbabbelbak-in-februari-))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
@@ -24,3 +25,11 @@ Heb je een `ij` nodig? Dan moet je hiervoor 2 vakjes nemen (eentje voor de i en 
 Foto van het resultaat doorsturen, tegen **uiterlijk 31/1**, naar [fermchallengeveldegem@hotmail.com](fermchallengeveldegem@hotmail.com).
 
 > 📌Tip - Alle activiteiten zijn terug te vinden op onze website www.fermveldegem.be onder agenda of foto’s.
+
+## Appelbabbelbak in februari 🍎🍰
+
+Onze tweede opdracht is de **appelbabbelbak op zaterdag 6 februari**!
+
+Bak net zoals vele Ferm-dames uit gans Vlaanderen een appelcake, -taart, -muffins of ander gebak met Belgische appels en geniet er samen met iemand anders van tijdens een appelbabbel!
+
+Lees er meer over in de [challenge uitleg](/assets/media/challenges/appelbabbelbak.pdf).
