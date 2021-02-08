@@ -9,6 +9,12 @@ author_profile: true
 
 **Ben je corona beu? Neem dan deel aan onze Ferm Challenge!** Lees er meer over op deze pagina ([link](/challenges/)).
 
+## Ferm Escape 🕵️‍♀️🕵️‍♂️
+
+Kan jij de code kraken?!
+
+![Escape](/assets/media/agenda/escape.jpg)
+
 ## Open aanbod voor 2021
 
 Helaas moeten we nog even wachten, maar dit hebben jullie nog te goed:
