@@ -13,9 +13,7 @@ author_profile: true
 
 Ferm Escape #8210 is een volledig gratis dorpsspel en is een initiatief van Ferm Veldegem - Kan jij de code kraken?!
 
-Wil je meer weten? Lees onze [uitleg](/assets/media/escape/Wat-is-Ferm-Escape-8210.pdf) en download ons [deelname formulier](/assets/media/escape/Deelnameformulier-Ferm-Escape-8210.pdf).
-
-![Escape](/assets/media/escape/Kaart.png)
+Wil je meer weten? Lees de [uitleg](/assets/media/escape/Wat-is-Ferm-Escape-8210.pdf), download het [deelname formulier](/assets/media/escape/Deelnameformulier-Ferm-Escape-8210.pdf) en neem [ons plannetje](/assets/media/escape/Plan.pdf) om je zoektocht te starten!
 
 ## Open aanbod voor 2021
 
