@@ -15,6 +15,8 @@ Ferm Escape #8210 is een volledig gratis dorpsspel en is een initiatief van Ferm
 
 Wil je meer weten? Lees de [uitleg](/assets/media/escape/Wat-is-Ferm-Escape-8210.pdf), download het [deelname formulier](/assets/media/escape/Deelnameformulier-Ferm-Escape-8210.pdf) en neem [ons plannetje](/assets/media/escape/Plan.pdf) om je zoektocht te starten!
 
+![Flyer](/assets/media/escape/flyer.png)
+
 ## Open aanbod voor 2021
 
 Helaas moeten we nog even wachten, maar dit hebben jullie nog te goed:
