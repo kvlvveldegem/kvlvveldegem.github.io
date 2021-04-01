@@ -12,6 +12,7 @@ Hier zijn alle opdrachten:
 - **Januari** - Maak een puzzel ([link](#puzzelen-in-januari-))
 - **Febrauri** - Appelbabbelbak ([link](#appelbabbelbak-in-februari-))
 - **Maart** - Paasdecoratie ([link](#paasdecoratie-in-maart-))
+- **April** - Woordzoeker ([link](#woordzoeker-in-april-️️️️))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
@@ -44,3 +45,14 @@ Laat je volledig gaan, maar zorg dat er een gele toets aanwezig is.
 Neem een foto en stuur deze uiterlijk door naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com), zo ben jij misschien wel de maandwinnaar?!
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/maart.jpg).
+
+## Woordzoeker in april 🕵️‍♀️🕵️‍♂️
+
+Deze maand hebben we voor jullie een woordzoeker klaar met een knipoog naar ons dorpsspel Ferm Escape #8210.
+
+Zoek de woorden die zowel van links naar rechts als van rechts naar links geschreven zijn en soms zowel horizontaal, verticaal als diagonaal.
+
+Stuur tegen uiterlijk 30 april ‘21 jouw antwoord door naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)
+Zo maak je terug kans om maandwinnaar te worden of blijf je in de running voor de eindwinnaar.
+
+Lees er meer over in de [challenge uitleg](/assets/media/challenges/april.pdf) en [download de woordzoeker](/assets/media/challenges/april.docx)!
