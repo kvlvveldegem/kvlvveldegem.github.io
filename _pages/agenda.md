@@ -17,7 +17,45 @@ Wil je meer weten? Lees de [uitleg](/assets/media/escape/Wat-is-Ferm-Escape-8210
 
 **Ben je corona beu? Neem dan deel aan onze Ferm Challenge!** Lees er meer over op deze pagina ([link](/challenges/)).
 
-## Open aanbod voor 2021
+## Agenda
+
+### April 2021
+
+Nog geen plannen.
+
+### Mei 2021
+
+- Dinsdag 4/11/18/25 juni - [Start to Walk (10x)](/assets/media/agenda/2021-05-04-start-to-walk.jpg)
+
+### Juni 2021
+
+- Dinsdag 1/8/15/22/29 juni - [Start to Walk (10x)](/assets/media/agenda/2021-05-04-start-to-walk.jpg)
+
+### Juli 2021
+
+- Dinsdag 6/13 juli - [Start to Walk (10x)](/assets/media/agenda/2021-05-04-start-to-walk.jpg)
+
+### Augustus 2021
+
+Nog geen plannen.
+
+### September 2021
+
+Nog geen plannen.
+
+### Oktober 2021
+
+Nog geen plannen.
+
+### November 2021
+
+Nog geen plannen.
+
+### December 2021
+
+Nog geen plannen.
+
+### Open aanbod voor 2021
 
 Helaas moeten we nog even wachten, maar dit hebben jullie nog te goed:
 
