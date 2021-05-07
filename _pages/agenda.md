@@ -26,6 +26,7 @@ Nog geen plannen.
 ### Mei 2021
 
 - Dinsdag 4/11/18/25 mei - [Start to Walk (10x)](/assets/media/agenda/2021-05-04-start-to-walk.jpg)
+- Donderdag 20 mei - [Appelbabbel bakles](/assets/media/agenda/2021-02-20-Appelbabbelbakles.jpg)
 
 ### Juni 2021
 
