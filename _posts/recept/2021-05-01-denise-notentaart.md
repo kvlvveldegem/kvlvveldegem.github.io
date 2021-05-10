@@ -22,7 +22,7 @@ Voor dit gerecht heb je volgende ingrediënten nodig:
 
 # Bereidingswijze
 
-1. Bak de noten
+1. Hak de noten
 2. Leg de bladerdeeg in de vorm
 3. Leg de noten in het bladerdeed
 4. Klop de eidooiers & suiker schuimig op
