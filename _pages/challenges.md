@@ -13,7 +13,7 @@ Hier zijn alle opdrachten:
 - **Febrauri** - Appelbabbelbak ([link](#appelbabbelbak-in-februari-))
 - **Maart** - Paasdecoratie ([link](#paasdecoratie-in-maart-))
 - **April** - Woordzoeker ([link](#woordzoeker-in-april-️️️️))
-- **Mei** - Troostplek ([link](#troostplek-in-mei-️️️️))
+- **Mei** - Troostplek ([link](#troostplek-in-mei-))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
