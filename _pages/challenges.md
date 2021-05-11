@@ -13,6 +13,7 @@ Hier zijn alle opdrachten:
 - **Febrauri** - Appelbabbelbak ([link](#appelbabbelbak-in-februari-))
 - **Maart** - Paasdecoratie ([link](#paasdecoratie-in-maart-))
 - **April** - Woordzoeker ([link](#woordzoeker-in-april-️️️️))
+- **Mei** - Troostplek ([link](#troostplek-in-mei-️️️️))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
@@ -56,3 +57,9 @@ Stuur tegen uiterlijk 30 april ‘21 jouw antwoord door naar [fermchallengevelde
 Zo maak je terug kans om maandwinnaar te worden of blijf je in de running voor de eindwinnaar.
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/april.pdf) en [download de woordzoeker](/assets/media/challenges/april.docx)!
+
+## Troostplek in mei 🕯
+
+Kom tot rust, bezin en herdenk met een bezoek aan de troostplek, een manier om steun te vinden bij wat er om gaat in ons leven.
+
+Lees er meer over in de [challenge uitleg](/assets/media/challenges/mei.jpg).
