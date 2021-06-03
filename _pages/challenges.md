@@ -14,6 +14,7 @@ Hier zijn alle opdrachten:
 - **Maart** - Paasdecoratie ([link](#paasdecoratie-in-maart-))
 - **April** - Woordzoeker ([link](#woordzoeker-in-april-️️️️))
 - **Mei** - Troostplek ([link](#troostplek-in-mei-))
+- **Juni** - Cocktails & Mocktails ([link](#troostplek-in-mei-))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
@@ -63,3 +64,11 @@ Lees er meer over in de [challenge uitleg](/assets/media/challenges/april.pdf) e
 Kom tot rust, bezin en herdenk met een bezoek aan de troostplek, een manier om steun te vinden bij wat er om gaat in ons leven.
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/mei.jpg).
+
+## Cocktails & Mocktails 🍹
+
+Terrasjesweer zorgt voor heerlijke drankjes! Wie is daar geen fan van?
+
+We dagen jullie uit om een lekkere mocktail of cocktail te maken, een foto te maken en door te sturen naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com) samen met het recept!
+
+Lees er meer over in de [challenge uitleg](/assets/media/challenges/juni.pdf).
