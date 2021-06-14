@@ -26,6 +26,7 @@ Nog geen plannen.
 
 ### Juli 2021
 
+- Donderdag 1 juli - [Ladiebikers on the road](/assets/media/agenda/2021-07-01-Ladiebikers-on-the-road.pdf)
 - Dinsdag 6/13 juli - [Start to Walk (10x)](/assets/media/agenda/2021-05-04-start-to-walk.jpg)
 
 ### Augustus 2021
