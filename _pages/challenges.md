@@ -14,7 +14,8 @@ Hier zijn alle opdrachten:
 - **Maart** - Paasdecoratie ([link](#paasdecoratie-in-maart-))
 - **April** - Woordzoeker ([link](#woordzoeker-in-april-️️️️))
 - **Mei** - Troostplek ([link](#troostplek-in-mei-))
-- **Juni** - Cocktails & Mocktails ([link](#troostplek-in-mei-))
+- **Juni** - Cocktails & Mocktails ([link](#cocktails--mocktails-))
+- **Zomer** - Favoriete plek in de zomer ([link](#favoriete-plek-in-de-zomer-))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
@@ -72,3 +73,16 @@ Terrasjesweer zorgt voor heerlijke drankjes! Wie is daar geen fan van?
 We dagen jullie uit om een lekkere mocktail of cocktail te maken, een foto te maken en door te sturen naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com) samen met het recept!
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/juni.pdf).
+
+## Favoriete plek in de zomer 🏡
+
+Elk neemt op haar eigen manier wat vakantie: enkele dagen niet werken, enkele dagen minder werken, enkele uren genieten, kleine dingen, ..
+
+We dagen jullie uit om een foto door te sturen van jouw favoriete plekje.
+
+Dit kan op reis een zalig plekje zijn, maar net zo goed in eigen tuin, eigen dorp, eigen land, ...
+Het maakt niet uit: als jij je maar goed voelt op dat plekje!
+
+Je kan je foto doorsturen **tot 31/8/2021** naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
+
+Lees er meer over in de [challenge uitleg](/assets/media/challenges/zomer.pdf).

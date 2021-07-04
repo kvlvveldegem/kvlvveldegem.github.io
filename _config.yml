@@ -166,7 +166,9 @@ kramdown:
 
 # Sass/SCSS
 sass:
-  sass_dir: _sass
+  #sass_dir: _sass
+  sass_dir: _sass /hoosegow/.bundle/ruby/2.3.0/gems/jekyll-theme-primer-0.1.7/_sass
+
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
