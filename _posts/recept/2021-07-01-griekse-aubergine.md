@@ -8,10 +8,8 @@ tags: ["Recept"]
 author: Tom Kerkhove
 ---
 
-_intro_
-
 # Ingrediënten
-Voor dit gerecht heb je volgende ingrediënten nodig voor <aantal> personen:
+Voor dit gerecht heb je volgende ingrediënten:
 
 - 1 grote aubergine
 - 1 boterham (volkoren speltbrood, 50g)
