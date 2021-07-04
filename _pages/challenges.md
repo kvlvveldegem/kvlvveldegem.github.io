@@ -76,7 +76,7 @@ Lees er meer over in de [challenge uitleg](/assets/media/challenges/juni.pdf).
 
 ## Favoriete plek in de zomer 🏡
 
-Elk neemt op haar eigen manier wat vakantie: enkele dagen niet werken, enkele dagen minder werken, enkele uren genieten, kleine dingen, ..
+Elk neemt op haar eigen manier wat vakantie: enkele dagen niet werken, enkele uren genieten, kleine dingen, ..
 
 We dagen jullie uit om een foto door te sturen van jouw favoriete plekje.
 
