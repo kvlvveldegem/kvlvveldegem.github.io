@@ -35,11 +35,14 @@ Nog geen plannen.
 
 ### September 2021
 
-Nog geen plannen.
+- Zondag 5 september - [Ferm-ontbijt - In pakket](/assets/media/agenda/sept-2021.jpg)
+- Woensdag 8 september - [Diner Fin d'été](/assets/media/agenda/sept-2021.jpg)
+- Dinsdag 28 september - [Join in, stress out: verhoog je mentale veerkracht](/assets/media/agenda/sept-2021.jpg)
 
 ### Oktober 2021
 
-Nog geen plannen.
+- Zondag 10 oktober - [Antwerpen: Letterlijk en firguurlijk proeven van de Joodse wereld](/assets/media/agenda/sept-2021.jpg)
+
 
 ### November 2021
 
