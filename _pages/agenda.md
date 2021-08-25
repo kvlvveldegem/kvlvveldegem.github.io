@@ -36,7 +36,7 @@ Nog geen plannen.
 ### September 2021
 
 - Zondag 5 september - [Ferm-ontbijt - In pakket](/assets/media/agenda/2021-09-05-ontbijt.pdf)
-- Woensdag 8 september - [Diner Fin d'été](/assets/media/agenda/sept-2021.jpg)
+- Woensdag 8 september - [Diner Fin d'été](/assets/media/agenda/2021-09-08-fin-ete.pdf)
 - Dinsdag 28 september - [Join in, stress out: verhoog je mentale veerkracht](/assets/media/agenda/sept-2021.jpg)
 
 ### Oktober 2021
