@@ -16,6 +16,7 @@ Hier zijn alle opdrachten:
 - **Mei** - Troostplek ([link](#troostplek-in-mei-))
 - **Juni** - Cocktails & Mocktails ([link](#cocktails--mocktails-))
 - **Zomer** - Favoriete plek in de zomer ([link](#favoriete-plek-in-de-zomer-))
+- **September** - Kook & Win ([link](#kook--win-))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
@@ -86,3 +87,11 @@ Het maakt niet uit: als jij je maar goed voelt op dat plekje!
 Je kan je foto doorsturen **tot 31/8/2021** naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/zomer.pdf).
+
+## Kook & Win 👩‍🍳
+
+Kies een recept naar keuze, maak het gerecht klaar en maak kans om te winnen!
+
+Je kan je een foto van je gerecht doorsturen **voor 30/9/2021** naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
+
+Lees er meer over in de [challenge uitleg](/assets/media/challenges/september.pdf).
