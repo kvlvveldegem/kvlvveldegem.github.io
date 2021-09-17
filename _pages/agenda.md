@@ -41,7 +41,7 @@ Nog geen plannen.
 
 ### Oktober 2021
 
-- Zondag 10 oktober - [Antwerpen: Letterlijk en firguurlijk proeven van de Joodse wereld](/assets/media/agenda/sept-2021.jpg)
+- Zondag 10 oktober - [Antwerpen: Letterlijk en firguurlijk proeven van de Joodse wereld](/assets/media/agenda/2021-10-10-Antwerpen.pdf)
 
 ### November 2021
 
