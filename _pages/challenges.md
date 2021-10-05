@@ -17,6 +17,7 @@ Hier zijn alle opdrachten:
 - **Juni** - Cocktails & Mocktails ([link](#cocktails--mocktails-))
 - **Zomer** - Favoriete plek in de zomer ([link](#favoriete-plek-in-de-zomer-))
 - **September** - Kook & Win ([link](#kook--win-))
+- **Oktober** - Sudoku ([link](#sudoku-in-oktober-))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
@@ -95,3 +96,11 @@ Kies een recept naar keuze, maak het gerecht klaar en maak kans om te winnen!
 Je kan je een foto van je gerecht doorsturen **voor 30/9/2021** naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/september.pdf).
+
+## Sudoku in oktober 🧩
+
+Breek je hersenen op de Sudoku en maak kans om te winnen!
+
+Je kan je een ingevulde Sudoku doorsturen naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
+
+Lees er meer over in de [challenge uitleg](/assets/media/challenges/oktober.jpg).
