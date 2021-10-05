@@ -37,19 +37,21 @@ Nog geen plannen.
 
 - Zondag 5 september - [Ferm-ontbijt - In pakket](/assets/media/agenda/2021-09-05-ontbijt.pdf)
 - Woensdag 8 september - [Diner Fin d'été](/assets/media/agenda/2021-09-08-fin-ete.pdf)
-- Dinsdag 28 september - [Join in, stress out: verhoog je mentale veerkracht](/assets/media/agenda/sept-2021.jpg)
+- Dinsdag 28 september - [Join in, stress out: verhoog je mentale veerkracht](/assets/media/agenda/2021-09-28-stress.pdf)
 
 ### Oktober 2021
 
-- Zondag 10 oktober - [Antwerpen: Letterlijk en firguurlijk proeven van de Joodse wereld](/assets/media/agenda/sept-2021.jpg)
+- Zondag 10 oktober - [Antwerpen: Letterlijk en firguurlijk proeven van de Joodse wereld](/assets/media/agenda/2021-10-10-Antwerpen.pdf)
+- Donderdag 21 oktober - Astrologie, als spiegel tot zelfinzicht.
 
 ### November 2021
 
-Nog geen plannen.
+- Woensdag 10 november - Instuif: VIP AVOND
+- Woensdag 24 november - Arm-knitting
 
 ### December 2021
 
-Nog geen plannen.
+- Woensdag 1 december - Feestmenu (VM & NM)
 
 ### Open aanbod voor 2021
 
