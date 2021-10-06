@@ -42,7 +42,7 @@ Nog geen plannen.
 ### Oktober 2021
 
 - Zondag 10 oktober - [Antwerpen: Letterlijk en firguurlijk proeven van de Joodse wereld](/assets/media/agenda/2021-10-10-Antwerpen.pdf)
-- Donderdag 21 oktober - Astrologie, als spiegel tot zelfinzicht.
+- Donderdag 21 oktober - [Astrologie, als spiegel tot zelfinzicht.](/assets/media/agenda/2021-10-21-astrologie.jpg)
 
 ### November 2021
 
