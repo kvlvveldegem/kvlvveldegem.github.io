@@ -46,7 +46,7 @@ Nog geen plannen.
 
 ### November 2021
 
-- Woensdag 10 november - Instuif: VIP AVOND
+- Woensdag 10 november - [Instuif: VIP avond](/assets/media/agenda/2021-11-10-vip-avond.jpg)
 - Woensdag 24 november - Arm-knitting
 
 ### December 2021
