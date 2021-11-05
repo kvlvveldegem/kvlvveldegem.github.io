@@ -18,6 +18,7 @@ Hier zijn alle opdrachten:
 - **Zomer** - Favoriete plek in de zomer ([link](#favoriete-plek-in-de-zomer-))
 - **September** - Kook & Win ([link](#kook--win-))
 - **Oktober** - Sudoku ([link](#sudoku-in-oktober-))
+- **November** - Herfstfoto ([link](#herfstfoto-in-november))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
@@ -104,3 +105,13 @@ Breek je hersenen op de Sudoku en maak kans om te winnen!
 Je kan je een ingevulde Sudoku doorsturen naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/oktober.jpg).
+
+## Herfstfoto in november
+
+Haal je fotocamera boven, neem een herfstfoto en maak kans om te winnen!
+
+Je kan je een foto naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
+
+> Alle ingediende herfstfoto’s zullen begin december gepubliceerd worden op facebook.
+
+Lees er meer over in de [challenge uitleg](/assets/media/challenges/november.pdf).
