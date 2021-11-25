@@ -53,6 +53,8 @@ Nog geen plannen.
 
 - <s>Woensdag 1 december - Feestmenu (VM & NM)</s>
 
+Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/feestmenu.pdf) vinden.
+
 ### Open aanbod voor 2021
 
 Helaas moeten we nog even wachten, maar dit hebben jullie nog te goed:
