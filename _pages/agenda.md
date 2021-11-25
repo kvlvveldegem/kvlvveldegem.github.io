@@ -51,7 +51,7 @@ Nog geen plannen.
 
 ### December 2021
 
-- Woensdag 1 december - Feestmenu (VM & NM)
+- ~Woensdag 1 december - Feestmenu (VM & NM)~
 
 ### Open aanbod voor 2021
 
