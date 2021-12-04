@@ -19,12 +19,13 @@ Hier zijn alle opdrachten:
 - **September** - Kook & Win ([link](#kook--win-))
 - **Oktober** - Sudoku ([link](#sudoku-in-oktober-))
 - **November** - Herfstfoto ([link](#herfstfoto-in-november))
+- **December** - Kerstsfeer ([link](#kerstsfeer-in-december-))
 
 Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
 
 > 💡 Elke maand is er een prijs te winnen en op het einde van het jaar wordt er een hoofdprijs getrokken uit alle inzendingen.
 
-## Puzzelen in januari 🧩
+## Puzzelen in Januari 🧩
 
 Onze eerste opdracht is een puzzel die je kan downloaden ([link](/assets/media/challenges/januari.pdf)) waarbij er allemaal FERM-activiteiten moeten ingevuld worden.
 
@@ -34,7 +35,7 @@ Foto van het resultaat doorsturen, tegen **uiterlijk 31/1**, naar [fermchallenge
 
 > 📌Tip - Alle activiteiten zijn terug te vinden op onze website www.fermveldegem.be onder agenda of foto’s.
 
-## Appelbabbelbak in februari 🍎🍰
+## Appelbabbelbak in Februari 🍎🍰
 
 Onze tweede opdracht is de **appelbabbelbak op zaterdag 6 februari**!
 
@@ -42,7 +43,7 @@ Bak net zoals vele Ferm-dames uit gans Vlaanderen een appelcake, -taart, -muffin
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/appelbabbelbak.pdf).
 
-## Paasdecoratie in maart 🐰🥚🍫
+## Paasdecoratie in Maart 🐰🥚🍫
 
 Als derde opdracht dagen we je uit om een **paasdecoratie te maken om je huis op te fleuren**!
 
@@ -52,7 +53,7 @@ Neem een foto en stuur deze uiterlijk door naar [fermchallengeveldegem@hotmail.c
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/maart.jpg).
 
-## Woordzoeker in april 🕵️‍♀️🕵️‍♂️
+## Woordzoeker in April 🕵️‍♀️🕵️‍♂️
 
 Deze maand hebben we voor jullie een woordzoeker klaar met een knipoog naar ons dorpsspel Ferm Escape #8210.
 
@@ -63,7 +64,7 @@ Zo maak je terug kans om maandwinnaar te worden of blijf je in de running voor d
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/april.pdf) en [download de woordzoeker](/assets/media/challenges/april.docx)!
 
-## Troostplek in mei 🕯
+## Troostplek in Mei 🕯
 
 Kom tot rust, bezin en herdenk met een bezoek aan de troostplek, een manier om steun te vinden bij wat er om gaat in ons leven.
 
@@ -98,7 +99,7 @@ Je kan je een foto van je gerecht doorsturen **voor 30/9/2021** naar [fermchalle
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/september.pdf).
 
-## Sudoku in oktober 🧩
+## Sudoku in Oktober 🧩
 
 Breek je hersenen op de Sudoku en maak kans om te winnen!
 
@@ -106,7 +107,7 @@ Je kan je een ingevulde Sudoku doorsturen naar [fermchallengeveldegem@hotmail.co
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/oktober.jpg).
 
-## Herfstfoto in november
+## Herfstfoto in November
 
 Haal je fotocamera boven, neem een herfstfoto en maak kans om te winnen!
 
@@ -115,3 +116,13 @@ Je kan je een foto naar [fermchallengeveldegem@hotmail.com](mailto:fermchallenge
 > Alle ingediende herfstfoto’s zullen begin december gepubliceerd worden op facebook.
 
 Lees er meer over in de [challenge uitleg](/assets/media/challenges/november.pdf).
+
+## Kerstsfeer in December 🎄
+
+Kies een mooie kerst of nieuwjaars wens en maak kans om te winnen!
+
+Je kan je een quote door naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
+
+De winnaar van de December challenge en hoofdprijs worden in 2022 bekend gemaakt.
+
+Lees er meer over in de [challenge uitleg](/assets/media/challenges/december.pdf).
