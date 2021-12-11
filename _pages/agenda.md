@@ -11,70 +11,65 @@ author_profile: true
 
 ## Agenda
 
-### April 2021
-
-Nog geen plannen.
-
-### Mei 2021
-
-- Dinsdag 4/11/18/25 mei - [Start to Walk (10x)](/assets/media/agenda/2021-05-04-start-to-walk.jpg)
-- Donderdag 20 mei - [Appelbabbel bakles](/assets/media/agenda/2021-02-20-Appelbabbelbakles.jpg)
-
-### Juni 2021
-
-- Dinsdag 1/8/15/22/29 juni - [Start to Walk (10x)](/assets/media/agenda/2021-05-04-start-to-walk.jpg)
-
-### Juli 2021
-
-- Donderdag 1 juli - [Ladiebikers on the road](/assets/media/agenda/2021-07-01-Ladiebikers-on-the-road.pdf)
-- Dinsdag 6/13 juli - [Start to Walk (10x)](/assets/media/agenda/2021-05-04-start-to-walk.jpg)
-
-### Augustus 2021
-
-Nog geen plannen.
-
-### September 2021
-
-- Zondag 5 september - [Ferm-ontbijt - In pakket](/assets/media/agenda/2021-09-05-ontbijt.pdf)
-- Woensdag 8 september - [Diner Fin d'été](/assets/media/agenda/2021-09-08-fin-ete.pdf)
-- Dinsdag 28 september - [Join in, stress out: verhoog je mentale veerkracht](/assets/media/agenda/2021-09-28-stress.pdf)
-
-### Oktober 2021
-
-- Zondag 10 oktober - [Antwerpen: Letterlijk en firguurlijk proeven van de Joodse wereld](/assets/media/agenda/2021-10-10-Antwerpen.pdf)
-- Donderdag 21 oktober - [Astrologie, als spiegel tot zelfinzicht.](/assets/media/agenda/2021-10-21-astrologie.jpg)
-
-### November 2021
-
-- Woensdag 10 november - [Instuif: VIP avond](/assets/media/agenda/2021-11-10-vip-avond.jpg)
-- Woensdag 24 november - [Arm-knitting](/assets/media/agenda/2021-11-24-arm-knitting.pdf)
-
 ### December 2021
 
 - <s>Woensdag 1 december - Feestmenu (VM & NM)</s>
 
 Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/feestmenu.pdf) vinden.
 
-### Open aanbod voor 2021
+### Januari 2022
 
-Helaas moeten we nog even wachten, maar dit hebben jullie nog te goed:
+- Woensdag 26 januari - Jaaropener
+- Zondag 30 januari - Bedrijfsbezoek Lambio
 
-- Ontbijt
-- Comedie - Begijn Le Bleu
-- Jaaropener
-- Astrologie, als spiegel tot zelfinzicht
-- Workshop sandaaltjes maken
-- Start to walk
-- Antwerpen - Letterlijk & figuurlijk proeven van de joodse wereld
-- Diner Fin D'Ete
-- Kookles Asperges
-- Workshop - Babyschoentjes maken
-- Opruimen - Ruimte in je huis en in je hoofd
-- Kookles - Feestmenu 2021
-- Join in, stress out - Verhoog je mentale veerkracht
-- Ladiebikers on the road
-- Workshop - Armknitting
-- Kookles - Sushi maken
-- Dag van de mantelzorger
+### Februari 2022
 
-> We mogen elkaar misschien niet vastpakken, maar we gaan mekaar niet loslaten!
+- Maandag 7 februari - Eerste hulp bij baby's en kinderen
+- Donderdag 24 februari - Flowerhoop met droog-bloemen (workshop)
+- Maandag 28 februari - Flowerhoop met droog-bloemen (workshop)
+
+### Maart 2022
+
+- Dinsdag 8 maart - Kookles Sushi
+- Woensdag 23 maart - Rust in je huis, ruimte in je hoofd (opruimcoach, Nele Colle)
+
+### April 2022
+
+- Donderdag 21 april - Sandaaltjes maken (workshop)
+- Dinsdag 24 april - Opfrissen van de wegcode
+
+### Mei 2022
+
+- Woensdag 18 mei - City Golf Roeselare
+
+### Juni 2022
+
+- Zondag 12 juni - Cycling dinner
+- Donderdag 23 juni - Dag van de mantelzorg
+
+### Juli 2022
+
+- Woensdag 6 juli - Geocaching Lambio
+
+### Augustus 2022
+
+Vakantie.
+
+### September 2022
+
+- Zondag 4 september - Ontbijt
+- Dinsdag 20 september - Bakles met Peter Balcaen (NM)
+
+### Oktober 2022
+
+- Donderdag 13 oktober - Pottendraaien (workshop)
+- Maandag 24 oktober - Nieren zijn stille werkers
+
+### November 2022
+
+- Donderdag 10 november - Instuif VIP-avond
+- Vrijdag 25 november - Great Escape
+
+### December 2022
+
+- Woensdag 14 december - Showcooking with ladychefs
