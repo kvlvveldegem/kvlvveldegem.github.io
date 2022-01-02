@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2021
 - [Jinglejacht](https://www.flickr.com/photos/kvlvveldegem/albums/72157717906195727)
+- [Ladiebikers on the road](https://www.flickr.com/photos/kvlvveldegem/albums/72177720295645736)
+- [Diner Fin d'été](https://www.flickr.com/photos/kvlvveldegem/albums/72177720295645053)
+- [Antwerpen: Letterlijk en firguurlijk proeven van de Joodse wereld](https://www.flickr.com/photos/kvlvveldegem/albums/72177720295642595)
+- [Instuif: VIP avond](https://www.flickr.com/photos/kvlvveldegem/albums/72177720295642597)
+- [Arm-knitting](https://www.flickr.com/photos/kvlvveldegem/albums/72177720295643374)
 
 ## 2020
 - [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72157713750885246)
