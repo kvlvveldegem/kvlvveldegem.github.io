@@ -19,7 +19,7 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 
 ### Januari 2022
 
-- Woensdag 26 januari - Jaaropener
+- Woensdag 26 januari - [Jaaropener](/assets/media/agenda/2022-01-jaaropener.pdf)
 - Zondag 30 januari - Bedrijfsbezoek Lambio
 
 ### Februari 2022
