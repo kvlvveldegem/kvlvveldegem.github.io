@@ -1,128 +1,27 @@
 ---
 layout: archive
-permalink: /challenges/
-title: "Challenges"
+permalink: /wauw/
+title: "Wauw Vrouwen"
 author_profile: true
 ---
 
-**Ben je corona beu? Neem dan deel aan onze Ferm Challenge!**
+Bij Ferm-Veldegem hebben we meer dan 220 dames die stuk voor stuk Wauw-Vrouw zijn, door wie ze zijn, door wat ze doen, door wat ze betekenen voor anderen of door gewoon zichzelf te zijn!
 
-Hier zijn alle opdrachten:
+Iedereen aan elkaar voorstellen, dat willen we graag, maar lukt echt niet.
 
-- **Januari** - Maak een puzzel ([link](#puzzelen-in-januari-))
-- **Febrauri** - Appelbabbelbak ([link](#appelbabbelbak-in-februari-))
-- **Maart** - Paasdecoratie ([link](#paasdecoratie-in-maart-))
-- **April** - Woordzoeker ([link](#woordzoeker-in-april-️️️️))
-- **Mei** - Troostplek ([link](#troostplek-in-mei-))
-- **Juni** - Cocktails & Mocktails ([link](#cocktails--mocktails-))
-- **Zomer** - Favoriete plek in de zomer ([link](#favoriete-plek-in-de-zomer-))
-- **September** - Kook & Win ([link](#kook--win-))
-- **Oktober** - Sudoku ([link](#sudoku-in-oktober-))
-- **November** - Herfstfoto ([link](#herfstfoto-in-november))
-- **December** - Kerstsfeer ([link](#kerstsfeer-in-december-))
+Maar elke maand er eentje voorstellen: dat kunnen we wel!
 
-Lees er meer over in onze flyer ([link](/assets/media/agenda/ferm-challenge.jpg)).
+## Marlotte Verhegge is Wauw-Vrouw van Januari
 
-> 💡 Elke maand is er een prijs te winnen en op het einde van het jaar wordt er een hoofdprijs getrokken uit alle inzendingen.
+Ontmoet de Wauw-Vrouw van januari: Marlotte Verhegge
 
-## Puzzelen in Januari 🧩
+Is het omdat Marlotte binnenkort jarig is of is het omdat ze straks mama wordt?
+Of is het omdat ze, samen met haar zussen, een transportbedrijf runt?
+Niet echt. Maar waarom dan wel?
 
-Onze eerste opdracht is een puzzel die je kan downloaden ([link](/assets/media/challenges/januari.pdf)) waarbij er allemaal FERM-activiteiten moeten ingevuld worden.
+**Kunst Na Arbeid koos voor het eerst in hun 76 jarig bestaan, een vrouwelijke
+voorzitter: Marlotte!**
 
-Heb je een `ij` nodig? Dan moet je hiervoor 2 vakjes nemen (eentje voor de i en eentje voor de j).
+We kunnen die beslissing als vrouwenvereniging enkel maar toejuichen.
 
-Foto van het resultaat doorsturen, tegen **uiterlijk 31/1**, naar [fermchallengeveldegem@hotmail.com](fermchallengeveldegem@hotmail.com).
-
-> 📌Tip - Alle activiteiten zijn terug te vinden op onze website www.fermveldegem.be onder agenda of foto’s.
-
-## Appelbabbelbak in Februari 🍎🍰
-
-Onze tweede opdracht is de **appelbabbelbak op zaterdag 6 februari**!
-
-Bak net zoals vele Ferm-dames uit gans Vlaanderen een appelcake, -taart, -muffins of ander gebak met Belgische appels en geniet er samen met iemand anders van tijdens een appelbabbel!
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/appelbabbelbak.pdf).
-
-## Paasdecoratie in Maart 🐰🥚🍫
-
-Als derde opdracht dagen we je uit om een **paasdecoratie te maken om je huis op te fleuren**!
-
-Laat je volledig gaan, maar zorg dat er een gele toets aanwezig is.
-
-Neem een foto en stuur deze uiterlijk door naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com), zo ben jij misschien wel de maandwinnaar?!
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/maart.jpg).
-
-## Woordzoeker in April 🕵️‍♀️🕵️‍♂️
-
-Deze maand hebben we voor jullie een woordzoeker klaar met een knipoog naar ons dorpsspel Ferm Escape #8210.
-
-Zoek de woorden die zowel van links naar rechts als van rechts naar links geschreven zijn en soms zowel horizontaal, verticaal als diagonaal.
-
-Stuur tegen uiterlijk 30 april ‘21 jouw antwoord door naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)
-Zo maak je terug kans om maandwinnaar te worden of blijf je in de running voor de eindwinnaar.
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/april.pdf) en [download de woordzoeker](/assets/media/challenges/april.docx)!
-
-## Troostplek in Mei 🕯
-
-Kom tot rust, bezin en herdenk met een bezoek aan de troostplek, een manier om steun te vinden bij wat er om gaat in ons leven.
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/mei.jpg).
-
-## Cocktails & Mocktails 🍹
-
-Terrasjesweer zorgt voor heerlijke drankjes! Wie is daar geen fan van?
-
-We dagen jullie uit om een lekkere mocktail of cocktail te maken, een foto te maken en door te sturen naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com) samen met het recept!
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/juni.pdf).
-
-## Favoriete plek in de zomer 🏡
-
-Elk neemt op haar eigen manier wat vakantie: enkele dagen niet werken, enkele uren genieten, kleine dingen, ..
-
-We dagen jullie uit om een foto door te sturen van jouw favoriete plekje.
-
-Dit kan op reis een zalig plekje zijn, maar net zo goed in eigen tuin, eigen dorp, eigen land, ...
-Het maakt niet uit: als jij je maar goed voelt op dat plekje!
-
-Je kan je foto doorsturen **tot 31/8/2021** naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/zomer.pdf).
-
-## Kook & Win 👩‍🍳
-
-Kies een recept naar keuze, maak het gerecht klaar en maak kans om te winnen!
-
-Je kan je een foto van je gerecht doorsturen **voor 30/9/2021** naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/september.pdf).
-
-## Sudoku in Oktober 🧩
-
-Breek je hersenen op de Sudoku en maak kans om te winnen!
-
-Je kan je een ingevulde Sudoku doorsturen naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/oktober.jpg).
-
-## Herfstfoto in November
-
-Haal je fotocamera boven, neem een herfstfoto en maak kans om te winnen!
-
-Je kan je een foto naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
-
-> Alle ingediende herfstfoto’s zullen begin december gepubliceerd worden op facebook.
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/november.pdf).
-
-## Kerstsfeer in December 🎄
-
-Kies een mooie kerst of nieuwjaars wens en maak kans om te winnen!
-
-Je kan je een quote door naar [fermchallengeveldegem@hotmail.com](mailto:fermchallengeveldegem@hotmail.com)!
-
-De winnaar van de December challenge en hoofdprijs worden in 2022 bekend gemaakt.
-
-Lees er meer over in de [challenge uitleg](/assets/media/challenges/december.pdf).
+Proficiat, Marlotte. Jij gaat dit goed doen!
