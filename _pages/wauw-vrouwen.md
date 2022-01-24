@@ -25,3 +25,5 @@ voorzitter: Marlotte!**
 We kunnen die beslissing als vrouwenvereniging enkel maar toejuichen.
 
 Proficiat, Marlotte. Jij gaat dit goed doen!
+
+![Marlotte Verhegge](./assets/media/../../../assets/media/wauw/marlotte.jpg)
