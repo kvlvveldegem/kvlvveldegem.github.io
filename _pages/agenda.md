@@ -23,8 +23,8 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 ### Februari 2022
 
 - Maandag 7 februari - [Eerste hulp bij baby's en kinderen](/assets/media/agenda/2022-02-ehbo.pdf)
-- Donderdag 24 februari - Flowerhoop met droog-bloemen (workshop)
-- Maandag 28 februari - Flowerhoop met droog-bloemen (workshop)
+- Donderdag 24 februari - [Flowerhoop met droog-bloemen (workshop)](/assets/media/agenda/2022-02-flowerhoop.pdf)
+- Maandag 28 februari - [Flowerhoop met droog-bloemen (workshop)](/assets/media/agenda/2022-02-flowerhoop.pdf)
 
 ### Maart 2022
 
