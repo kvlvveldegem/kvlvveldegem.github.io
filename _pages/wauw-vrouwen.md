@@ -11,6 +11,8 @@ Iedereen aan elkaar voorstellen, dat willen we graag, maar lukt echt niet.
 
 Maar elke maand er eentje voorstellen: dat kunnen we wel!
 
+- [Marlotte Verhegge is Wauw-Vrouw van Januari](#marlotte-verhegge-is-wauw-vrouw-van-januari)
+- [Lena Callens is Wauw-Vrouw van Februari](#lena-callens-is-wauw-vrouw-van-februari)
 - [Elise Migneau is Wauw-Vrouw van Maart](#elise-migneau-is-wauw-vrouw-van-maart)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
@@ -54,7 +56,7 @@ Proficiat, Lena & Marc, en geniet van de komende jaren samen!
 
 ![Lena Callens](./assets/media/../../../assets/media/wauw/lena-callens.png)
 
-# Elise Migneau is Wauw-Vrouw van Maart
+## Elise Migneau is Wauw-Vrouw van Maart
 
 Op radio 2 worden ze **'weldoeners'** genoemd. Mooie naam voor de talrijke vrijwilligers!
 Tal van onze dames geven het beste van zichzelf in ziekenhuizen, WZC’s, CAW’s, scholen, ouder- en schoolraden, sport- en cultuurverenigingen, ... en dat allemaal op vrijwillige basis en in de vrije tijd.
