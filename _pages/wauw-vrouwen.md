@@ -11,8 +11,7 @@ Iedereen aan elkaar voorstellen, dat willen we graag, maar lukt echt niet.
 
 Maar elke maand er eentje voorstellen: dat kunnen we wel!
 
-- [Marlotte Verhegge is Wauw-Vrouw van Januari](#marlotte-verhegge-is-wauw-vrouw-van-januari)
-- [Lena Callens is Wauw-Vrouw van Februari](#lena-callens-is-wauw-vrouw-van-februari)
+- [Elise Migneau is Wauw-Vrouw van Maart](#elise-migneau-is-wauw-vrouw-van-maart)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
 
@@ -54,3 +53,24 @@ Met hun 50-jarig huwelijk zijn ze een toonbeeld voor velen: in goede en kwade da
 Proficiat, Lena & Marc, en geniet van de komende jaren samen!
 
 ![Lena Callens](./assets/media/../../../assets/media/wauw/lena-callens.png)
+
+# Elise Migneau is Wauw-Vrouw van Maart
+
+Op radio 2 worden ze **'weldoeners'** genoemd. Mooie naam voor de talrijke vrijwilligers!
+Tal van onze dames geven het beste van zichzelf in ziekenhuizen, WZC’s, CAW’s, scholen, ouder- en schoolraden, sport- en cultuurverenigingen, ... en dat allemaal op vrijwillige basis en in de vrije tijd.
+
+Eéntje pikken we er uit: ontmoet de Wauw-vrouw van maart: **Elise Migneau**
+
+Samen met haar partner Jeroen en haar 2 sloebers woont Elise ongeveer 10 jaar in Veldegem.
+
+Ze is een sportief iemand die graag loopt en ook de koersfiets opstapt.
+
+Sinds een 4-tal jaar is ze lid van Ferm Veldegem. Begin dit jaar kregen we een positief antwoord op onze vraag
+om teamlid te worden.
+
+Dankjewel, Elise, voor je engagement!
+
+Fijn om jou in het team te mogen verwelkomen.
+Samen kleuren we de dagen van onze dames extra mooi.
+
+![Elise Migneau](./assets/media/../../../assets/media/wauw/elise-migneau.png)
