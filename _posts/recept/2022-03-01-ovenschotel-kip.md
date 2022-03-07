@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Ovengerecht met kip"
-date: 2021-03-01 12:00:00 +0000
+date: 2022-03-01 12:00:00 +0000
 published: true
 categories: ["Recepten"]
 tags: ["Recept"]
