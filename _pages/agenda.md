@@ -30,7 +30,7 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 
 - Zondag 6 maart - [Meet & Greet voor nieuwe Fermdames!](/assets/media/agenda/2022-03-meet-greet.pdf)
 - Dinsdag 8 maart - [Kookles Sushi](/assets/media/agenda/2022-03-sushi.pdf)
-- Woensdag 23 maart - Rust in je huis, ruimte in je hoofd (opruimcoach, Nele Colle)
+- Woensdag 23 maart - [Rust in je huis, ruimte in je hoofd (opruimcoach, Nele Colle)](/assets/media/agenda/2022-03-rust-in-huis.pdf)
 
 ### April 2022
 
