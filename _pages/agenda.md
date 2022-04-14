@@ -35,7 +35,7 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 ### April 2022
 
 - Donderdag 21 april - [Sandaaltjes maken (workshop)](/assets/media/agenda/2022-04-sandaaltjes-maken.pdf)
-- Dinsdag 24 april - Opfrissen van de wegcode
+- Dinsdag 24 april - [Opfrissen van de wegcode](/assets/media/agenda/2022-04-26-opfrissen-van-de-wegcode.pdf)
 
 ### Mei 2022
 
