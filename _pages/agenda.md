@@ -39,7 +39,7 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 
 ### Mei 2022
 
-- Woensdag 18 mei - City Golf Roeselare
+- Woensdag 18 mei - [City Golf Roeselare](/assets/media/agenda/2022-05-18-city-golf.pdf)
 
 ### Juni 2022
 
