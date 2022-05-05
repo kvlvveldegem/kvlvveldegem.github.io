@@ -15,6 +15,7 @@ Maar elke maand er eentje voorstellen: dat kunnen we wel!
 - [Lena Callens is Wauw-Vrouw van Februari](#lena-callens-is-wauw-vrouw-van-februari)
 - [Elise Mingneau is Wauw-Vrouw van Maart](#elise-mingneau-is-wauw-vrouw-van-maart)
 - [Felice Keereman is Wauw-Vrouw van April](#felice-keereman-is-wauw-vrouw-van-april)
+- [Marcella Cools is Wauw-Vrouw van Mei](#marcella-cools-is-wauw-vrouw-van-mei)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
 
@@ -89,4 +90,18 @@ Maar gelukkig koos ze toch om onthaal-lid te worden bij Ferm Veldegem. Ferm is h
 
 Welkom Felice in ons bruisende Veldegem, welkom in onze groep met enthousiaste dames. We ontvangen jou met open armen!
 
-![Elise Mingneau](./assets/media/../../../assets/media/wauw/felice-keereman.png)
+![Felice Keereman](./assets/media/../../../assets/media/wauw/felice-keereman.png)
+
+## Marcella Cools is Wauw-Vrouw van Mei
+
+Meimaand = Mariamaand. We hebben wel enkele Maria’s bij onze leden.  
+Maar we hebben ook iemand die jaar in jaar uit Maria verzorgt!
+
+Ontmoet de Wauw-vrouw van mei: **Marcella Cools**.
+
+Marcella woont, met haar man, in de Hollevoordestraat. Heel dicht bij het Mariakapelletje.
+
+Sinds jaar en dag neemt ze het onderhoud van dat kapelletje op zich. Het ligt er altijd spic & span bij.
+Dankjewel, Marcella, voor jouw engagement. Je maakt Veldegem een stukje mooier.
+
+![Marcella Cools](./assets/media/../../../assets/media/wauw/marcella-cools.png)
