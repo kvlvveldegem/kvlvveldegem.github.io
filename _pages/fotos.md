@@ -5,6 +5,16 @@ title: "Foto's"
 author_profile: true
 ---
 
+## 2022
+- [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299135683)
+- [Flowerhoop](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299135638)
+- [Meet & Greet voor nieuwe Fermdames!](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299135723)
+- [Kookles 'Aziatisch Wokken'](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299128860)
+- [Rust in je huis, ruimte in je hoofd (opruimcoach, Nele Colle)](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299135738)
+- [Sandaaltjes maken (workshop)](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299135718)
+- [Opfrissen van de wegcode](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299128880)
+- [City Golf Roeselare](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299128637)
+
 ## 2021
 - [Jinglejacht](https://www.flickr.com/photos/kvlvveldegem/albums/72157717906195727)
 - [Ladiebikers on the road](https://www.flickr.com/photos/kvlvveldegem/albums/72177720295645736)
