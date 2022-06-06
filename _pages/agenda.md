@@ -45,6 +45,7 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 
 - Zondag 12 juni - Cycling dinner
 - Donderdag 23 juni - Dag van de mantelzorg
+- Woensdag 29 juni - [Geocaching](/assets/media/agenda/2022-06-29-geocaching.pdf)
 
 ### Juli 2022
 
