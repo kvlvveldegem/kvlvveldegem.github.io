@@ -43,13 +43,12 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 
 ### Juni 2022
 
-- Zondag 12 juni - Cycling dinner
 - Donderdag 23 juni - Dag van de mantelzorg
 - Woensdag 29 juni - [Geocaching](/assets/media/agenda/2022-06-29-geocaching.pdf)
 
 ### Juli 2022
 
-- Woensdag 6 juli - Geocaching Lambio
+- Zondag 10 juli - [Cycling dinner](2022-07-10-cycling.pdf)
 
 ### Augustus 2022
 
