@@ -48,7 +48,7 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 
 ### Juli 2022
 
-- Zondag 10 juli - [Cycling dinner](2022-07-10-cycling.pdf)
+- Zondag 10 juli - [Cycling dinner](/assets/media/agenda/2022-07-10-cycling.pdf)
 
 ### Augustus 2022
 
