@@ -16,6 +16,7 @@ Maar elke maand er eentje voorstellen: dat kunnen we wel!
 - [Elise Mingneau is Wauw-Vrouw van Maart](#elise-mingneau-is-wauw-vrouw-van-maart)
 - [Felice Keereman is Wauw-Vrouw van April](#felice-keereman-is-wauw-vrouw-van-april)
 - [Marcella Cools is Wauw-Vrouw van Mei](#marcella-cools-is-wauw-vrouw-van-mei)
+- [Mieke Devriendt is Wauw-Vrouw van Juni](#mieke-devriendt-is-wauw-vrouw-van-juni)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
 
@@ -105,3 +106,20 @@ Sinds jaar en dag neemt ze het onderhoud van dat kapelletje op zich. Het ligt er
 Dankjewel, Marcella, voor jouw engagement. Je maakt Veldegem een stukje mooier.
 
 ![Marcella Cools](./assets/media/../../../assets/media/wauw/marcella-cools.png)
+
+## Mieke Devriendt is Wauw-Vrouw van Juni
+
+Ontmoet de Wauw-vrouw van mei: **Mieke Devriendt**.
+
+Mieke is geboren in juni.
+
+Ze is gehuwd en samen met haar man hebben ze twee zonen die al even het huis uit zijn. Maar ondertussen kwamen er kleinkinderen en werden ze moeke en vake van Kobe, Titus en Vic.
+
+Ze is mantelzorger en neemt ook graag nog even de tijd om een bezoekje te brengen aan vrienden die door gezondheidsredenen het wat moeilijker hebben. Ze heeft het hart zeker op de juiste plaats!
+
+Binnen Ferm is ze sinds 1990 actief als bestuurslid en één van de Ferm secretaressen. Dit doet ze na al die jaren nog steeds met hart en ziel. Ze heeft veel talenten, maar vooral haar ideeën en
+enthousiasme zijn binnen het team haar grootste troef.
+
+Bedankt voor je engagement Mieke, je maakt ons team tot een kleurrijk geheel!
+
+![Marcella Cools](./assets/media/../../../assets/media/wauw/mieke-devriendt.jpg)
