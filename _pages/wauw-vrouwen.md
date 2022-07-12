@@ -17,6 +17,7 @@ Maar elke maand er eentje voorstellen: dat kunnen we wel!
 - [Felice Keereman is Wauw-Vrouw van April](#felice-keereman-is-wauw-vrouw-van-april)
 - [Marcella Cools is Wauw-Vrouw van Mei](#marcella-cools-is-wauw-vrouw-van-mei)
 - [Mieke Devriendt is Wauw-Vrouw van Juni](#mieke-devriendt-is-wauw-vrouw-van-juni)
+- [Ann Bogaert is Wauw-Vrouw van Juli](#ann-bogaert-is-wauw-vrouw-van-juli)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
 
@@ -122,4 +123,24 @@ enthousiasme zijn binnen het team haar grootste troef.
 
 Bedankt voor je engagement Mieke, je maakt ons team tot een kleurrijk geheel!
 
-![Marcella Cools](./assets/media/../../../assets/media/wauw/mieke-devriendt.jpg)
+![Mieke Devriendt](./assets/media/../../../assets/media/wauw/mieke-devriendt.jpg)
+
+## Ann Bogaert is Wauw-Vrouw van Juli
+
+Ontmoet de Wauw-vrouw van mei: **Ann Bogaert**.
+
+Ann is onthaal-lid bij Ferm-Veldegem = een Ferm-nieuwtje dus.
+
+Ze woont nu wel in Veldegem, maar voordien woonde ze 12 jaar in Zweden, in de buurt van Göteberg, waar haar 2 kinderen werden geboren.
+
+Ze stampte er een Belgiska Pralinboden uit de grond - Een Belgisch pralinehuisje en tot op heden bestaat deze winkel verder.
+
+Haar hobby’s zijn haar kleinkind Emily, zwemmen en hoe kan het ook anders en reizen door de Scandinavische landen.
+
+Droom je er zelf van om ’s naar Scandinavië
+te reizen, dan kan Ann je zeker helpen met de nodige tips.
+
+Dankjewel, Ann, om voor Ferm te kiezen en om die mooie landen met prachtige natuur wat
+dichter bij ons te brengen.
+
+![Ann Bogaert](./assets/media/../../../assets/media/wauw/ann-bogaert.png)
