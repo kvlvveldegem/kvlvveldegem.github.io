@@ -18,6 +18,7 @@ Maar elke maand er eentje voorstellen: dat kunnen we wel!
 - [Marcella Cools is Wauw-Vrouw van Mei](#marcella-cools-is-wauw-vrouw-van-mei)
 - [Mieke Devriendt is Wauw-Vrouw van Juni](#mieke-devriendt-is-wauw-vrouw-van-juni)
 - [Ann Bogaert is Wauw-Vrouw van Juli](#ann-bogaert-is-wauw-vrouw-van-juli)
+- [Bea Bouillon is Wauw-Vrouw van Augustus](#bea-bouillon-is-wauw-vrouw-van-augustus)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
 
@@ -110,7 +111,7 @@ Dankjewel, Marcella, voor jouw engagement. Je maakt Veldegem een stukje mooier.
 
 ## Mieke Devriendt is Wauw-Vrouw van Juni
 
-Ontmoet de Wauw-vrouw van mei: **Mieke Devriendt**.
+Ontmoet de Wauw-vrouw van juni: **Mieke Devriendt**.
 
 Mieke is geboren in juni.
 
@@ -127,7 +128,7 @@ Bedankt voor je engagement Mieke, je maakt ons team tot een kleurrijk geheel!
 
 ## Ann Bogaert is Wauw-Vrouw van Juli
 
-Ontmoet de Wauw-vrouw van mei: **Ann Bogaert**.
+Ontmoet de Wauw-vrouw van juli: **Ann Bogaert**.
 
 Ann is onthaal-lid bij Ferm-Veldegem = een Ferm-nieuwtje dus.
 
@@ -144,3 +145,17 @@ Dankjewel, Ann, om voor Ferm te kiezen en om die mooie landen met prachtige natu
 dichter bij ons te brengen.
 
 ![Ann Bogaert](./assets/media/../../../assets/media/wauw/ann-bogaert.png)
+
+## Bea Bouillon is Wauw-Vrouw van Augustus
+
+Ontmoet de Wauw-vrouw van augustus: **Ann Bogaert**.
+
+Bea woont met haar man in de Kastanjedreef.
+
+Ze is een bezige bij en heeft geen ‘zittend gat’. Naast haar job, is Bea vrijwilliger en dit niet alleen als teamlid van Ferm maar ook al jaren als kampkokje bij Chiro Veldegem. Deze maand zelfs voor de 20’ste keer! 
+
+Tien dagen lang kookt ze een verse menu voor pakweg 150 gasten en leiding. Ze doet dit met hart en ziel. Haar koksteam noemt haar chef, al hoort ze dit zelf niet graag maar ze verdient deze titel zonder twijfel.
+
+Bea, dankjewel om zovele buikjes te vullen met verse gerechten, die met zoveel liefde werden gemaakt en gesmaakt.
+
+![Ann Bogaert](./assets/media/../../../assets/media/wauw/bea-bouillon.png)
