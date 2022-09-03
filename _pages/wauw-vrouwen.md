@@ -19,6 +19,7 @@ Maar elke maand er eentje voorstellen: dat kunnen we wel!
 - [Mieke Devriendt is Wauw-Vrouw van Juni](#mieke-devriendt-is-wauw-vrouw-van-juni)
 - [Ann Bogaert is Wauw-Vrouw van Juli](#ann-bogaert-is-wauw-vrouw-van-juli)
 - [Bea Bouillon is Wauw-Vrouw van Augustus](#bea-bouillon-is-wauw-vrouw-van-augustus)
+- [Maria Hindryckx is Wauw-Vrouw van September](#maria-hindryckx-is-wauw-vrouw-van-september)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
 
@@ -148,7 +149,7 @@ dichter bij ons te brengen.
 
 ## Bea Bouillon is Wauw-Vrouw van Augustus
 
-Ontmoet de Wauw-vrouw van augustus: **Ann Bogaert**.
+Ontmoet de Wauw-vrouw van augustus: **Bea Bouillon**.
 
 Bea woont met haar man in de Kastanjedreef.
 
@@ -158,4 +159,21 @@ Tien dagen lang kookt ze een verse menu voor pakweg 150 gasten en leiding. Ze do
 
 Bea, dankjewel om zovele buikjes te vullen met verse gerechten, die met zoveel liefde werden gemaakt en gesmaakt.
 
-![Ann Bogaert](./assets/media/../../../assets/media/wauw/bea-bouillon.png)
+![Bea Bouillon](./assets/media/../../../assets/media/wauw/bea-bouillon.png)
+
+## Maria Hindryckx is Wauw-Vrouw van September
+
+Ontmoet de Wauw-vrouw van augustus: **Maria Hindryckx**.
+
+Maria woont in de Veldegemsestraat en is niet alleen onze voormalige voorzitster, we mogen haar ook gerust aanzien als Madam Bakster avant la lettre.
+
+Op vergaderingen konden we vele keren genieten van haar bakkunsten. Haar zwaantjes zijn legendarisch! Nog van krokketandjes gehoord? Ook zo een lekkernij.
+
+Haar recepten werden gretig genoteerd, uitgeprobeerd en tot op vandaag nog steeds gebruikt. Zelf gaat ze nog steeds op zoek naar
+nieuwe recepten waar ze wekelijks mee aan de slag gaat. Het uitdelen van het resultaat aan familie of bezoek geeft haar enorme voldoening.
+
+Op 20/9 komt de legendarische Peter Balcaen een bakdemo geven. In ons diepste binnenste denken we dat hij misschien nog wat kan leren van Maria haar bakkunsten. Aan hem om het tegendeel te bewijzen.
+
+Maria, dankjewel voor al de zalig zoete momenten die je iedereen bezorgt!
+
+![Maria Hindryckx](./assets/media/../../../assets/media/wauw/maria-hindryckx.png)
