@@ -54,7 +54,8 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 ### September 2022
 
 - Zondag 4 september - Ontbijt
-- Dinsdag 20 september - Bakles met Peter Balcaen (NM)
+- Vrijdag 16 september - [Vuur & lichtspektakel](/assets/media/agenda/2022-09-vuurspektakel.pdf)!
+- Dinsdag 20 september -  [Bakles met Peter Balcaen (NM)](/assets/media/agenda/2022-09-bakles.pdf)!
 
 ### Oktober 2022
 
