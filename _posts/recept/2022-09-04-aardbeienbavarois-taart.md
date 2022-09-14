@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Aardbeienbavarois Taart"
-date: 2022-09-01 12:00:00 +0000
+date: 2022-09-04 12:00:00 +0000
 published: true
 categories: ["Recepten"]
 tags: ["Recept"]
