@@ -59,8 +59,10 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 
 ### Oktober 2022
 
-- Donderdag 13 oktober - Pottendraaien (workshop)
+- Donderdag 13 oktober - [Pottendraaien (workshop)](/assets/media/agenda/2022-10-13-pottenbakken.pdf)
+- Woensdag 19 oktober - [Pottendraaien (workshop)](/assets/media/agenda/2022-10-13-pottenbakken.pdf)
 - Maandag 24 oktober - Nieren zijn stille werkers
+- Donderdag 27 oktober - [Pottendraaien (workshop)](/assets/media/agenda/2022-10-13-pottenbakken.pdf)
 
 ### November 2022
 
