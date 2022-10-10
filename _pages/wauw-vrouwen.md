@@ -20,6 +20,7 @@ Maar elke maand er eentje voorstellen: dat kunnen we wel!
 - [Ann Bogaert is Wauw-Vrouw van Juli](#ann-bogaert-is-wauw-vrouw-van-juli)
 - [Bea Bouillon is Wauw-Vrouw van Augustus](#bea-bouillon-is-wauw-vrouw-van-augustus)
 - [Maria Hindryckx is Wauw-Vrouw van September](#maria-hindryckx-is-wauw-vrouw-van-september)
+- [Océane Knop is Wauw-Vrouw van Oktober](#océane-knop-is-wauw-vrouw-van-oktober)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
 
@@ -177,3 +178,21 @@ Op 20/9 komt de legendarische Peter Balcaen een bakdemo geven. In ons diepste bi
 Maria, dankjewel voor al de zalig zoete momenten die je iedereen bezorgt!
 
 ![Maria Hindryckx](./assets/media/../../../assets/media/wauw/maria-hindryckx.png)
+
+## Océane Knop is Wauw-Vrouw van Oktober
+
+Ontmoet de Wauw-vrouw van oktober: **Océane Knop**.
+
+Océane woont in Zedelgem en runt samen met haar ouders een winkel.
+Ze werd geboren op 20/08/1997 en is daarmee ons jongste lid!
+
+Wat trok haar aan om als jong meisje lid te worden?
+Het enthousiasme waarmee haar tante vertelt over Ferm, prikkelde haar interesse.
+
+Met de activiteiten van Ferm kan ze al heel wat dingen op haar to-do lijstje afvinken. De crea-activiteiten zijn echt haar ding. Samen op stap gaan of iets sportiefs uittesten: Océane is aanwezig.
+
+Dat het daarnaast ook soms een gezellig moeder-dochter momentje is, is aardig meegenomen.
+
+Océane, dankjewel voor jouw stap naar het verenigingsleven! Dat deze stap vele jonge mensen mag inspireren.
+
+![Maria Hindryckx](./assets/media/../../../assets/media/wauw/oceane-knop.png)
