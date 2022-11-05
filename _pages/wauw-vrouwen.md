@@ -21,6 +21,7 @@ Maar elke maand er eentje voorstellen: dat kunnen we wel!
 - [Bea Bouillon is Wauw-Vrouw van Augustus](#bea-bouillon-is-wauw-vrouw-van-augustus)
 - [Maria Hindryckx is Wauw-Vrouw van September](#maria-hindryckx-is-wauw-vrouw-van-september)
 - [Océane Knop is Wauw-Vrouw van Oktober](#océane-knop-is-wauw-vrouw-van-oktober)
+- [Sofie Vanslambrouck is Wauw-Vrouw van November](#sofie-vanslambrouck-is-wauw-vrouw-van-november)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
 
@@ -195,4 +196,20 @@ Dat het daarnaast ook soms een gezellig moeder-dochter momentje is, is aardig me
 
 Océane, dankjewel voor jouw stap naar het verenigingsleven! Dat deze stap vele jonge mensen mag inspireren.
 
-![Maria Hindryckx](./assets/media/../../../assets/media/wauw/oceane-knop.png)
+![Océane Knop](./assets/media/../../../assets/media/wauw/oceane-knop.png)
+
+## Sofie Vanslambrouck is Wauw-Vrouw van November
+
+Bij Ferm-Veldegem hebben we heel wat sportieve dames! Ze lopen, ze fietsen, ...
+
+Eéntje pikken we er uit, ontmoet de Wauw-vr ouw van november: **Sofie Vanslambrouck**.
+
+Ze woont met haar partner in Torhout. Haar roots trokken haar terug, om hier bij ons onthaallid te worden.
+
+Crea maar vooral sport is haar ding: wandelen, met de koersfiets op pad gaan en lopen.
+
+Onlangs liep Sofie een ganse marathon: 42 km in maar liefst 4u29minuten.
+
+Echt ferm! Proficiat met jouw prestatie, Sofie!
+
+![Sofie Vanslambrouck](./assets/media/../../../assets/media/wauw/sofie-vanslambrouck.png)
