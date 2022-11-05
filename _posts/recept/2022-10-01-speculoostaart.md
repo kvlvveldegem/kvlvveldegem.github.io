@@ -20,6 +20,7 @@ Voor dit gerecht heb je volgende ingrediënten nodig:
 
 # Bereidingswijze
 
+Voor de taart:
 1. De speculoos mixen in blender, de gemolten boter erbij doen en goed mengen maar hou 2 soeplepels overhouden voor de afwerking
 2. Neem een springvorm van 20 cm doorsnee en leg langs onder in de vorm boterpapier. Zorg dat het boterpapier mooi vlak licht.
 3. Doe het mengsel in de vorm en druk goed aan.
