@@ -65,8 +65,8 @@ Kookles werd geannuleerd maar het recept kan je [hier](/assets/media/agenda/fees
 
 ### November 2022
 
-- Donderdag 10 november - Instuif VIP-avond
-- Vrijdag 25 november - Great Escape
+- Donderdag 10 november - [Instuif VIP-avond](/assets/media/agenda/2022-11-10-instuif.pdf)
+- Vrijdag 25 november - [Great Escape](/assets/media/agenda/2022-11-25-escape.pdf)
 - Maandag 28 november - [Nieren zijn stille werkers](/assets/media/agenda/2022-11-28-nieren.pdf)
 
 ### December 2022
