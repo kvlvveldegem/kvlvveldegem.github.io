@@ -22,6 +22,7 @@ Maar elke maand er eentje voorstellen: dat kunnen we wel!
 - [Maria Hindryckx is Wauw-Vrouw van September](#maria-hindryckx-is-wauw-vrouw-van-september)
 - [Océane Knop is Wauw-Vrouw van Oktober](#océane-knop-is-wauw-vrouw-van-oktober)
 - [Sofie Vanslambrouck is Wauw-Vrouw van November](#sofie-vanslambrouck-is-wauw-vrouw-van-november)
+- [Zeli Lambrecht is Wauw-Vrouw van December](#zeli-lambrecht-is-wauw-vrouw-van-december)
 
 ## Marlotte Verhegge is Wauw-Vrouw van Januari
 
@@ -213,3 +214,19 @@ Onlangs liep Sofie een ganse marathon: 42 km in maar liefst 4u29minuten.
 Echt ferm! Proficiat met jouw prestatie, Sofie!
 
 ![Sofie Vanslambrouck](./assets/media/../../../assets/media/wauw/sofie-vanslambrouck.png)
+
+## Zeli Lambrecht is Wauw-Vrouw van December
+
+Ontmoet de laatste Wauw-Vrouw: **Zeli Lambrecht**.
+
+Zeli woont met haar partner in Aartrijke. Ze runt, samen met Ferm-dame Wendy, een eigen zaak in Veldegem.
+
+Zeli is zeer creatief. Ze steelt met haar ogen en kan daardoor in 1 oogwenk iets moois creëren.
+
+Met haar 25 jaar is ze het jongste teamlid! Preus lik fjirtig zijn we daarmee.
+
+Zeli zorgt ervoor dat alle leeftijdscategorieën aanwezig zijn in ons team. Een variatie in leeftijd zorgt voor een variatie in ideeën. Laat dit net de sterkte van onze groep zijn.
+
+Fier op Zeli!
+
+![Sofie Vanslambrouck](./assets/media/../../../assets/media/wauw/zeli-lambrecht.png)
