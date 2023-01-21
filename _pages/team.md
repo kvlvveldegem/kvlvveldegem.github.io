@@ -17,13 +17,12 @@ Allemaal vrijwilligers, allemaal gedreven enthousiaste vrouwen!
 
 Er woont zeker een teamlid in je buurt!
 
-- **Hilde Strubbe** - Voorzitster & Agraverantwoordelijke _(050/27.95.35)_
-- **Mieke Devriendt** - Secretaresse & Regiosecretaresse _(050/27.54.71)_
+- **Hilde Strubbe** - Voorzitster _(050/27.95.35)_
+- **Mieke Devriendt** - Secretaresse & Regiosecretaresse _(0473/51.36.19)_
 - **Kim Blomme** - Secretaresse _(0478/69.87.99)_
-- **Nancy Bolle** - Bestuurslid & Regiopenningmeester _(050/20.86.77)_
+- **Nancy Bolle** - Bestuurslid, Regiopenningmeester & Agraverantwoordelijke _(050/20.86.77)_
 - **Ingrid Devoogt** - Bestuurslid _(050/27.75.60)_
 - **Bea Bouillon** - Bestuurslid _(0474/28.12.20)_
-- **Lena Callens** - Bestuurslid _(050/27.98.82)_
 - **Clara Puype** - Bestuurslid _(050/27.79.93)_
 - **Jacqueline Willem** - Bestuurslid _(050/27.97.65)_
 - **Isabelle Debusschere** - Bestuurslid _(050/54.81.39)_
@@ -31,3 +30,5 @@ Er woont zeker een teamlid in je buurt!
 - **Nathalie Sioen** - Bestuurslid _(0473/94.97.10)_
 - **Zeli Lambrecht** - Bestuurslid _(0474/20.76.88)_
 - **Charlotte Verhegge** - Bestuurslid _(0497/52.09.24)_
+- **Elise Mingneau** - Bestuurslid _(0474/84.19.42)_
+- **Lena Callens** - Bestuurslid _(050/27.98.82)_
