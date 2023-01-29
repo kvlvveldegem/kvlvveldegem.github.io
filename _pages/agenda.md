@@ -13,8 +13,8 @@ author_profile: true
 
 ### Februari 2023
 
-- Zaterdag 4 februari - Appelbabbel
-- Dinsdag 28 februari - Sandra Bekkari: Nooit meer diëten
+- Zaterdag 4 februari - [Appelbabbel](/assets/media/agenda/2023-02-appelbabbel.pdf)
+- Dinsdag 28 februari - [Sandra Bekkari: Nooit meer diëten](/assets/media/agenda/2023-02-sandra-bekkari.jpg)
 
 ### Maart 2023
 
