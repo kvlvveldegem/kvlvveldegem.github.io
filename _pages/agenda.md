@@ -7,6 +7,14 @@ author_profile: true
 
 ## Agenda
 
+### Rode-Draad Spel - 70 jaar
+
+Ferm Veldegem is 70 jaar jong!
+
+We koppelen er graag een spel aan: "HET RODE-DRAAD-SPEL 70 JAAR!"
+
+Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [print de spaarkaart af](/assets/media/agenda/Rode-draad-spel-spaarkaart.pdf).
+
 ### Januari 2023
 
 - Woensdag 18 januari - [Jaaropener](/assets/media/agenda/2023-01-jaaropener.pdf)
