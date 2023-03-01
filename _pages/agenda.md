@@ -25,7 +25,7 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 ## Maart 2023
 
 - Donderdag 9 maart - [EHBO Fietsen](/assets/media/agenda/2023-03-09-fietsen.pdf)
-- Dinsdag 21 maart - Workshop: Relaxatie
+- Dinsdag 21 maart - [Workshop: Relaxatie](/assets/media/agenda/2023-03-21-relax.pdf)
 
 ## April 2023
 
