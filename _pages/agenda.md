@@ -29,7 +29,7 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 
 ## April 2023
 
-- Te bepalen - Bedrijfsbezoek Lambio
+- Zondag 16 april - [Bedrijfsbezoek Lambio](/assets/media/agenda/2023-04-bedrijfsbezoek.pdf)
 - Donderdag 20 april - [Kookles: Sushi & Japanse gerechten](/assets/media/agenda/2023-04-sushi.jpg)
 
 ## Mei 2023
