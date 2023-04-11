@@ -34,7 +34,7 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 
 ## Mei 2023
 
-- Woensdag 3 mei - Initiatie: Padel
+- Woensdag 3 mei - [Initiatie: Padel](/assets/media/agenda/2023-05-padel.jpg)
 - Zaterdag 13 mei - Wobbelturnen voor kids
 
 ## Juni 2023
