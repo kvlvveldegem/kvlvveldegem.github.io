@@ -40,7 +40,7 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 ## Juni 2023
 
 - Woensdag 7 juni - [Zomertafel](/assets/media/agenda/2023-06-zomertafel.pdf)
-- Dinsdag 20 juni - Diner sur Terre
+- Dinsdag/Donderdag 20, 22 of 29 juni - [Diner sur Terre](/assets/media/agenda/2023-06-diner.pdf)
 - Vrijdag 23 juni - Dag van de Mantelzorger
 
 ## Zomer 2023
