@@ -45,7 +45,7 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 
 ## Zomer 2023
 
-- Maandag 3 juli - Uitwaai-wandeling
+- Maandag 3 juli - [Uitwaai-wandeling](/assets/media/agenda/2023-07-03-uitzwaai.jpg)
 
 ## September 2023
 
