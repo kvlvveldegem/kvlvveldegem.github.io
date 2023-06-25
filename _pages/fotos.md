@@ -5,6 +5,17 @@ title: "Foto's"
 author_profile: true
 ---
 
+## 2023
+- [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309307855)
+- [Sandra Bekkari: Nooit meer diëten](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309307835)
+- [EHBO voor de fiets](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309307790)
+- [Initiatie: Padel](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309307820)
+- [Workshop: Relaxatie](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309318379)
+- [Bedrijfsbezoek Lambio](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309322208)
+- [Kookles: Sushi & Japanse gerechten](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309322223)
+- [Wobbelturnen voor kids](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309307910)
+- [Zomertafel 2023](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309322248)
+
 ## 2022
 - [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299135683)
 - [Flowerhoop](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299135638)
