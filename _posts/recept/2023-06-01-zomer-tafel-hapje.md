@@ -9,7 +9,7 @@ author: Tom Kerkhove
 ---
 
 # Ingrediënten
-Voor dit gerecht heb je volgende ingrediënten nodig voor <aantal> personen:
+Voor dit gerecht heb je volgende ingrediënten nodig:
 
 - Potje roomkaas philadelphia (Original of huismerk)
 - 150 gr fijne gerookte spekblokjes
