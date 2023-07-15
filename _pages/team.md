@@ -31,4 +31,3 @@ Er woont zeker een teamlid in je buurt!
 - **Zeli Lambrecht** - Bestuurslid _(0474/20.76.88)_
 - **Charlotte Verhegge** - Bestuurslid _(0497/52.09.24)_
 - **Elise Mingneau** - Bestuurslid _(0474/84.19.42)_
-- **Lena Callens** - Bestuurslid _(050/27.98.82)_
