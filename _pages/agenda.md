@@ -49,7 +49,7 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 
 ## September 2023
 
-- Zondag 3 september - Ontbijt
+- Zondag 3 september - [Ontbijt](/assets/media/agenda/2023-03-ontbijt.pdf)
 - Vrijdag 19 september - Bezoek aan Mérula wines
 
 ## Oktober 2023
