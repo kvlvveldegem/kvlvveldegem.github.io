@@ -55,7 +55,7 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 
 ## Oktober 2023
 
-- Donderdag 5 oktober - Workshop: Herstellen van kledij
+- Donderdag/Woensdag 5 of 18 oktober - [Workshop: Café Retouche](/assets/media/agenda/2023-10-retouche.pdf)
 - Maandag 9 oktober - Proeven van veugelpieken
 - Maandag 23 oktober - Cyber-criminaliteit
 
