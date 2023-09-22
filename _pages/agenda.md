@@ -56,7 +56,7 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 ## Oktober 2023
 
 - Donderdag/Woensdag 5 of 18 oktober - [Workshop: Café Retouche](/assets/media/agenda/2023-10-retouche.pdf)
-- Maandag 9 oktober - Proeven van veugelpieken
+- Maandag 9 oktober - [Proeven van veugelpieken](/assets/media/agenda/2023-10-09-pieken.pdf)
 - Maandag 23 oktober - Cyber-criminaliteit
 
 ## November 2023
