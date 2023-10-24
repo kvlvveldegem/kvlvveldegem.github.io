@@ -62,7 +62,7 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 ## November 2023
 
 - Donderdag 9 november - [Instuif VIP-avond](/assets/media/agenda/2023-11-vip.pdf)
-- Woensdag 15 november - Workshop: Kaarsen maken
+- Woensdag/Donderdag 15 of 16 november - [Workshop: Kaarsen maken](/assets/media/agenda/2023-11-kaarsen.jpg)
 
 ## December 2023
 
