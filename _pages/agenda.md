@@ -66,4 +66,4 @@ Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [prin
 
 ## December 2023
 
-- Dinsdag 12 december - Kookles: Feestelijke ovenschotels & stoofpotjes
+- Dinsdag 12 december - [Kookles: Feestelijke ovenschotels & stoofpotjes](/assets/media/agenda/2023-12-14-stoofpotje.pdf)
