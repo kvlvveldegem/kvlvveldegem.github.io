@@ -5,69 +5,54 @@ title: "Agenda"
 author_profile: true
 ---
 
-## Rode-Draad Spel - 70 jaar
-
-Ferm Veldegem is 70 jaar jong!
-
-We koppelen er graag een spel aan: "HET RODE-DRAAD-SPEL 70 JAAR!"
-
-Leer meer in [de uitleg](/assets/media/agenda/Rode-draad-spel-info.pdf) en [print de spaarkaart af](/assets/media/agenda/Rode-draad-spel-spaarkaart.pdf).
-
-## Januari 2023
-
-- Woensdag 18 januari - [Jaaropener](/assets/media/agenda/2023-01-jaaropener.pdf)
-
-## Februari 2023
-
-- Zaterdag 4 februari - [Appelbabbel](/assets/media/agenda/2023-02-appelbabbel.pdf)
-- Dinsdag 28 februari - [Sandra Bekkari: Nooit meer diëten](/assets/media/agenda/2023-02-sandra-bekkari.jpg)
-
-## Maart 2023
-
-- Donderdag 9 maart - [EHBO Fietsen](/assets/media/agenda/2023-03-09-fietsen.pdf)
-- Dinsdag 21 maart - [Workshop: Relaxatie](/assets/media/agenda/2023-03-21-relax.pdf)
-
-## April 2023
-
-- Zondag 16 april - [Bedrijfsbezoek Lambio](/assets/media/agenda/2023-04-bedrijfsbezoek.pdf)
-- Donderdag 20 april - [Kookles: Sushi & Japanse gerechten](/assets/media/agenda/2023-04-sushi.jpg)
-
-## Mei 2023
-
-- Woensdag 3 mei - [Initiatie: Padel](/assets/media/agenda/2023-05-padel.jpg)
-- Zaterdag 13 mei - [Wobbelturnen voor kids](/assets/media/agenda/2023-05-13-wobbel.pdf)
-
-## Juni 2023
-
-- Woensdag 7 juni - [Zomertafel](/assets/media/agenda/2023-06-zomertafel.pdf)
-- Dinsdag/Donderdag 20, 22 of 29 juni - [Diner sur Terre](/assets/media/agenda/2023-06-diner.pdf)
-- Vrijdag 23 juni - Dag van de Mantelzorger
-
-## Zomer 2023
-
-- Maandag 3 juli - [Uitwaai-wandeling](/assets/media/agenda/2023-07-03-uitzwaai.jpg)
-
-## September 2023
-
-- Zondag 3 september - [Ontbijt](/assets/media/agenda/2023-03-ontbijt.pdf)
-- Vrijdag 15 september - [Café Latino - Corneliusfeesten 2023](/assets/media/agenda/2023-09-15-cornelius.pdf)
-- Dinsdag 19 september - [Bezoek aan Mérula wines](/assets/media/agenda/2023-09-19-merula.pdf)
-
-## Oktober 2023
-
-- Donderdag/Woensdag 5 of 18 oktober - [Workshop: Café Retouche](/assets/media/agenda/2023-10-retouche.pdf)
-- Maandag 9 oktober - [Proeven van veugelpieken](/assets/media/agenda/2023-10-09-pieken.pdf)
-- Maandag 23 oktober - [Cyber-criminaliteit](/assets/media/agenda/2023-10-cyber.pdf)
-
-## November 2023
-
-- Donderdag 9 november - [Instuif VIP-avond](/assets/media/agenda/2023-11-vip.pdf)
-- Woensdag/Donderdag 15 of 16 november - [Workshop: Kaarsen maken](/assets/media/agenda/2023-11-kaarsen.jpg)
-
-## December 2023
-
-- Dinsdag 12 december - [Kookles: Feestelijke ovenschotels & stoofpotjes](/assets/media/agenda/2023-12-14-stoofpotje.pdf)
-
 ## Januari 2024
 
 - Dinsdag 23 januari - [Vrouweleute](/assets/media/agenda/2024-01-23-vrouweleute.pdf)
+
+## Februari 2024
+
+- Vrijdag 2 februari - Appelbabbel : maak een appeltje de tijd voor 
+mekaar
+- Vrijdag 9 februari - Tour d'Amour
+
+## Maart 2024
+
+- Dinsdag 26 maart - Bedrijfsbezoek Soria Bel (voormiddag)
+- Woensdag 27 maart - Bedrijfsbezoek Soria Bel (avond)
+
+## April 2024
+
+- Woensdag 10 april - De betere croques (kookdemo)
+- Vrijdag 26 tem 28 april - Genieten van & tussen de bloesems in Haspengouw
+
+## Mei 2024
+
+- Maandag 6 mei - Happy Ending, het vrouwelijk orgasme uitgelegd.
+- Maandag 27 mei - Moordmysterie Vloethemveld
+
+## Juni 2024
+
+- 3, 11, 19 of 27 juni - Wandelavond
+
+## Zomer 2024
+
+- Donderdag 4 juli - Fietstochtje met afsluitend bezoek boltra-Krinkelhof
+
+## September 2024
+
+- Zondag 1 september - Ontbijt
+- Woensdag 11 of Donderdag 12 september - Knip je eigen boeket in de pluktuin (workshop)
+
+## Oktober 2024
+
+- Woensdag 16 oktober - Initiatie badminton
+- Donderdag 10 oktober - Als het hart wat anders klopt
+
+## November 2024
+
+- Zondag 10 november - Heldenlicht: Veldegem Cultureel Ambassadeur 2024
+- Dinsdag 19 of Donderdag 28 november - Workshop aquarellen: 'Maak je eigen kerstkaartjes'
+
+## December 2024
+
+- Woensdag 11 december (voor/namiddag) - Zoete zonde (kookdemo)
