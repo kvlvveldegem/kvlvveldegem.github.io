@@ -17,7 +17,7 @@ mekaar
 
 ## Maart 2024
 
-- Dinsdag 26 maart - Bedrijfsbezoek Soria Bel (voormiddag)
+- Dinsdag 26 maart - Bedrijfsbezoek Soria Bel (namiddag)
 - Woensdag 27 maart - Bedrijfsbezoek Soria Bel (avond)
 
 ## April 2024
