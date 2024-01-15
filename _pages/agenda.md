@@ -13,7 +13,7 @@ author_profile: true
 
 - Vrijdag 2 tem Dinsdag 6 februari - Appelbabbel : maak een appeltje de tijd voor 
 mekaar
-- Vrijdag 9 februari - Tour d'Amour
+- Vrijdag 9 februari - [Tour d'Amour](/assets/media/agenda/2024-02-09-amour.png)
 
 ## Maart 2024
 
