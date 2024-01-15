@@ -15,6 +15,13 @@ author_profile: true
 - [Kookles: Sushi & Japanse gerechten](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309322223)
 - [Wobbelturnen voor kids](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309307910)
 - [Zomertafel 2023](https://www.flickr.com/photos/kvlvveldegem/albums/72177720309322248)
+- [Café Latino](https://www.flickr.com/photos/kvlvveldegem/albums/72177720313933564)
+- [Café Retouché](https://www.flickr.com/photos/kvlvveldegem/albums/72177720313918783)
+- [VIP 2023@2024](https://www.flickr.com/photos/kvlvveldegem/albums/72177720313903907)
+- [Workshop: "Kaarsen maken"](https://www.flickr.com/photos/kvlvveldegem/albums/72177720313933679)
+- [Wijndomein Mérula](https://www.flickr.com/photos/kvlvveldegem/albums/72177720313903827)
+- [Kookles Ovenschotels & Stoofpotjes](https://www.flickr.com/photos/kvlvveldegem/albums/72177720313918813)
+- [Initiatie Veugelpieken (darts)](https://www.flickr.com/photos/kvlvveldegem/albums/72177720313933604)
 
 ## 2022
 - [Jaaropener](https://www.flickr.com/photos/kvlvveldegem/albums/72177720299135683)
