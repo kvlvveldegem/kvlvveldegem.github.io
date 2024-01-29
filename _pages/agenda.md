@@ -11,8 +11,8 @@ author_profile: true
 
 ## Februari 2024
 
-- Vrijdag 2 tem Dinsdag 6 februari - Appelbabbel : maak een appeltje de tijd voor 
-mekaar
+- Vrijdag 2 tem Dinsdag 6 februari - [Appelbabbel : maak een appeltje de tijd voor 
+mekaar](/assets/media/agenda/2024-02-02-appelbabbel.pdf)
 - Vrijdag 9 februari - [Tour d'Amour](/assets/media/agenda/2024-02-09-amour.png)
 
 ## Maart 2024
