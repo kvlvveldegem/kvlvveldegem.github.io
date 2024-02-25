@@ -11,14 +11,14 @@ author_profile: true
 
 ## Februari 2024
 
-- Vrijdag 2 tem Dinsdag 6 februari - [Appelbabbel : maak een appeltje de tijd voor 
-mekaar](/assets/media/agenda/2024-02-02-appelbabbel.pdf)
+- Vrijdag 2 tem Dinsdag 6 februari - [Appelbabbel : maak een appeltje de tijd voor mekaar](/assets/media/agenda/2024-02-02-appelbabbel.pdf)
 - Vrijdag 9 februari - [Tour d'Amour](/assets/media/agenda/2024-02-09-amour.png)
 
 ## Maart 2024
 
-- Dinsdag 26 maart - Bedrijfsbezoek Soria Bel (namiddag)
-- Woensdag 27 maart - Bedrijfsbezoek Soria Bel (avond)
+- Maandag 25 maart - [Bedrijfsbezoek: Soria Bel (avond)](/assets/media/agenda/2024-03-25-Bedrijfsbezoek-SoriaBel.pdf)
+- Dinsdag 26 maart - [Bedrijfsbezoek: Soria Bel (namiddag)](/assets/media/agenda/2024-03-25-Bedrijfsbezoek-SoriaBel.pdf)
+- Woensdag 27 maart - [Bedrijfsbezoek: Soria Bel (avond)](/assets/media/agenda/2024-03-25-Bedrijfsbezoek-SoriaBel.pdf)
 
 ## April 2024
 
