@@ -24,6 +24,7 @@ author_profile: true
 
 - Woensdag 10 april - [De betere croques (kookdemo)](/assets/media/agenda/2024-04-10-croques-over-the-top.pdf)
 - Donderdag 11 april - [De betere croques (kookdemo)](/assets/media/agenda/2024-04-10-croques-over-the-top.pdf)
+- Maandag 22 april - [Cybersecurity](/assets/media/agenda/2024-04-22-cybersecurity.png)
 - Vrijdag 26 tem 28 april - Genieten van & tussen de bloesems in Haspengouw
 
 ## Mei 2024
