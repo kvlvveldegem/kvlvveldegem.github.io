@@ -29,7 +29,7 @@ author_profile: true
 
 ## Mei 2024
 
-- Maandag 6 mei - Happy Ending, het vrouwelijk orgasme uitgelegd.
+- Maandag 6 mei - [Happy Ending, het vrouwelijk orgasme uitgelegd.](/assets/media/agenda/2024-05-06-happy.pdf)
 - Maandag 27 mei - Moordmysterie Vloethemveld
 
 ## Juni 2024
