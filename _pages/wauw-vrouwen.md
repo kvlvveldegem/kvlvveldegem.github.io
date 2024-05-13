@@ -14,7 +14,6 @@ Maar elke maand er eentje voorstellen: dat kunnen we wel!
 - [Marlotte Verhegge is Wauw-Vrouw van Januari](#marlotte-verhegge-is-wauw-vrouw-van-januari)
 - [Lena Callens is Wauw-Vrouw van Februari](#lena-callens-is-wauw-vrouw-van-februari)
 - [Elise Mingneau is Wauw-Vrouw van Maart](#elise-mingneau-is-wauw-vrouw-van-maart)
-- [Felice Keereman is Wauw-Vrouw van April](#felice-keereman-is-wauw-vrouw-van-april)
 - [Marcella Cools is Wauw-Vrouw van Mei](#marcella-cools-is-wauw-vrouw-van-mei)
 - [Mieke Devriendt is Wauw-Vrouw van Juni](#mieke-devriendt-is-wauw-vrouw-van-juni)
 - [Ann Bogaert is Wauw-Vrouw van Juli](#ann-bogaert-is-wauw-vrouw-van-juli)
@@ -85,19 +84,6 @@ Fijn om jou in het team te mogen verwelkomen.
 Samen kleuren we de dagen van onze dames extra mooi.
 
 ![Elise Mingneau](./assets/media/../../../assets/media/wauw/elise-migneau.png)
-
-## Felice Keereman is Wauw-Vrouw van April
-
-Felice Keereman is een geboren Moerbruggenaar. Ze woont sinds maart ’19 in de Bosserijstraat te Veldegem.  
-Dit samen met haar man en sinds ongeveer 6 maanden, met hun zoontje.
-
-Felice werkt als ergo-therapeute in een woonzorgcentrum. Momenteel staan haar hobby’s wat op een laag pitje door de combinatie van gezin met werk.
-
-Maar gelukkig koos ze toch om onthaal-lid te worden bij Ferm Veldegem. Ferm is haar niet vreemd want zowel haar mama als tante zijn vertrouwd met de werking in andere gemeentes. Felice wil graag het dorp en de inwoners beter leren kennen.
-
-Welkom Felice in ons bruisende Veldegem, welkom in onze groep met enthousiaste dames. We ontvangen jou met open armen!
-
-![Felice Keereman](./assets/media/../../../assets/media/wauw/felice-keereman.png)
 
 ## Marcella Cools is Wauw-Vrouw van Mei
 
