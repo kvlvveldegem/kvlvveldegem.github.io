@@ -34,7 +34,7 @@ author_profile: true
 
 ## Juni 2024
 
-- 3, 11, 19 of 27 juni - Wandelavond
+- 3, 11, 19 of 27 juni - [Wandelavond](/assets/media/agenda/2024-06-03-wandelmaand.pdf)
 
 ## Zomer 2024
 
