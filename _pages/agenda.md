@@ -38,7 +38,7 @@ author_profile: true
 
 ## Zomer 2024
 
-- Donderdag 4 juli - Fietstochtje met afsluitend bezoek boltra-Krinkelhof
+- Woensdag 3 of Donderdag 4 juli - [Fietstochtje met afsluitend bezoek boltra-Krinkelhof](/assets/media/agenda/2024-07-03-boltra.png)
 
 ## September 2024
 
