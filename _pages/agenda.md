@@ -42,7 +42,7 @@ author_profile: true
 
 ## September 2024
 
-- Zondag 1 september - Ontbijt
+- Zondag 1 september - [Ontbijt](/assets/media/agenda/2024-09-ontbijt.pdf)
 - Woensdag 11 of Donderdag 12 september - Knip je eigen boeket in de pluktuin (workshop)
 - Dinsdag 24 september - [Artificial Intelligence (AI)](/assets/media/agenda/2024-09-24-AI.png)
 
