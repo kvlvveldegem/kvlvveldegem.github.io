@@ -44,7 +44,7 @@ author_profile: true
 
 - Zondag 1 september - [Ontbijt](/assets/media/agenda/2024-09-ontbijt.pdf)
 - Woensdag 4, Maandag 9 of Donderdag 12 september - [Knip je eigen boeket in de pluktuin in Pluktuin Landgoed Lisbona (workshop)](/assets/media/agenda/2024-09-04-pluktuin.pdf)
-- Dinsdag 24 september - [Artificial Intelligence (AI)](/assets/media/agenda/2024-09-24-AI.png)
+- Dinsdag 24 september - [Artificial Intelligence (AI)](/assets/media/agenda/2024-09-24-AI.jpg)
 
 ## Oktober 2024
 
