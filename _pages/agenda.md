@@ -48,7 +48,7 @@ author_profile: true
 
 ## Oktober 2024
 
-- Woensdag 16 oktober - Initiatie badminton
+- Woensdag 16, Zondag 20 oktober - [Initiatie badminton](/assets/media/agenda/2024-10-16-badminton.pdf)
 - Donderdag 10 oktober - [Als het hart wat anders klopt](/assets/media/agenda/2024-10-10-hart.pdf)
 
 ## November 2024
