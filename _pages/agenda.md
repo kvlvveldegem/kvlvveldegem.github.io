@@ -54,6 +54,7 @@ author_profile: true
 ## November 2024
 
 - Zondag 10 november - Heldenlicht: Veldegem Cultureel Ambassadeur 2024
+- Woensdag 13 november - [VIP Avond](/assets/media/agenda/2024-11-13-VIP.pdf)
 - Dinsdag 19 of Donderdag 28 november - Workshop aquarellen: 'Maak je eigen kerstkaartjes'
 
 ## December 2024
