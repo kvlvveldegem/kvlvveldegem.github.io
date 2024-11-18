@@ -59,4 +59,4 @@ author_profile: true
 
 ## December 2024
 
-- Woensdag 11 december (voor/namiddag) - Zoete zonde (kookdemo)
+- Woensdag 11 december (namiddag/avond) of Donderdag 12 december (avond) - [Zoete zonde (kookdemo)](/assets/media/agenda/2024-12-kookdemo.pdf)
