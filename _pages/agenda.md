@@ -5,58 +5,59 @@ title: "Agenda"
 author_profile: true
 ---
 
-## Januari 2024
+## Januari 2025
 
-- Dinsdag 23 januari - [Vrouweleute](/assets/media/agenda/2024-01-23-vrouweleute.pdf)
+- Dinsdag 22 januari - [Bubbels & Babbels](/assets/media/agenda/2025-01-22-bubbels.pdf)
 
-## Februari 2024
+## Februari 2025
 
-- Vrijdag 2 tem Dinsdag 6 februari - [Appelbabbel : maak een appeltje de tijd voor mekaar](/assets/media/agenda/2024-02-02-appelbabbel.pdf)
-- Vrijdag 9 februari - [Tour d'Amour](/assets/media/agenda/2024-02-09-amour.png)
+- Dinsdag 4 februari - Zon & huid, vriend of vijand
+- Donderdag 6 tot en met 13 februari - Appelbabel
 
-## Maart 2024
+## Maart 2025
 
-- Maandag 25 maart - [Bedrijfsbezoek: Soria Bel (avond)](/assets/media/agenda/2024-03-25-Bedrijfsbezoek-SoriaBel.pdf)
-- Dinsdag 26 maart - [Bedrijfsbezoek: Soria Bel (namiddag)](/assets/media/agenda/2024-03-25-Bedrijfsbezoek-SoriaBel.pdf)
-- Woensdag 27 maart - [Bedrijfsbezoek: Soria Bel (avond)](/assets/media/agenda/2024-03-25-Bedrijfsbezoek-SoriaBel.pdf)
+- Dinsdag 11 maart (voormiddag) - Bedrijfsbezoek en lunch in Ter Groene Poorte Brugge
+- Donderdag 13 maart - Piv Huvluv (stand-up comedian)
+- Zaterdag 15 maart (voormiddag) - Ouder-kind yoga
 
-## April 2024
+## April 2025
 
-- Woensdag 10 april - [De betere croques (kookdemo)](/assets/media/agenda/2024-04-10-croques-over-the-top.pdf)
-- Donderdag 11 april - [De betere croques (kookdemo)](/assets/media/agenda/2024-04-10-croques-over-the-top.pdf)
-- Maandag 22 april - [Cybersecurity](/assets/media/agenda/2024-04-22-cybersecurity.png)
-- Vrijdag 26 tem 28 april - Genieten van & tussen de bloesems in Haspengouw
+- Woensdag 2 april - Kookles: artisanale kroketjes maken
+- Donderdag 24 april - Crea: juweeltjes in klei
+- Dinsdag 29 april - Crea: juweeltjes in klei
 
-## Mei 2024
+## Mei 2025
 
-- Maandag 6 mei - [Happy Ending, het vrouwelijk orgasme uitgelegd.](/assets/media/agenda/2024-05-06-happy.pdf)
-- 27 of 30 mei - [Moordmysterie Vloethemveld](/assets/media/agenda/2024-05-27-mysterie.jpg)
+- Maandag 19 mei - Sport: initiatie TRX
+- Donderdag 22 mei - Sport: initiatie TRX
 
-## Juni 2024
+## Juni 2025
 
-- 3, 11, 19 of 27 juni - [Wandelavond](/assets/media/agenda/2024-06-03-wandelmaand.pdf)
+- Woensdag 4 juni - Retro biketours in Brugge
+- Maandag 23 juni - Dag van de mantelzorger
 
-## Zomer 2024
+## Zomer 2025
 
-- Woensdag 3 of Donderdag 4 juli - [Fietstochtje met afsluitend bezoek boltra-Krinkelhof](/assets/media/agenda/2024-07-03-boltra.png)
+- Juli - Soirée Congé (Datum nog te bepalen)
 
-## September 2024
+## September 2025
 
-- Zondag 1 september - [Ontbijt](/assets/media/agenda/2024-09-ontbijt.pdf)
-- Woensdag 4, Maandag 9 of Donderdag 12 september - [Knip je eigen boeket in de pluktuin in Pluktuin Landgoed Lisbona (workshop)](/assets/media/agenda/2024-09-04-pluktuin.pdf)
-- Dinsdag 24 september - [Artificial Intelligence (AI)](/assets/media/agenda/2024-09-24-AI.jpg)
+- Zondag 7 september (voormiddag) - Ontbijt
+- Donderdag 11 september - Initiatie paaldansen
+- Dinsdag 16 september (namiddag) - Bedrijfsbezoek Marie Méro
+- Woensdag 24 september - Vrouwen, hormonen en humeuren
 
-## Oktober 2024
+## Oktober 2025
 
-- Woensdag 16, Zondag 20 oktober - [Initiatie badminton](/assets/media/agenda/2024-10-16-badminton.pdf)
-- Donderdag 10 oktober - [Als het hart wat anders klopt](/assets/media/agenda/2024-10-10-hart.pdf)
+- Donderdag 9 oktober - Chez Mariette: vegan bakles
+- Maandag 20 oktober - Crea: pyrografie
+- Donderdag 23 oktober - Crea: pyrografie
 
-## November 2024
+## November 2025
 
-- Zondag 10 november - [Heldenlicht: Veldegem Cultureel Ambassadeur 2024](/assets/media/agenda/2024-11-10-heldenlicht.jpg)
-- Woensdag 13 november - [VIP Avond](/assets/media/agenda/2024-11-13-VIP.pdf)
-- Donderdag 14, Dinsdag 19 of Donderdag 28 november - [Workshop aquarellen: 'Maak je eigen kerstkaartjes'](/assets/media/agenda/2024-11-aquarellen.pdf)
+- Maandag 17 november - Initiatie zelfverdediging
 
-## December 2024
+## December 2025
 
-- Woensdag 11 december (namiddag/avond) of Donderdag 12 december (avond) - [Zoete zonde (kookdemo)](/assets/media/agenda/2024-12-kookdemo.pdf)
+- Woensdag 17 december - Kookles: Feestmenu
+- Donderdag 18 december (namiddag & avond) - Kookles: Feestmenu
