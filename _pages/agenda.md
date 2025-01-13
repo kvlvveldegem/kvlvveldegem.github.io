@@ -7,7 +7,7 @@ author_profile: true
 
 ## Januari 2025
 
-- Dinsdag 22 januari - [Bubbels & Babbels](/assets/media/agenda/2025-01-22-bubbels.pdf)
+- Woensdag 22 januari - [Bubbels & Babbels](/assets/media/agenda/2025-01-22-bubbels.pdf)
 
 ## Februari 2025
 
