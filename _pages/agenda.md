@@ -11,7 +11,7 @@ author_profile: true
 
 ## Februari 2025
 
-- Dinsdag 4 februari - Zon & huid, vriend of vijand
+- Dinsdag 4 februari - [Zon & huid, vriend of vijand](/assets/media/agenda/2025-02-04-huid.pdf)
 - Donderdag 6 tot en met 13 februari - Appelbabel
 
 ## Maart 2025
