@@ -17,7 +17,7 @@ author_profile: true
 ## Maart 2025
 
 - Dinsdag 11 maart (voormiddag) - [Bedrijfsbezoek en lunch in Ter Groene Poorte Brugge](/assets/media/agenda/2025-03-11-groene-poort.pdf)
-- Donderdag 13 maart - Piv Huvluv (stand-up comedian)
+- Donderdag 13 maart - [Piv Huvluv (stand-up comedian)](/assets/media/agenda/2025-03-13-piv-huvluv.pdf)
 - Zaterdag 15 maart (voormiddag) - Ouder-kind yoga
 
 ## April 2025
