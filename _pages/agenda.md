@@ -38,7 +38,7 @@ author_profile: true
 
 ## Zomer 2025
 
-- Juli - Soirée Congé (Datum nog te bepalen)
+- Woensdag 9 Juli - [Soirée Congé](/assets/media/agenda/2025-06-09-soirée-congé.pdf)
 
 ## September 2025
 
