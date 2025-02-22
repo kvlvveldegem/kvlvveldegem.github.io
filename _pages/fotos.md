@@ -5,6 +5,11 @@ title: "Foto's"
 author_profile: true
 ---
 
+## 2025
+
+- [Bubbels & Babbels](https://www.flickr.com/photos/kvlvveldegem/albums/72177720323988570)
+- [Zon & huid vriend of vijand](https://www.flickr.com/photos/kvlvveldegem/albums/72177720323988570)
+
 ## 2024
 
 - [Meet & Greet](https://www.flickr.com/photos/kvlvveldegem/albums/72177720321317776)
@@ -22,6 +27,11 @@ author_profile: true
 - [Ontbijt](https://www.flickr.com/photos/kvlvveldegem/albums/72177720321338669)
 - [Knip je eigen boeket in de pluktuin in Pluktuin Landgoed Lisbona](https://www.flickr.com/photos/kvlvveldegem/albums/72177720321319705)
 - [Artificial Intelligence (AI)](https://www.flickr.com/photos/kvlvveldegem/albums/72177720321319610)
+- [VIP 2024@2025](https://www.flickr.com/photos/kvlvveldegem/albums/72177720324006473)
+- [Initiatie badminton](https://www.flickr.com/photos/kvlvveldegem/albums/72177720323992851)
+- [Zoete Zonde](https://www.flickr.com/photos/kvlvveldegem/albums/72177720324006423)
+- [Aquarel, maak je eigen kerstkaartjes](https://www.flickr.com/photos/kvlvveldegem/albums/72177720323992881)
+- [Als het hart wat anders klopt](https://www.flickr.com/photos/kvlvveldegem/albums/72177720324012094)
 
 ## 2023
 
