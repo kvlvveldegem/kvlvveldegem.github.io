@@ -19,10 +19,12 @@ author_profile: true
 - Dinsdag 11 maart (voormiddag) - [Bedrijfsbezoek en lunch in Ter Groene Poorte Brugge](/assets/media/agenda/2025-03-11-groene-poort.pdf)
 - Donderdag 13 maart - [Piv Huvluv (stand-up comedian)](/assets/media/agenda/2025-03-13-piv-huvluv.pdf)
 - Zaterdag 15 maart (voormiddag) - [Ouder-kind yoga](/assets/media/agenda/2025-03-15-kinderyoga.pdf)
+- Dinsdag 25 maart - [Kookles: artisanale kroketjes maken](/assets/media/agenda/2025-04-01-kroketjes.pdf)
 
 ## April 2025
 
-- Woensdag 2 april - Kookles: artisanale kroketjes maken
+- Donderdag 1 april - [Kookles: artisanale kroketjes maken](/assets/media/agenda/2025-04-01-kroketjes.pdf)
+- Woensdag 2 april - [Kookles: artisanale kroketjes maken](/assets/media/agenda/2025-04-01-kroketjes.pdf)
 - Donderdag 24 april - Crea: juweeltjes in klei
 - Dinsdag 29 april - Crea: juweeltjes in klei
 
