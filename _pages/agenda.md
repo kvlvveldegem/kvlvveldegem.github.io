@@ -25,11 +25,14 @@ author_profile: true
 
 - Donderdag 1 april - [Kookles: artisanale kroketjes maken](/assets/media/agenda/2025-04-01-kroketjes.pdf)
 - Woensdag 2 april - [Kookles: artisanale kroketjes maken](/assets/media/agenda/2025-04-01-kroketjes.pdf)
-- Donderdag 24 april - Crea: juweeltjes in klei
-- Dinsdag 29 april - Crea: juweeltjes in klei
+- Dinsdag 22 april - [Crea: juweeltjes in klei](/assets/media/agenda/2025-04-22-oorbellen.pdf)
+- Donderdag 24 april - [Crea: juweeltjes in klei](/assets/media/agenda/2025-04-22-oorbellen.pdf)
+- Dinsdag 29 april - [Crea: juweeltjes in klei](/assets/media/agenda/2025-04-22-oorbellen.pdf)
 
 ## Mei 2025
 
+- Maandag 5 mei - [Crea: juweeltjes in klei](/assets/media/agenda/2025-04-22-oorbellen.pdf)
+- Donderdag 8 mei - [Crea: juweeltjes in klei](/assets/media/agenda/2025-04-22-oorbellen.pdf)
 - Maandag 19 mei - Sport: initiatie TRX
 - Donderdag 22 mei - Sport: initiatie TRX
 
