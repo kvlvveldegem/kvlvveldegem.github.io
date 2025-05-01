@@ -33,12 +33,13 @@ author_profile: true
 
 - Maandag 5 mei - [Crea: juweeltjes in klei](/assets/media/agenda/2025-04-22-oorbellen.pdf)
 - Donderdag 8 mei - [Crea: juweeltjes in klei](/assets/media/agenda/2025-04-22-oorbellen.pdf)
-- Maandag 19 mei - Sport: initiatie TRX
-- Donderdag 22 mei - Sport: initiatie TRX
+- Maandag 19 mei - [Sport: initiatie TRX](/assets/media/agenda/2025-05-19-TRX.pdf)
+- Donderdag 22 mei - [Sport: initiatie TRX](/assets/media/agenda/2025-05-19-TRX.pdf)
 
 ## Juni 2025
 
 - Woensdag 4 juni - Retro biketours in Brugge
+- Donderdag 5 juni - [Sport: initiatie TRX](/assets/media/agenda/2025-05-19-TRX.pdf)
 - Maandag 23 juni - Dag van de mantelzorger
 
 ## Zomer 2025
