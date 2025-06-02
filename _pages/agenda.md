@@ -38,9 +38,9 @@ author_profile: true
 
 ## Juni 2025
 
-- Woensdag 4 juni - Retro biketours in Brugge
+- Woensdag 4 juni - [Retro biketours in Brugge](/assets/media/agenda/2025-06-04-retro-bike.pdf)
 - Donderdag 5 juni - [Sport: initiatie TRX](/assets/media/agenda/2025-05-19-TRX.pdf)
-- Maandag 23 juni - Dag van de mantelzorger
+- Maandag 23 juni - [Dag van de mantelzorger](/assets/media/agenda/2025-06-23-mantelzorger.pdf)
 
 ## Zomer 2025
 
