@@ -27,7 +27,7 @@ Er woont zeker een teamlid in je buurt!
 - **Jacqueline Willem** - Bestuurslid _(050/27.97.65)_
 - **Isabelle Debusschere** - Bestuurslid _(050/54.81.39)_
 - **Cecile Vanhollebeke** - Bestuurslid _(050/27.80.82)_
-- **Nathalie Sioen** - Bestuurslid _(0473/94.97.10)_
+- **Nathalie Sioen** - Bestuurslid _(0487/99.14.88)_
 - **Zeli Lambrecht** - Bestuurslid _(0474/20.76.88)_
 - **Charlotte Verhegge** - Bestuurslid _(0497/52.09.24)_
 - **Elise Mingneau** - Bestuurslid _(0474/84.19.42)_
