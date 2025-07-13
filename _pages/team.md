@@ -20,8 +20,8 @@ Er woont zeker een teamlid in je buurt!
 - **Hilde Strubbe** - Voorzitster _(050/27.95.35)_
 - **Mieke Devriendt** - Secretaresse & Regiosecretaresse _(0473/51.36.19)_
 - **Kim Blomme** - Secretaresse _(0478/69.87.99)_
-- **Nancy Bolle** - Bestuurslid, Regiopenningmeester & Agraverantwoordelijke _(050/20.86.77)_
-- **Ingrid Devoogt** - Bestuurslid _(050/27.75.60)_
+- **Nancy Bolle** - Bestuurslid, Regiopenningmeester & Agraverantwoordelijke _(0496/89.30.20)_
+- **Ingrid Devoogt** - Bestuurslid _(0474/83.52.96)_
 - **Bea Bouillon** - Bestuurslid _(0474/28.12.20)_
 - **Clara Puype** - Bestuurslid _(050/27.79.93)_
 - **Jacqueline Willem** - Bestuurslid _(050/27.97.65)_
@@ -31,3 +31,5 @@ Er woont zeker een teamlid in je buurt!
 - **Zeli Lambrecht** - Bestuurslid _(0474/20.76.88)_
 - **Charlotte Verhegge** - Bestuurslid _(0497/52.09.24)_
 - **Elise Mingneau** - Bestuurslid _(0474/84.19.42)_
+- **Lindsay Cools** - Bestuurslid _(0479/52.54.06)_
+- **Anne-Sophie Verhaeghe** - Bestuurslid _(0472/53.44.40)_
