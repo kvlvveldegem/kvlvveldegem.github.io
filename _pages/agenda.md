@@ -48,7 +48,7 @@ author_profile: true
 
 ## September 2025
 
-- Zondag 7 september (voormiddag) - Ontbijt
+- Zondag 7 september (voormiddag) - [Ontbijt](/assets/media/agenda/2025-09-07-ontbijt.pdf)
 - Donderdag 11 september - Initiatie paaldansen
 - Dinsdag 16 september (namiddag) - Bedrijfsbezoek Marie Méro
 - Woensdag 24 september - Vrouwen, hormonen en humeuren
