@@ -51,7 +51,7 @@ author_profile: true
 - Zondag 7 september (voormiddag) - [Ontbijt](/assets/media/agenda/2025-09-07-ontbijt.pdf)
 - Donderdag 11 september - [Initiatie paaldansen](/assets/media/agenda/2025-09-11-paaldansen.png)
 - Dinsdag 16 september (namiddag) - [Bedrijfsbezoek Marie Méro](/assets/media/agenda/2025-09-16-marie-mero.pdf)
-- Woensdag 24 september - Vrouwen, hormonen en humeuren
+- Woensdag 24 september - [Vrouwen, hormonen en humeuren](/assets/media/agenda/2025-09-24-hormonen.pdf)
 
 ## Oktober 2025
 
