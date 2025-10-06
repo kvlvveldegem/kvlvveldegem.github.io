@@ -55,7 +55,8 @@ author_profile: true
 
 ## Oktober 2025
 
-- Donderdag 9 oktober - Chez Mariette: vegan bakles
+- Donderdag 9 oktober - [Chez Mariette: vegan bakles](/assets/media/agenda/2025-10-09-bakdemo.pdf)
+- Woensdag 15 oktober - [Chez Mariette: vegan bakles](/assets/media/agenda/2025-10-09-bakdemo.pdf)
 - Maandag 20 oktober - [Crea: pyrografie](/assets/media/agenda/2025-10-pyrografie.pdf)
 - Woensdag 22 oktober - [Crea: pyrografie](/assets/media/agenda/2025-10-pyrografie.pdf)
 - Donderdag 23 oktober - [Crea: pyrografie](/assets/media/agenda/2025-10-pyrografie.pdf)
