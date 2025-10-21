@@ -63,6 +63,7 @@ author_profile: true
 
 ## November 2025
 
+- Woensdag 12 november - [VIP Avond](/assets/media/agenda/2025-11-12-vip.pdf)
 - Maandag 17 november - Initiatie zelfverdediging
 
 ## December 2025
