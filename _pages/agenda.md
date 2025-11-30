@@ -69,5 +69,5 @@ author_profile: true
 
 ## December 2025
 
-- Woensdag 17 december - Kookles: Feestmenu
-- Donderdag 18 december (namiddag & avond) - Kookles: Feestmenu
+- Woensdag 17 december - [Kookles: Feestmenu](/assets/media/agenda/2025-12-17-feestmenu.pdf)
+- Donderdag 18 december (namiddag & avond) - [Kookles: Feestmenu](/assets/media/agenda/2025-12-17-feestmenu.pdf)
