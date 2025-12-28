@@ -22,7 +22,7 @@ Stuur een e-mail naar **[fermveldegem@gmail.com](mailto:fermveldegem@gmail.com)*
 ## Nieuw bij Ferm?
 Nog nooit lid geweest van Ferm?
 
-Voor €15 kan u 1 werkjaar proeven van het ruim aanbod!
+Voor €27 kan u 1 werkjaar proeven van het ruim aanbod!
 
 ## Kan je niet wachten?!
 Kan je niet wachten?! Wij raden u de volgende links aan :

@@ -11,6 +11,6 @@ Met een daadkrachtige visie op maatschappelijke thema’s. Met een breed aanbod 
 
 We zijn steeds dichtbij: op het platteland, in je buurt - waar je ook bent.
 
-We tellen momenteel ongeveer **200 leden**. Een team van **14 dames** zorgt voor een zeer gevarieerd programma en voor elk wat wils.
+We tellen momenteel ongeveer **250 leden**. Een team van **15 dames** zorgt voor een zeer gevarieerd programma en voor elk wat wils.
 
 Onze activiteiten staan open voor leden en hun gezinsleden.

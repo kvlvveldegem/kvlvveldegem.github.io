@@ -23,7 +23,6 @@ Er woont zeker een teamlid in je buurt!
 - **Nancy Bolle** - Bestuurslid, Regiopenningmeester & Agraverantwoordelijke _(0496/89.30.20)_
 - **Ingrid Devoogt** - Bestuurslid _(0474/83.52.96)_
 - **Bea Bouillon** - Bestuurslid _(0474/28.12.20)_
-- **Clara Puype** - Bestuurslid _(050/27.79.93)_
 - **Jacqueline Willem** - Bestuurslid _(0478/55.14.49)_
 - **Isabelle Debusschere** - Bestuurslid _(0473/85.68.53)_
 - **Cecile Vanhollebeke** - Bestuurslid _(0498/41.79.83)_
