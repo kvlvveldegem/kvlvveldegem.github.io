@@ -7,8 +7,24 @@ author_profile: true
 
 ## 2025
 
+- [Retro Biketours Brugge](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331265099)
+- [Artisanale kroketjes](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331229250)
+- [Bakles 'Chez Mariette'](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331254693)
+- [Bedrijfsbezoek & lunch Ter Groene Poorte](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331254728)
+- [Crea "Handgemaakte oorbellen in klei"](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331237842)
+- [Bedrijfsbezoek Marie Méro](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331229300)
+- [Dankjewelmoment "Mantelzorgers"](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331237872)
+- [Kookles "Feestmenu"](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331237877)
+- [Pyrografie](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331264739)
+- [Paaldansen](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331229390)
+- [Ontbijt](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331264694)
+- [VIP Avond](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331238002)
+- [Soirée Congé](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331254888)
+- [TRX](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331264784)
+- [Vrouwen "Hormonen & Humeuren"](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331239271)
+- [Zelfverdediging](https://www.flickr.com/photos/kvlvveldegem/albums/72177720331239281)
 - [Bubbels & Babbels](https://www.flickr.com/photos/kvlvveldegem/albums/72177720323988570)
-- [Zon & huid vriend of vijand](https://www.flickr.com/photos/kvlvveldegem/albums/72177720323988570)
+- [Zon & huid vriend of vijand](https://www.flickr.com/photos/kvlvveldegem/albums/72177720323990382)
 
 ## 2024
 
