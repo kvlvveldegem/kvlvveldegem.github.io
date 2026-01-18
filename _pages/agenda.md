@@ -11,7 +11,7 @@ author_profile: true
 
 ## Februari 2026
 
-- Donderdag 5 februari - **Meet & greet:** Ontmoetingsavond exclusief voor nieuwe dames van werkjaar 2025 & 2026
+- Donderdag 5 februari - [**Meet & greet:** Ontmoetingsavond exclusief voor nieuwe dames van werkjaar 2025 & 2026](/assets/media/agenda/2026-02-05-Ontmoetingsavond.pdf)
 - Vrijdag 6 tem. 12 februari - Appelbabbel
 - Maandag 9 februari - **Workshop:** DIY Lichaamsverzorging Maak je eigen scrub, ...
 - Donderdag 12 februari - **Workshop:** DIY Lichaamsverzorging Maak je eigen scrub, ...
