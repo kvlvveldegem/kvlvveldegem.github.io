@@ -16,7 +16,7 @@ author_profile: true
 - Maandag 9 februari - [**Workshop:** DIY Lichaamsverzorging Maak je eigen scrub, ...](/assets/media/agenda/2026-02-09-lichaamsverzorging.png)
 - Donderdag 12 februari - [**Workshop:** DIY Lichaamsverzorging Maak je eigen scrub, ...](/assets/media/agenda/2026-02-09-lichaamsverzorging.png)
 - Dinsdag 17 februari - [**Workshop:** DIY Lichaamsverzorging Maak je eigen scrub, ...](/assets/media/agenda/2026-02-09-lichaamsverzorging.png)
-- Woensdag 25 februari - **Swissjump:** minitrampoline workout
+- Woensdag 25 februari - [**Swissjump:** minitrampoline workout](/assets/media/agenda/2026-02-25-swiss-jump.pdf)
 
 ## Maart 2026
 
