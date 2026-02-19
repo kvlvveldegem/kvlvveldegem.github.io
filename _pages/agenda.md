@@ -20,7 +20,7 @@ author_profile: true
 
 ## Maart 2026
 
-- Woensdag 11 maart - **Info-avond:** 'Zorg voor je voeten, ze  dragen je door het leven.'
+- Woensdag 11 maart - [**Info-avond:** 'Zorg voor je voeten, ze  dragen je door het leven.'](/assets/media/agenda/2026-03-11-voeten.pdf)
 - Maandag 30 maart - 007: als een echte Bond-girl … (leren schieten)
 
 ## April 2026
