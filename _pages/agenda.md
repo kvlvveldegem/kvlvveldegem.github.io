@@ -21,11 +21,11 @@ author_profile: true
 ## Maart 2026
 
 - Woensdag 11 maart - [**Info-avond:** 'Zorg voor je voeten, ze  dragen je door het leven.'](/assets/media/agenda/2026-03-11-voeten.pdf)
-- Maandag 30 maart - 007: als een echte Bond-girl … (leren schieten)
+- Maandag 30 maart - [007: als een echte Bond-girl … (leren schieten)](/assets/media/agenda/2026-03-30-schieten.pdf)
 
 ## April 2026
 
-- Dinsdag 1 april - 007: als een echte Bond-girl … (leren schieten)
+- Dinsdag 1 april - [007: als een echte Bond-girl … (leren schieten)](/assets/media/agenda/2026-03-30-schieten.pdf)
 - Maandag 20 april - **Workshop:** Pizza bakken
 - Dinsdag 21 april - **Workshop:** Pizza bakken
 - Woensdag 22 april - **Workshop:** Pizza bakken
