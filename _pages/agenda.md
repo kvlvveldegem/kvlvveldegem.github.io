@@ -26,9 +26,10 @@ author_profile: true
 ## April 2026
 
 - Dinsdag 1 april - [007: als een echte Bond-girl … (leren schieten)](/assets/media/agenda/2026-03-30-schieten.pdf)
-- Maandag 20 april - **Workshop:** Pizza bakken
-- Dinsdag 21 april - **Workshop:** Pizza bakken
-- Woensdag 22 april - **Workshop:** Pizza bakken
+- Maandag 12 april - [**Workshop:** Pizza bakken](/assets/media/agenda/2026-04-13-pizza-maken.pdf)
+- Maandag 20 april - [**Workshop:** Pizza bakken](/assets/media/agenda/2026-04-13-pizza-maken.pdf)
+- Dinsdag 21 april - [**Workshop:** Pizza bakken](/assets/media/agenda/2026-04-13-pizza-maken.pdf)
+- Woensdag 22 april - [**Workshop:** Pizza bakken](/assets/media/agenda/2026-04-13-pizza-maken.pdf)
 
 ## Mei 2026
 
