@@ -34,9 +34,9 @@ author_profile: true
 ## Mei 2026
 
 - Dinsdag 5 mei - [**Stijladvies:** iedere vrouw verdient een stijl die bij haar past.](/assets/media/agenda/2026-05-05-styling.jpg)
-- Dinsdag 19 mei - [**Crea:** Creatief met bloemen](/assets/media/agenda/2026-05-19-creatief-met-bloemen.jpg)
-- Woensdag 20 mei - [**Crea:** Creatief met bloemen](/assets/media/agenda/2026-05-19-creatief-met-bloemen.jpg)
-- Donderdag 21 mei - [**Crea:** Creatief met bloemen](/assets/media/agenda/2026-05-19-creatief-met-bloemen.jpg)
+- Dinsdag 19 mei - [**Crea:** Creatief met bloemen](/assets/media/agenda/2026-05-19-Creatief-met-bloemen.jpg)
+- Woensdag 20 mei - [**Crea:** Creatief met bloemen](/assets/media/agenda/2026-05-19-Creatief-met-bloemen.jpg)
+- Donderdag 21 mei - [**Crea:** Creatief met bloemen](/assets/media/agenda/2026-05-19-Creatief-met-bloemen.jpg)
 
 ## Juni 2026
 
