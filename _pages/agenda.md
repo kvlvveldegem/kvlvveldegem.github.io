@@ -40,7 +40,7 @@ author_profile: true
 
 ## Juni 2026
 
-- Donderdag 11 juni - Trappen, toeren en koekeloeren (Go cart) 
+- Donderdag 11 juni - [Trappen, toeren en koekeloeren (Go cart)](/assets/media/agenda/2026-06-11-Go-car-tour.pdf)
 - Dinsdag 23 juni - Dag van de mantelzorger
 
 ## Zomer 2026
