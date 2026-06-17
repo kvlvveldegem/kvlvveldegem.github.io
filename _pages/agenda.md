@@ -45,7 +45,7 @@ author_profile: true
 
 ## Zomer 2026
 
-- Woensdag 8 Juli - **Ferm Goes Fit & Fun:** Sportevenement
+- Woensdag 8 Juli - [**Ferm Goes Fit & Fun:** Sportevenement](/assets/media/agenda/2026-07-08-fit-fun.pdf)
 
 ## September 2026
 
