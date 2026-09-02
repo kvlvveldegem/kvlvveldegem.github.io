@@ -50,7 +50,7 @@ author_profile: true
 ## September 2026
 
 - Zondag 6 september (voormiddag) - [Ontbijt](/assets/media/agenda/2026-09-06-ontbijt.pdf)
-- Dinsdag 22 september - **Kookles:** Koken, de wereld rond. (kijkles)
+- Dinsdag 22 september - [**Kookles:** Koken, de wereld rond. (kijkles)](/assets/media/agenda/2026-09-22-koken-wereld-rond.pdf)
 
 ## Oktober 2026
 
