@@ -59,10 +59,12 @@ author_profile: true
 
 ## November 2026
 
+- Maandag 9 november - [**VIP Avond**](/assets/media/agenda/2026-vip-en-kerst.pdf)
 - Dinsdag 17 + 24 november - **Crea:** Mozaïek-workshop (workshop over 2 avonden)
 
 ## December 2026
 
+- Zondag 20 december - [**Kersthappening** (ism KNA, avond)](/assets/media/agenda/2026-vip-en-kerst.pdf)
 - Woensdag 9 december - **Kookles:** Feestelijke hapjes (kijkles)
 - Donderdag 10 december - **Kookles:** Feestelijke hapjes (kijkles)
 - Maandag 14 december - **Kookles:** Feestelijke hapjes (kijkles)
