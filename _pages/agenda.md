@@ -54,7 +54,7 @@ author_profile: true
 
 ## Oktober 2026
 
-- Donderdag 15 oktober - **Info-avond:** Beroerte, meer dan een  hersenstoornis & Parkinson, jonger  dan je denkt.
+- Donderdag 15 oktober - [**Info-avond:** Beroerte, meer dan een  hersenstoornis & Parkinson, jonger  dan je denkt.](/assets/media/agenda/2026-10-15-beroerte.pdf)
 - Dinsdag 27 oktober - Moorddiner
 
 ## November 2026
