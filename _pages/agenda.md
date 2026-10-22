@@ -60,7 +60,7 @@ author_profile: true
 ## November 2026
 
 - Maandag 9 november - [**VIP Avond**](/assets/media/agenda/2026-11-09-vip.pdf)
-- Dinsdag 17 + 24 november - **Crea:** Mozaïek-workshop (workshop over 2 avonden)
+- Dinsdag 17 + 24 november - [**Crea:** Mozaïek-workshop (workshop over 2 avonden)](/assets/media/agenda/2026-11-17-mozaiek.pdf)
 
 ## December 2026
 
