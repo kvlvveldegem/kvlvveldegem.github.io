@@ -61,6 +61,7 @@ author_profile: true
 
 - Maandag 9 november - [**VIP Avond**](/assets/media/agenda/2026-11-09-vip.pdf)
 - Dinsdag 17 + 24 november - [**Crea:** Mozaïek-workshop (workshop over 2 avonden)](/assets/media/agenda/2026-11-17-mozaiek.pdf)
+- Vrijdag 27 november - [**Reisverslag:** Op weg naar Mongolië](/assets/media/agenda/2026-11-27-mongolië.pdf)
 
 ## December 2026
 
